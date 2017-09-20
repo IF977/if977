@@ -1,3 +1,5 @@
+| Home | Disciplina | Courseware | Apoio | Programação em Par | Projeto | Syllabus | Material | Equipes | Avaliações | Exercícios Escolares|
+
 # IF977 - Engenharia de Software
 
 Repositório da disciplina de Engenharia de Software voltada ao curso de Sistemas de Informação.
