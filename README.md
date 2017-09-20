@@ -2,6 +2,8 @@
 
 Repositório da disciplina de Engenharia de Software voltada ao curso de Sistemas de Informação.
 
+![IF977](/if977_logo_icon.png)
+
 ## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
 ### Instrutores
