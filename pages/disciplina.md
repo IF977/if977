@@ -1,3 +1,5 @@
+| [Home](/README.md) | [Disciplina](/pages/disciplina.md) | Courseware | Apoio | Programação em Par | Projeto | Syllabus | Material | Equipes | Avaliações | Exercícios Escolares|
+
 # Disciplina
 
 Esta é a página da disciplina de Engenharia de Software, voltada ao curso de [Bacharelado em Sistemas de Informação](http://www2.cin.ufpe.br/site/secao.php?s=2&c=26), do [Centro de Informática (CIn)](http://wwww.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](http://www.ufpe.br). Esta "versão" da disciplina foi inspirada na experiência profissional do [professor](http://www.vinicius3w.com) e nas lições aprendidas com as [versões anteriores da disciplina](https://sites.google.com/a/cin.ufpe.br/if682/sistemas-de-informacao), sugestões e relatos da disciplina "[CS169 - Software Engineering](http://www.saasbook.info/)" da [UC Berkeley](http://www.berkeley.edu/).
