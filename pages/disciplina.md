@@ -1,4 +1,4 @@
-| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | Courseware | Apoio | Programação em Par | Projeto | Syllabus | Material | Equipes | Avaliações | Exercícios Escolares|
+| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | Apoio | Programação em Par | Projeto | Syllabus | Material | Equipes | Avaliações | Exercícios Escolares|
 
 # Disciplina
 
