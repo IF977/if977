@@ -1,4 +1,4 @@
-| [Home](/README.md) | [Disciplina](/pages/disciplina) | Courseware | Apoio | Programação em Par | Projeto | Syllabus | Material | Equipes | Avaliações | Exercícios Escolares|
+| [Home](/README.md) | [Disciplina](/pages/disciplina.md) | Courseware | Apoio | Programação em Par | Projeto | Syllabus | Material | Equipes | Avaliações | Exercícios Escolares|
 
 # IF977 - Engenharia de Software
 
