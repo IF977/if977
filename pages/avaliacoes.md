@@ -2,4 +2,4 @@
 
 # Avaliações
 
-Para ter acesso ao resultado das avaliações de [**2017.2**] utilize este [**link**](https://docs.google.com/spreadsheets/d/10uS0y79ghaL8v9V3neCZPtIrrMkJyWSCLHk5XYQnzKM/edit?usp=sharing).
+Para ter acesso ao resultado das avaliações de **2017.2** utilize este [**link**](https://docs.google.com/spreadsheets/d/10uS0y79ghaL8v9V3neCZPtIrrMkJyWSCLHk5XYQnzKM/edit?usp=sharing).
