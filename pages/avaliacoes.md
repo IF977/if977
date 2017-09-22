@@ -2,4 +2,4 @@
 
 # Avaliações
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUCeT_Tm4xpG8wNXna6yvhguYNOCWwdlbb9yog45YTMkVmS3jA-APj8DDCYlhpbZkusCag2069oRCW/pubhtml?widget=true&amp;headers=false"></iframe>
+Para ter acesso ao resultado das avaliações utilize este [**link**](https://docs.google.com/spreadsheets/d/1Dy_57Kv4vVXJggajq660SpPEDlhYEx3x-4ezjkch2RY/edit?usp=sharing).
