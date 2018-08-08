@@ -1,4 +1,4 @@
-| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Notas](/pages/avaliacoes.md) | [Avaliações](/pages/exerciciosescolares.md) |
+| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Avaliações](/pages/avaliacoes.md) | [Exercícios Escolares](/pages/exerciciosescolares.md) |
 
 # Programação em Par
 
@@ -8,7 +8,7 @@ Para participar de uma sessão de programação em par, primeiramente você deve
 
 **<https://plus.google.com/communities/114492627529561799115/events>**
 
-Se você não encontrar algum evento interessante neste momento para você então crie um que se adeque seguindo os passos abaixo. 
+Se você não encontrar algum evento interessante neste momento para você então crie um que se adeque seguindo os passos abaixo.
 
 **Nota**: *há uma diferença fundamental entre um "Hangout" e um "Hangout on Air" - apenas o último pode ser transmitido e gravado, e criando um hangout através de outros meios que não sejam os especificados abaixo, vai te levar a um hangout não-gravável. Todas as sessões de pares (ou individuais) devem ser registradas e definidas como não listadas (unlisted), para upload como uma evidência do trabalho sobre as atribuições e tarefas*.
 
@@ -24,7 +24,7 @@ Que deve abrir uma janela como esta
 
 3. Preencha uma descrição, como *"Esperando para trabalhar desde o início"* ou *"eu terminei as partes 1 e 2 e quero me concentrar na parte 3"*.
 
-4. Defina a hora de início clicando no *Starts Later* e escolha o tempo que você estará livre para emparelhar. Certifique-se de excluir o cenário verde *'Public'* e adicione a comunidade *'IF977 Engenharia de Software'* no campo Audiência. 
+4. Defina a hora de início clicando no *Starts Later* e escolha o tempo que você estará livre para emparelhar. Certifique-se de excluir o cenário verde *'Public'* e adicione a comunidade *'IF977 Engenharia de Software'* no campo Audiência.
 
 **Nota**: você precisa ter entrado na comunidade **IF977 Engenharia de Software do Google+** primeiro. Uma vez feito isso, a sua janela de diálogo deve ser parecida com essa:
 

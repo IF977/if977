@@ -1,4 +1,4 @@
-| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Notas](/pages/avaliacoes.md) | [Avaliações](/pages/exerciciosescolares.md) |
+| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Avaliações](/pages/avaliacoes.md) | [Exercícios Escolares](/pages/exerciciosescolares.md) |
 
 # Disciplina
 
@@ -64,7 +64,7 @@ Além dos monitores, temos também uma equipe de consultores, que estão dispon�
 ## Bibliografia principal  (mas não limitada a)
 
 - Armando Fox and David Patterson. **[Engineering Software as a Service: An Agile Approach Using Cloud Computing](http://saasbook.info/)**. Strawberry Canyon LLC, 2013. **First Edition by Armando Fox and David Patterson. Be sure you get the First Edition, version 1.1.0 or later, released July 2014**. Earlier editions are missing various chapters, have different chapter numbering, and contain errors that have been corrected. Errata can be found (and reported) at <http://beta.saasbook.info/errata>.
-- Fabio Kon (IME-USP) e Daniel Cordeiro (EACH-USP). **[Construindo Software como Serviço: Uma Abordagem Ágil Usando Computação em Nuvem](http://br.saasbook.info/)**. Versão traduzida da primeira Edição. 
+- Fabio Kon (IME-USP) e Daniel Cordeiro (EACH-USP). **[Construindo Software como Serviço: Uma Abordagem Ágil Usando Computação em Nuvem](http://br.saasbook.info/)**. Versão traduzida da primeira Edição.
 
 IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SWEBOK)**, 2004 edition. Disponível [online](http://www.computer.org/portal/web/swebok).
 

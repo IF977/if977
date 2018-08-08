@@ -1,4 +1,4 @@
-| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Notas](/pages/avaliacoes.md) | [Avaliações](/pages/exerciciosescolares.md) |
+| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Avaliações](/pages/avaliacoes.md) | [Exercícios Escolares](/pages/exerciciosescolares.md) |
 
 # Projeto
 
@@ -38,7 +38,7 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 - Deadline 1 - **21/08** - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time
 - Deadline 2 - **28/08** - Times e temas definidos
-- Deadline 3 - **28/08** - Prazo final para confirmar time, cliente; agenda reuniões/calls; 
+- Deadline 3 - **28/08** - Prazo final para confirmar time, cliente; agenda reuniões/calls;
 
 **Iteration 0**
 
@@ -91,10 +91,10 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 Você vai apresentar um resumo, de **2 minutos**, do problema do seu cliente (ou seu) e como seu aplicativo pretende resolvê-lo. O resultado final é uma única apresentação contendo **TODOS** os trabalhos/problemas do semestre. Vamos criar um documento do Google Presentations em que cada equipe vai colocar um slide com base nesses exemplos. Sugestão de organização da apresentação final do projeto:
 
-1. o que estava planejado para o projeto (por membro do time); 
-2. o que foi feito; 
-3. o que não foi feito e por quê não foi feito; 
-4. lições aprendidas (por cada membro do time); 
+1. o que estava planejado para o projeto (por membro do time);
+2. o que foi feito;
+3. o que não foi feito e por quê não foi feito;
+4. lições aprendidas (por cada membro do time);
 5. críticas e sugestões.
 
 ## Considerações de propriedade intelectual do projeto

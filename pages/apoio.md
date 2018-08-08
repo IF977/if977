@@ -1,4 +1,4 @@
-| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Notas](/pages/avaliacoes.md) | [Avaliações](/pages/exerciciosescolares.md) |
+| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Programação em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Equipes](/pages/equipes.md) | [Avaliações](/pages/avaliacoes.md) | [Exercícios Escolares](/pages/exerciciosescolares.md) |
 
 # Apoio
 
@@ -20,7 +20,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 ## Free screencasts
 
 - [Railscasts](http://railscasts.com/): focuses on Rails-specific development issues
-- [RailsLab](http://railslab.newrelic.com/): focuses on Rails-specific operations/dev-ops issues 
+- [RailsLab](http://railslab.newrelic.com/): focuses on Rails-specific operations/dev-ops issues
 - [BDDcasts](http://bddcasts.com/) specializes in BDD & Cucumber [TeachMeToCode](http://teachmetocode.com/)
 
 ## Warm up
