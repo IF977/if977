@@ -2,4 +2,4 @@
 
 # Avaliações
 
-Para ter acesso ao resultado das avaliações de **2018.2** utilize este <a href="https://docs.google.com/spreadsheets/d/1N4QS3f_SS_4zAykN94q82MaT5_oVkSh948Rub-fahf4/edit?usp=sharing" target="_blank">example</a>**link**</a>.
+Para ter acesso ao resultado das avaliações de **2018.2** utilize este <a href="https://docs.google.com/spreadsheets/d/1N4QS3f_SS_4zAykN94q82MaT5_oVkSh948Rub-fahf4/edit?usp=sharing" target="_blank">**link**</a>.
