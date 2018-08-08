@@ -50,7 +50,7 @@ Link a aplicação no Heroku:
 
 Monitor:
 
-## (7) Nome do Projeto: Drive-Infringements/Recife
+## (7) Nome do Projeto:
 
 Link do repositório:
 
