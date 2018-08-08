@@ -2,7 +2,7 @@
 
 # Projeto
 
-Os alunos deverão desenvolver um projeto em equipes de no máximo seis componentes. As avaliações serão compartilhados entre todos os membros (ou seja, o projeto recebe uma nota, não cada aluno em separado), e vamos exigir informações específicas sobre o papel de cada membro da equipe. A intenção é que as equipes desenvolvam, preferencialmente, projetos voltados para beneficiar a sociedade, de alguma forma, seja para organização vinculadas ao campus da UFPE ou organizações sem fins lucrativos para construir uma solução voltada para Internet das Coisas (ou, do inglês, IoT - Internet of Things). Para entender mais sobre o que é IoT recomendo a leitura do artigo:
+Os alunos deverão desenvolver um projeto em equipes de no máximo seis componentes. As avaliações serão compartilhados entre todos os membros (ou seja, o projeto recebe uma nota, não cada aluno em separado), e vamos exigir informações específicas sobre o papel de cada membro da equipe. A intenção é que as equipes desenvolvam, preferencialmente, projetos voltados para beneficiar a sociedade, de alguma forma, seja para organização vinculadas ao campus da UFPE ou organizações sem fins lucrativos para construir uma solução voltada para melhorar a qualidade devida dos cidadãos ou explorar um nicho de mercado como, por exemplo, no contexto da Internet das Coisas (ou, do inglês, IoT - Internet of Things). Para entender mais sobre o que é IoT recomendo a leitura do artigo:
 
 - Eleonora Borgia, [**The Internet of Things vision: Key features, applications and open issues**](http://www.sciencedirect.com/science/article/pii/S0140366414003168), Computer Communications, Volume 54, 1 December 2014, Pages 1-31, ISSN 0140-3664, <http://dx.doi.org/10.1016/j.comcom.2014.09.008>.
 
@@ -10,16 +10,16 @@ Maiores informações sobre projetos passados podem ser acessadas neste link: <h
 
 Esta [**excelente publicação**](https://miter.mit.edu/the-unexotic-underclass/) resume por quê foi escolhido estimular, preferencialmente, o trabalho com organizações sem fins lucrativos.
 
-Mas professor, eu tenho um projeto que pode ser um bom ajuste para o curso!
+> "Mas professor, eu tenho um projeto que pode ser um bom ajuste para o curso!"
 
 1. Verifique a FAQ para ter certeza que atende aos nossos critérios (sobre no que devemos ser firmes, para manter o curso em funcionamento)
 1. Se assim for, entre em contato com o professor responsável se apresentando como um candidato a cliente!
 
-## Que tipos de projetos são aceitáveis?
+## Que tipos de projetos são aceitáveis
 
 Os requisitos a seguir são os únicos inegociáveis para um projeto ser elegível para a disciplina:
 
-1. Deve endereçar a resolução de um problema "computacionável".
+1. Deve endereçar a resolução de um problema "_computacionável_".
 1. A maior parte do projeto/implementação deve ser um aplicativo do lado do servidor (SaaS), que será escrito em Rails. O front end pode ser navegador/HTML5, aplicativo móvel, ou o que quer que seja, mas as avaliações irão se concentrar e recompensar os esforços no back-end.
 1. Seu código não precisa ter uma licença aberta  -- ele é de sua autoria e você pode licenciá-lo como quiser -- mas para fins pedagógicos ele deve ser acessível ao público no GitHub durante o período da disciplina. Adicionalmente, o professor tem a gestão da conta educacional do GitHub para a Universidade Federal de Pernambuco, que permite mais features e funcionalidades como, manter o projeto público apenas para os integrantes da organização educacional ao qual o projeto está vinculado. (Se você estiver trabalhando com uma organização sem fins lucrativos, o encorajamos a pedir para lhe darem uma licença aberta para que o seu cliente possa continuar a usá-lo depois que você concluir suas atividades na disciplina.)
 1. O escopo deve ser adequada para uma equipe de até 6 pessoas trabalhando por 8-10 semanas. Prof. Vinicius e os monitores podem ajudá-lo na definição de um escopo exequível. Os projetos que são demasiado grandes serão subdivididos em serviços que se comunicam separadamente, de modo que cada time não seja maior do que uma equipe com 6 membros.

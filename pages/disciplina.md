@@ -31,12 +31,12 @@ Os monitores são responsáveis por aulas práticas da disciplina. Também são 
 
 São eles:
 
+- Antonio Rodrigues da Mata Neto (armn)
+- Joismar Antonio Batista Braga (jabb)
 - Lerisson F. Freitas (lff3)
 - Lucas Serra da Cunha Assad (lsca)
 - Paulo Sergio da Silva Rodrigues (pssr)
-- Pedro Jose de Souza Neto (pjsn)
-- Rafael Felipe Pedroza Jordao (rfpj)
-- Sandrine Ventura Martins (svm2)
+- Ricardo Ferreira dos Santos Junior (rfsj)
 
 Além dos monitores, temos também uma equipe de consultores, que estão disponíveis também para ajudar, sempre que solicitados, são eles:
 
@@ -53,8 +53,11 @@ Além dos monitores, temos também uma equipe de consultores, que estão dispon�
 - Linaldo Leite Ferreira Junior (llfj)
 - Marcela Pereira de Oliveira (mpo)
 - Mariana Ferreira de Melo (mfm2)
+- Pedro Jose de Souza Neto (pjsn)
 - Pedro Paulo Sousa Neto (ppsn)
+- Rafael Felipe Pedroza Jordao (rfpj)
 - Rafael Leonardo de Lima Brito (rllb)
+- Sandrine Ventura Martins (svm2)
 - Victor Hugo Barbosa Arruda (vhba)
 - Wellington Oliveira (wmof)
 

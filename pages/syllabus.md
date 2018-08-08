@@ -1,0 +1,43 @@
+| [Home](https://github.com/vinicius3w/if977) | [Disciplina](/pages/disciplina.md) | [Courseware](/pages/courseware.md) | [Apoio](/pages/apoio.md) | [Prog em Par](/pages/pairprogramming.md) | [Projeto](/pages/projeto.md) | [Syllabus](/pages/syllabus.md) | [Material](/pages/material.md) | [Equipes](/pages/equipes.md) | [Notas](/pages/avaliacoes.md) | [Avaliações](/pages/exerciciosescolares.md)
+
+# Syllabus
+
+## [IF977] Engenharia de Software - Syllabus - 2018.2
+
+| Classes       | Topics                      | Assignments | Project |
+|:-------------:|-----------------------------|:---------:|:-----------:|
+| Aug-13 (Mon) | Apresentação do curso. Introdução à Eng. de Software | Navegar pelo site da disciplina; analisar as opções de ambiente de desenvolvimento.  | _Kick-off do projeto pelo professor._ <br><br> _Ler e pesquisar sobre a temática do projeto_ |
+| Aug-15 (Wed) | SaaS e Arquitetura Orientada a Serviço | Assista [An Agenda for the Future of Software [Engineering in Brazil]](https://youtu.be/eujhiejLL7c), Prof. Silvio Meira. <br><br> Sugestão de Atividade: [CodeAcademy Ruby ](https://www.codecademy.com/learn/learn-ruby)(D+14, 23:59)  |  |
+| Aug-20 (Mon) | Computação em Nuvem; Código Legado; Qualidade; Produtividade |   |  |
+| Aug-22 (Wed) | Ciclo de Vida: Dirigido a Plano vs Ágil (1/2)| [SaaS TV: Raffi Krikorian](https://www.youtube.com/watch?v=lPAFuhSXBck) |  |
+| Aug-27 (Mon) | Ciclo de Vida: Dirigido a Plano vs Ágil (2/2) |   | **[IT 0-0] Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.** |
+| Aug-29 (Wed) | Programação em Par; Introdução a Ruby | Resolução da [Lista de Exercícios 0](http://bit.ly/if977-hw0) (envio até D+14, 23:59) <br><br> Sugestão de atividade: Escolher uma das trilhas de [API's do CodeCademy](https://www.codecademy.com/apis) <br><br> Joel on Software: [“Can your programming language do this?”](http://www.joelonsoftware.com/items/2006/08/01.html) |  |
+| Sep-03 (Mon) | Monitoria: Aula prática sobre [GitHub](http://github.com/) (Ferramenta de controle de versão): Lab G3 | [Guide for using github and cloud9 ide](http://www.foobt.net/spring2014/csci21_2545/files/guide-github-cloud9.html) | **[IT 0-0] (prazo final para confirmar time, cliente; agenda reuniões/calls)** |
+| Sep-05 (Wed) | Mais Ruby | Sugestão de atividade: [Git no CodeCademy](https://www.codecademy.com/learn/learn-git) (até D+7, 23:59) |  |
+| Sep-10 (Mon) | Introdução a Testes & Rspec; Introdução a Arquitetura SaaS | Leitura: [HTTP In the news](https://www.eff.org/deeplinks/2015/01/healthcare.gov-sends-personal-data) <br><br> **Entrega da Lista de Exercícios 0** | **[IT 0-1] Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório** |
+| Sep-12 (Wed) | Arquitetura SaaS: 3 camadas, REST, templates |   |  |
+| Sep-17 (Mon) | Metodologias Ágeis: Trabalhando com o Cliente | Sugestões de atividades: (i) [Criando um Website no CodeCademy](https://www.codecademy.com/learn/make-a-website); (ii) [GitHub Pages: Websites for you and your projects](https://pages.github.com/); (iii) [A guide to using Github Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/); (iv) Joel on Software: [the Joel Test (12 Steps to Better Code)](http://www.joelonsoftware.com/articles/fog0000000043.html) | **Entrega dos resultados da [IT 0-1]** <br><br> **[IT 0-2]: lo-fi mockups da primeira reunião** |
+| Sep-19 (Wed) | Metodologias Ágeis: Trabalhando com o Cliente (Parte II) | **Entrega da Lista de Exercícios 1** |  |
+| Sep-24 (Mon) | **Revisão para o 1o Exercício Escolar** | Sugestão de atividade: [Criando um Website interativo no CodeCademy](https://www.codecademy.com/skills/make-an-interactive-website) | **Entrega dos resultados da [IT 0-2]** <br><br> **[IT 1-1]: início do desenvolvimento** |
+| Sep-26 (Wed) | **1o Exercício Escolar** | Vá ao bebedouro e/ou sanitário antes. São apenas 2 horas de duração. <br> Leia a prova logo que recebê-la. Você tem até 20 minutos para tirar suas dúvidas, após isso, nenhuma pergunta será respondida. <br> Pode responder de lápis ou caneta (lembre-se de trazer seu material, o professor não tem obrigação de cuidar disso pra você). <br><br> Divulgação dos resultados até D+14 |  |
+| Oct-01 (Mon) | Introdução a Rails: Do Zero para um CRUD | Resolução da [Lista de Exercícios 2](http://bit.ly/if977-hw2) (envio até D+14, 23:59) <br><br> Sugestão de atividade: [Aprenda Rails no CodeCademy](https://www.codecademy.com/learn/learn-rails) | **Entrega dos resultados da [IT 1-1]** <br><br> **[IT 1-2] deploy + 2 HU's** |
+| Oct-03 (Wed) | Rails Parte II: Formulários | Sugestão de atividade: [Aprenda Autenticação com Ruby on Rails no CodeCademy](https://www.codecademy.com/learn/rails-auth) |  |
+| Oct-08 (Mon) | Monitoria: Aula prática sobre Rails e Configuração do ambiente para desenvolvimento do projeto: Lab G3 |   | **Entrega dos resultados da [IT 1-2]** <br><br> **[IT 2-1] início da segunda iteração** |
+| Oct-10 (Web) | Apresentação dos resultados da Iteração 1 (por sorteio) |   |  |
+| Oct-15 (Mon) | Behavior Driven Development: Cucumber e Capybara |   | **Entrega dos resultados da [IT 2-1]** <br><br>**[IT 2-2] continuação da segunda iteração** |
+| Oct-17 (Wed) | Test Driven Development: Rspec on Rails | Sugestão de leitura: [RSpec Rails Controller Test](https://kolosek.com/rspec-controller-test/) <br><br> JoS: [Nothing is as simple as it seems](http://www.joelonsoftware.com/articles/NothingIsSimple.html) <br><br> Resolução da [Lista de Exercícios 4](http://bit.ly/if977-hw4) (envio até D+14, 23:59) <br><br> **Entrega da Lista de Exercícios 2** |  |
+| Oct-22 (Mon) | Monitoria: Aula prática sobre Cucumber: Lab G3 |  Ferramenta de testes de comportamento utilizada na disciplina será o Cucumber | **Entrega dos resultados da [2-1]** <br><br> **[2-2] continuação da segunda iteração** |
+| Oct-24 (Wed) | Aula prática para trabalhar no projeto |   |  |
+| Oct-31 (Mon) | Monitoria: Aula prática sobre RSpec: Lab G3 | Ferramenta de testes funcionais utilizada na disciplina será o RSpec | **Entrega dos resultados da [IT 2-2]** <br><br> **[IT 3-1] início da terceira iteração** |
+| Nov-05 (Wed) | Apresentação dos resultados da Iteração 2 (por sorteio) |   |  |
+| Nov-07 (Mon) | Monitoria: Aula prática sobre [Heroku](https://www.heroku.com/): Lab G3 | A plataforma para implantação do projeto da disciplina será o [Heroku](https://www.heroku.com/) | **Entrega dos resultados da [IT 3-1]** <br><br>**[IT 3-2] continuação da terceira** |
+| Nov-12 (Wed) | Design Reviews, Code Reviews, Plan-And-Document Perspective on Project Management |   |  |
+| Nov-14 (Mon) | Aula prática para trabalhar no projeto |   | **Entrega dos resultados da [IT 3-2]** <br><br>**[IT 4-1] início da quarta iteração** |
+| Nov-19 (Wed) | Apresentação dos resultados da Iteração 3 (por sorteio) |   |  |
+| Nov-21 (Mon) | **Revisão para o 2o Exercício Escolar** |   | **Entrega dos resultados da [IT 4-1]** <br><br>**[IT 4-2] continuação da quarta iteração** |
+| Nov-26 (Wed) | **2o Exercício Escolar** | Vá ao bebedouro e/ou sanitário antes. São apenas 2 horas de duração. <br> Leia a prova logo que recebê-la. Você tem até 20 minutos para tirar suas dúvidas, após isso, nenhuma pergunta será respondida. <br> Pode responder de lápis ou caneta (lembre-se de trazer seu material, o professor não tem obrigação de cuidar disso pra você). <br><br> Divulgação dos resultados até D+14 |  |
+| Nov-28 (Mon) | Aula prática para trabalhar no projeto |   | Entrega dos resultados da [4-2] |
+| Dec-03 (Wed) | Apresentação dos Projetos (por sorteio) | **Divulgação dos resultados até D+7** |  |
+| Dec-05 (Mon) |  |   |  |
+| Dec-10 (Wed) | **Exercicio escolar final** | **Divulgação dos resultados até D+7** |  |
+| Dec-12 (Mon) |  |   |  |
