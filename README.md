@@ -16,6 +16,10 @@ Repositório da disciplina de Engenharia de Software voltada ao curso de Sistema
 
 Centro de Informática, horários: segunda (18:50-20:30) e quarta (17:00-18:40), sala E123.
 
+### Edições anteriores
+
+* Até 2018.1 [este era o site da disciplina](http://www.cin.ufpe.br/~if977).
+
 ### Atenção
 
 Este repositório contém apenas notas de aulas superficiais. Estas notas não devem ser utilizadas como livro-texto. Um **bom desempenho** na disciplina depende muito do estudo mais profundo dos livros e, principalmente, da **prática no computador**.
