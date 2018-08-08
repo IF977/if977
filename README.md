@@ -6,7 +6,7 @@ Repositório da disciplina de Engenharia de Software voltada ao curso de Sistema
 
 ![IF977](/if977_logo_icon.png)
 
-## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br){:target="_blank"}, ([UFPE](http://www.ufpe.br){:target="_blank"})
+## Sistemas de Informação, <a href="http://www.cin.ufpe.br" target="_blank">Centro de Informática</a>, (<a href="http://www.ufpe.br" target="_blank">UFPE)
 
 ### Instrutores
 
@@ -27,11 +27,10 @@ Engenharia de Software não é só desenvolvimento de software. Ou seja, não é
 ### Comunicação
 
 * Para facilitar a comunicação via e-mail no âmbito da disciplina, utilizem [if977] como parte do assunto do email.
-* _[EXPERIMENTO]_ Temos um canal no Telegram para uma comunicação mais dinâmica: <https://t.me/if977>{:target="_blank"}
+* _[EXPERIMENTO]_ Temos um canal no Telegram para uma comunicação mais dinâmica: <a href="https://t.me/if977" target="_blank">t.me/if977</a>
 
 ### Ferramentas
 
-* GitHub (sistema de controle de versão distribuída, rápido e escalável): <https://github.com>{:target="_blank"}
-* Cloud9, your development environment, in the cloud: <https://c9.io/>{:target="_blank"}
-* Codeny, cloud workspaces for Dev teams: <https://codenvy.com/>{:target="_blank"}
-
+* <a href="https://github.com" target="_blank">GitHub</a> (sistema de controle de versão distribuída, rápido e escalável).
+* <a href="https://c9.io/" target="_blank">Cloud9</a>, your development environment, in the cloud.
+* <a href="https://codenvy.com/" target="_blank">Codeny</a>, cloud workspaces for Dev teams.
