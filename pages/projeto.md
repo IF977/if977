@@ -32,7 +32,7 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 1. Deve ter um modelo de negócio para continuidade do projeto.
 1. Deve ter uma análise de mercado ou de concorrentes.
 
-## Quando são os prazos (deadlines) do projeto?
+## Quando são os prazos (deadlines) do projeto
 
 **Iteration -1**
 
@@ -65,7 +65,7 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 - Deadline 1 - **13/11** - Finalização do desenvolvimento
 - Deadline 2 - **27/11** - Criação de testes; Postmortem da iteração 4
 
-## Quais são os produtos entregáveis (deliverables) do projeto?
+## Quais são os produtos entregáveis (deliverables) do projeto
 
 | Iteração      | O que deve ser entregue   | Como deve ser entregue |
 |:-------------:|---------------------------|------------------------|
@@ -78,7 +78,7 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 | **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | Usar BDD+TDD | Para desenvolver as histórias em Rails e implantar em [**Heroku**](http://www.heroku.com) |
 | **4** | Um screencast curto (2-3 minutos) | Gravado pelo time mostrando um demo do projeto entregue após as 4 iterações |
 
-## Sugestões para reuniões com clientes:
+## Sugestões para reuniões com clientes
 
 - Se você é consistentemente incapaz de obter uma resposta do seu cliente apesar de seguir as orientações acima, informe a um de nós (professor e/ou monitores). Não é correto assumir que o sucesso do seu projeto se é responsabilidade do cliente, ou do(s) monitor(es) - e, eventualmente, professor - que está(ão) acompanhando e auxiliando na execução do projeto.
 - Para ser respeitoso com o tempo do cliente, ter uma agenda pronta de antemão que o seu cliente possa ver e propor alterações. A agenda típica pode incluir: obter feedback dos clientes sobre histórias implantadas nesta iteração; discutir/priorizar histórias a serem concluídas na próxima iteração; identificar quaisquer preocupações de ambos os lados sobre se todos entendem o que deve ser feito e o que é esperado estar pronto para a avaliação da próxima reunião.
@@ -87,15 +87,19 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 - Lembre-se que a maioria destes clientes não seguem os horários dos alunos. Eles muitas vezes não estão lendo o e-mail relacionado ao trabalho no fim de semana. Eles geralmente não irão ler o seu e-mail às 11h. Se você quer o seu feedback sobre algo por (digamos) na quinta de manhã, você realmente precisa enviar o seu email a eles o mais tardar até terça-feira à noite: as pessoas com empregos em tempo integral são muitas vezes tão ocupadas que eles não podem dar-lhe uma resposta imediata do e-mail, de modo que se você enviar algo mais tarde do que 3 ou 4 horas da tarde, você deve assumir que não vai mesmo ser visto até o dia seguinte e pode não obter uma resposta até o dia seguinte. Planeje adequadamente quando você precisa de um retorno do seu cliente.
 - Se você é consistentemente incapaz de obter uma resposta do seu cliente, apesar de seguir todas as orientações acima, deixe um de nós saber (professor, instrutores, monitores). Não fique esperando que o sucesso do seu projeto seja responsabilidade do seu cliente.
 
-## Sugestão para apresentação final:
+## Sugestão para apresentação final
 
-Você vai apresentar um resumo, de **2 minutos**, do problema do seu cliente (ou seu) e como seu aplicativo pretende resolvê-lo. O resultado final é uma única apresentação contendo **TODOS** os trabalhos/problemas do semestre. Vamos criar um documento do Google Presentations em que cada equipe vai colocar um slide com base nesses exemplos. Sugestão de organização da apresentação final do projeto:
+Você vai apresentar um resumo, de **2 minutos**, do problema do seu cliente (ou seu) e como seu aplicativo pretende resolvê-lo. O resultado final é uma única [apresentação](/guidelines.md) contendo **TODOS** os trabalhos/problemas do semestre. Vamos criar um documento do Google Presentations em que cada equipe vai colocar um slide com base nesses exemplos. Sugestão de organização da apresentação final do projeto:
 
 1. o que estava planejado para o projeto (por membro do time);
 2. o que foi feito;
 3. o que não foi feito e por quê não foi feito;
 4. lições aprendidas (por cada membro do time);
 5. críticas e sugestões.
+
+## Sobre relatórios técnicos e apresentações orais
+
+Eventualmente, na execução de projetos, podemos nos deparar com a necessidade de documentar ações e decisões por meio de relatórios técnicos ou ainda, realizar apresentações para discutir os resultados alcançados até então. Neste contexto, considere seguir estes [guidelines](/guidelines.md) para apoiar a construção do seu relatório técnico ou ajudar a planejar a sua apresentação oral.
 
 ## Considerações de propriedade intelectual do projeto
 
