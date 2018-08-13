@@ -64,6 +64,7 @@ São eles:
 - Joismar Antonio Batista Braga (jabb)
 - Lerisson F. Freitas (lff3)
 - Lucas Serra da Cunha Assad (lsca)
+- Mateus Cardozo Gomes da Silva (mcgs)
 - Paulo Sergio da Silva Rodrigues (pssr)
 - Ricardo Ferreira dos Santos Junior (rfsj)
 
@@ -82,7 +83,6 @@ Além dos monitores, temos também uma equipe de consultores, que estão dispon�
 - Linaldo Leite Ferreira Junior (llfj)
 - Marcela Pereira de Oliveira (mpo)
 - Mariana Ferreira de Melo (mfm2)
-- Mateus Cardozo Gomes da Silva (mcgs)
 - Pedro Jose de Souza Neto (pjsn)
 - Pedro Paulo Sousa Neto (ppsn)
 - Rafael Felipe Pedroza Jordao (rfpj)
