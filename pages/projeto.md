@@ -67,6 +67,8 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 ## Quais são os produtos entregáveis (deliverables) do projeto
 
+Os artefatos a serem produzidos durante o ciclod e vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1N60wdHdyU0OwIzKzihPPYtaWM1nHslTQHtuXOjDwIrE/edit?usp=sharing).
+
 | Iteração      | O que deve ser entregue   | Como deve ser entregue |
 |:-------------:|---------------------------|------------------------|
 | **0** | Preenchimento do repositório público inicial do GitHub para o projeto | Página de readme/inicial com **nome do projeto**, **justificativa do projeto**, **descrição do produto**, **especificação do papel de cada membro da equipe** e demais informações pertinentes |
