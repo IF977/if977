@@ -36,7 +36,7 @@
 | Nov-19 (Wed) | Apresentação dos resultados da Iteração 3 (por sorteio) |   |  |
 | Nov-21 (Mon) | **Revisão para o 2o Exercício Escolar** |   | **Entrega dos resultados da [IT 4-1]** <br><br>**[IT 4-2] continuação da quarta iteração** |
 | Nov-26 (Wed) | **2o Exercício Escolar** | Vá ao bebedouro e/ou sanitário antes. São apenas 2 horas de duração. <br> Leia a prova logo que recebê-la. Você tem até 20 minutos para tirar suas dúvidas, após isso, nenhuma pergunta será respondida. <br> Pode responder de lápis ou caneta (lembre-se de trazer seu material, o professor não tem obrigação de cuidar disso pra você). <br><br> Divulgação dos resultados até D+14 |  |
-| Nov-28 (Mon) | Aula prática para trabalhar no projeto |   | Entrega dos resultados da [4-2] |
+| Nov-28 (Mon) | Aula prática para trabalhar no projeto |   | **Entrega dos resultados da [4-2]** |
 | Dec-03 (Wed) | Apresentação dos Projetos (por sorteio) | **Divulgação dos resultados até D+7** |  |
 | Dec-05 (Mon) |  |   |  |
 | Dec-10 (Wed) | **Exercicio escolar final** | **Divulgação dos resultados até D+7** |  |
