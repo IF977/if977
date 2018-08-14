@@ -34,36 +34,32 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 ## Quando são os prazos (deadlines) do projeto
 
-**Iteration -1**
-
-- Deadline 1 - **21/08** - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time
-- Deadline 2 - **28/08** - Times e temas definidos
-- Deadline 3 - **28/08** - Prazo final para confirmar time, cliente; agenda reuniões/calls;
-
 **Iteration 0**
 
-- Deadline 1 - **11/09** - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README contendo informações do time e do projeto
-- Deadline 2 - **25/09** - Criação de histórias de usuários iniciais; Criação de mockups e storyboards Lo-Fi  para histórias do usuário; Postmortem da iteração 0
+- Deadline 1 - **27/08** - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
+- Deadline 2 - **03/09** - Prazo final para confirmar time, cliente; agenda reuniões/calls;
+- Deadline 3 - **17/09** - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README contendo informações do time e do projeto
+- Deadline 4 - **24/09** - Criação de histórias de usuários iniciais; Criação de mockups e storyboards Lo-Fi  para histórias do usuário; Postmortem da iteração 0
 
 **Iteration 1**
 
-- Deadline 1 - **02/10** - Início do desenvolvimento
-- Deadline 2 - **09/10** - Criação de testes; Deploy + 2 HU's; Postmortem da iteração 1
+- Deadline 1 - **01/10** - Início do desenvolvimento
+- Deadline 2 - **08/10** - Criação de testes; Deploy + 2 HU's; Postmortem da iteração 1
 
 **Iteration 2**
 
-- Deadline 1 - **16/10** - Continuação do desenvolvimento
-- Deadline 2 - **23/10** - Criação de testes; Postmortem da iteração 2
+- Deadline 1 - **15/10** - Continuação do desenvolvimento
+- Deadline 2 - **31/10** - Criação de testes; Postmortem da iteração 2
 
 **Iteration 3**
 
-- Deadline 1 - **30/10** - Continuação do desenvolvimento
-- Deadline 2 - **06/11** - Criação de testes; Modelo ER; Postmortem da iteração 3
+- Deadline 1 - **07/11** - Continuação do desenvolvimento
+- Deadline 2 - **14/11** - Criação de testes; Modelo ER; Postmortem da iteração 3
 
 **Iteration 4**
 
-- Deadline 1 - **13/11** - Finalização do desenvolvimento
-- Deadline 2 - **27/11** - Criação de testes; Postmortem da iteração 4
+- Deadline 1 - **21/11** - Finalização do desenvolvimento
+- Deadline 2 - **28/11** - Criação de testes; Postmortem da iteração 4
 
 ## Quais são os produtos entregáveis (deliverables) do projeto
 
