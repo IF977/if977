@@ -26,18 +26,19 @@
 | Oct-10 (Web) | Apresentação dos resultados da Iteração 1 (por sorteio) |   |  |
 | Oct-15 (Mon) | [Behavior Driven Development: Cucumber e Capybara](https://github.com/IF977/IF977/blob/master/lectures/a15%20-%20Cucumber%20%26%20Capybara.pdf) | [Hands-on 1](https://github.com/IF977/IF977/blob/master/lectures/a15%20-%207.7.1-%20Cucumber%20Part%20I-SD.mp4) & [Hands-on 2](https://github.com/IF977/IF977/blob/master/lectures/a15%20-%207.8.1-%20Cucumber%20Part%20II-SD.mp4)  | **Entrega dos resultados da [IT 2-1]** <br><br>**[IT 2-2] continuação da segunda iteração** |
 | Oct-17 (Wed) | [Test Driven Development: Rspec on Rails](https://github.com/IF977/IF977/blob/master/lectures/a17%20-%20RSpec%20on%20Rails.pdf) | Sugestão de leitura: [RSpec Rails Controller Test](https://kolosek.com/rspec-controller-test/) <br><br> JoS: [Nothing is as simple as it seems](http://www.joelonsoftware.com/articles/NothingIsSimple.html) <br><br> Resolução da [Lista de Exercícios 4](http://bit.ly/if977-hw4) (envio até D+14, 23:59) <br><br> **Entrega da Lista de Exercícios 2** |  |
-| Oct-22 (Mon) | Monitoria: Aula prática sobre Cucumber: Lab G3 |  Ferramenta de testes de comportamento utilizada na disciplina será o Cucumber |  |
-| Oct-24 (Wed) | Aula prática para trabalhar no projeto |   |  |
-| Oct-31 (Mon) | Monitoria: Aula prática sobre RSpec: Lab G3 | Ferramenta de testes funcionais utilizada na disciplina será o RSpec | **Entrega dos resultados da [IT 2-2]** <br><br> **[IT 3-1] início da terceira iteração** |
-| Nov-05 (Wed) | Apresentação dos resultados da Iteração 2 (por sorteio) |   |  |
-| Nov-07 (Mon) | Monitoria: Aula prática sobre [Heroku](https://www.heroku.com/): Lab G3 | A plataforma para implantação do projeto da disciplina será o [Heroku](https://www.heroku.com/) | **Entrega dos resultados da [IT 3-1]** <br><br>**[IT 3-2] continuação da terceira** |
-| Nov-12 (Wed) | [Design Reviews, Code Reviews, Plan-And-Document Perspective on Project Management](https://github.com/IF977/IF977/blob/master/lectures/a18%20-%20Design%20Reviews%2C%20Code%20Reviews%2C%20Plan-And-Document%20Perspective%20on%20Project%20Management.pdf) |   |  |
-| Nov-14 (Mon) | [Continuous Integration & Continuous Deployment](https://github.com/IF977/IF977/blob/master/lectures/a19%20-%20Continuous%20Integration%20%26%20Continuous%20Deployment.pdf)] |   | **Entrega dos resultados da [IT 3-2]** <br><br>**[IT 4-1] início da quarta iteração** |
-| Nov-19 (Wed) | Apresentação dos resultados da Iteração 3 (por sorteio) |   |  |
-| Nov-21 (Mon) | **Revisão para o 2o Exercício Escolar** |   | **Entrega dos resultados da [IT 4-1]** <br><br>**[IT 4-2] continuação da quarta iteração** |
-| Nov-26 (Wed) | **2o Exercício Escolar** | Vá ao bebedouro e/ou sanitário antes. São apenas 2 horas de duração. <br> Leia a prova logo que recebê-la. Você tem até 20 minutos para tirar suas dúvidas, após isso, nenhuma pergunta será respondida. <br> Pode responder de lápis ou caneta (lembre-se de trazer seu material, o professor não tem obrigação de cuidar disso pra você). <br><br> Divulgação dos resultados até D+14 |  |
-| Nov-28 (Mon) | Aula prática para trabalhar no projeto |   | **Entrega dos resultados da [4-2]** |
-| Dec-03 (Wed) | Apresentação dos Projetos (por sorteio) | **Divulgação dos resultados até D+7** |  |
-| Dec-05 (Mon) |  |   |  |
-| Dec-10 (Wed) | **Exercicio escolar final** | **Divulgação dos resultados até D+7** |  |
+| Oct-22 (Mon) | Monitoria: Aula prática sobre Cucumber: Lab G3 |  Ferramenta de testes de comportamento utilizada na disciplina será o Cucumber | **Entrega dos resultados da [IT 2-2]** <br><br> **[IT 3-1] início da terceira iteração** |
+| Oct-24 (Wed) | Apresentação dos resultados da Iteração 2 (por sorteio) |   |  |
+| Oct-29 (Mon) | Monitoria: Aula prática sobre RSpec: Lab G3 | Ferramenta de testes funcionais utilizada na disciplina será o RSpec |  |
+| Oct-31 (Wed) | Aula prática para trabalhar no projeto |   | **Entrega dos resultados da [IT 3-1]** <br><br>**[IT 3-2] continuação da terceira** |
+| Nov-05 (Mon) | Monitoria: Aula prática sobre [Heroku](https://www.heroku.com/): Lab G3 | A plataforma para implantação do projeto da disciplina será o [Heroku](https://www.heroku.com/) |  |
+| Nov-07 (Wed) | [Design Reviews, Code Reviews, Plan-And-Document Perspective on Project Management](https://github.com/IF977/IF977/blob/master/lectures/a18%20-%20Design%20Reviews%2C%20Code%20Reviews%2C%20Plan-And-Document%20Perspective%20on%20Project%20Management.pdf) |   | **Entrega dos resultados da [IT 3-2]** <br><br>**[IT 4-1] início da quarta iteração** |
+| Nov-12 (Mon) | [Continuous Integration & Continuous Deployment](https://github.com/IF977/IF977/blob/master/lectures/a19%20-%20Continuous%20Integration%20%26%20Continuous%20Deployment.pdf)] |   |  |
+| Nov-14 (Wed) | Apresentação dos resultados da Iteração 3 (por sorteio) |   | **Entrega dos resultados da [IT 4-1]** <br><br>**[IT 4-2] continuação da quarta iteração** |
+| Nov-19 (Mon) | **Revisão para o 2o Exercício Escolar** |   |  |
+| Nov-21 (Wed) | **2o Exercício Escolar** | Vá ao bebedouro e/ou sanitário antes. São apenas 2 horas de duração. <br> Leia a prova logo que recebê-la. Você tem até 20 minutos para tirar suas dúvidas, após isso, nenhuma pergunta será respondida. <br> Pode responder de lápis ou caneta (lembre-se de trazer seu material, o professor não tem obrigação de cuidar disso pra você). <br><br> Divulgação dos resultados até D+14 |  |
+| Nov-26 (Mon) | Aula prática para trabalhar no projeto |   | **Entrega dos resultados da [4-2]** |
+| Nov-28 (Wed) | Apresentação dos Projetos (por sorteio) | **Divulgação dos resultados até D+7** |  |
+| Dec-03 (Mon) |  |   |  |
+| Dec-05 (Wed) |  |   |  |
+| Dec-10 (Mon) | **Exercicio escolar final** | **Divulgação dos resultados até D+7** |  |
 | Dec-12 (Mon) |  |   |  |
