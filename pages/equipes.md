@@ -4,6 +4,12 @@
 
 ## (1) Nome do Projeto:
 
+* Almir Gabriel (aggs)
+* _Emerson Victor (evfl)_\*
+* José Neto (jcsn2)
+* José Tomáz (jtgl)
+* Navarro Alberson (nags)
+
 Link do projeto:
 
 Link a aplicação no Heroku:
