@@ -22,4 +22,4 @@ Existe um número de diferentes opções para configurar o software para uso com
 
 Instruções detalhadas sobre as quatro opções podem ser encontradas [neste site](http://www.saasbook.info/bookware-vm-instructions).
 
-Imagem da VM para fazer o download e implantar no hypervisor VirtualBox: [saasbook-0.10.3.1.zip](http://dekr0bcnl4w2b.cloudfront.net/saasbook-0.10.3.1.zip).
+Imagem da VM para fazer o download e implantar no hypervisor VirtualBox, conforme instruções [neste link](http://www.saasbook.info/bookware-vm-instructions/installing-on-a-new-virtualbox-vm).
