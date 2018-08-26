@@ -18,6 +18,12 @@ Monitor:
 
 ## (2) Nome do Projeto:
 
+* Jaime Fernandes de Araujo Neto (jfan)
+* João Pedro Lira dos Santos (jpls)
+* João Rafael Santos Camelo (jrsc2)
+* José Reginaldo de Barros Junior (jrbj)
+* _Ricardo Ebbers Carneiro Leão (recl)_\*
+
 Link do repositório:
 
 Link a aplicação no Heroku:
