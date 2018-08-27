@@ -45,6 +45,10 @@ Monitor:
 
 ## (4) Nome do Projeto:
 
+* Bruno Vinícius Gonçalves Mota (bvgm)
+* Marcelo Aguiar Coelho de Moura Filho (macmf)
+* _Vitor Cardim Menezes (vcm3)_\*
+
 Link do repositório:
 
 Link a aplicação no Heroku:
@@ -52,6 +56,11 @@ Link a aplicação no Heroku:
 Monitor:
 
 ## (5) Nome do Projeto:
+
+* Giovanni Evaristo Corrêa Júnior (gecj)
+* Jefferson Wagner da Silva Alves (jwsa)
+* Jhonata Lima de Souza (jls3)
+* _Thales Rodrigues Monteiro (trm3)_\*
 
 Link do repositório:
 
