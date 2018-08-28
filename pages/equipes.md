@@ -94,4 +94,17 @@ Link a aplicação no Heroku:
 
 Monitor:
 
+## (8) Nome do Projeto:
+
+* Chiu Yong (cyc)
+* _Giovanni Veloso (gvs)_\*
+* Haziel Farias (hlf)
+* Victor Hugo (vhrc)
+
+Link do repositório:
+
+Link a aplicação no Heroku:
+
+Monitor:
+
 \* _Líder do Time_
