@@ -68,7 +68,12 @@ Link a aplicação no Heroku:
 
 Monitor:
 
-## (6) Nome do Projeto:
+## (6) Nome do Projeto: One!
+
+* Guilherme Prado dos Santos (gps2)
+* Monalisa Meyrelle de Sousa Silva (mmss)
+* _Ricarth Ruan da Silva Lima  (rrsl)_\*
+* Warley Soares de Souza (wss)
 
 Link do repositório:
 
@@ -77,6 +82,11 @@ Link a aplicação no Heroku:
 Monitor:
 
 ## (7) Nome do Projeto:
+
+* Ewerton Ferreira (effs)
+* Gabriel Fontanário (gsf4)
+* Henrique Melo (hmf)
+* _Lucas Pires (lps6)_\*
 
 Link do repositório:
 
