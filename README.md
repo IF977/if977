@@ -109,3 +109,10 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 * <a href="https://github.com" target="_blank">GitHub</a> (sistema de controle de versão distribuída, rápido e escalável).
 * <a href="https://c9.io/" target="_blank">Cloud9</a>, your development environment, in the cloud.
 * <a href="https://codenvy.com/" target="_blank">Codeny</a>, cloud workspaces for Dev teams.
+
+### Links, posts e artigos diversos
+
+* [What I learned from 6 months contributing to open source](https://hackernoon.com/what-i-learned-from-6-months-contributing-to-open-source-daa1cdafb9fb)
+* [Software Engineering for Disruptive Innovation](https://hackernoon.com/software-engineering-for-disruptive-innovation-d882f53788da)
+* [Ruby On Rails: What It Is and Why We use.](https://hackernoon.com/ruby-on-rails-what-it-is-and-why-we-use-2b295b54838d)
+* [Essential skills and tools every Javascript developer should master](http://www.thecalmcoder.com/general-developer-skills/essential-skills-and-tools-every-javascript-developer-should-master/)
