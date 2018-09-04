@@ -10,13 +10,13 @@
 * José Tomáz (jtgl)
 * Navarro Alberson (nags)
 
-Link do projeto:
+Link do projeto: <https://github.com/EmersonVictor/es-project>
 
 Link a aplicação no Heroku:
 
 Monitor:
 
-## (2) Nome do Projeto:
+## (2) Nome do Projeto: MySNiPs
 
 * Jaime Fernandes de Araujo Neto (jfan)
 * João Pedro Lira dos Santos (jpls)
@@ -24,7 +24,7 @@ Monitor:
 * José Reginaldo de Barros Junior (jrbj)
 * _Ricardo Ebbers Carneiro Leão (recl)_\*
 
-Link do repositório:
+Link do repositório: <https://github.com/ricardoebbers/MySNiPs>
 
 Link a aplicação no Heroku:
 
@@ -49,59 +49,59 @@ Monitor:
 * Marcelo Aguiar Coelho de Moura Filho (macmf)
 * _Vitor Cardim Menezes (vcm3)_\*
 
-Link do repositório:
+Link do repositório: <https://github.com/BrunoMota18/PROJETO-IF977>
 
 Link a aplicação no Heroku:
 
 Monitor:
 
-## (5) Nome do Projeto:
+## (5) Nome do Projeto: Fala-ai-Recife-
 
 * Giovanni Evaristo Corrêa Júnior (gecj)
 * Jefferson Wagner da Silva Alves (jwsa)
 * Jhonata Lima de Souza (jls3)
 * _Thales Rodrigues Monteiro (trm3)_\*
 
-Link do repositório:
+Link do repositório: <https://github.com/gecjcin/Fala-ai-Recife->
 
 Link a aplicação no Heroku:
 
 Monitor:
 
-## (6) Nome do Projeto: One!
+## (6) Nome do Projeto: Lista de Compras
 
 * Guilherme Prado dos Santos (gps2)
 * Monalisa Meyrelle de Sousa Silva (mmss)
 * _Ricarth Ruan da Silva Lima  (rrsl)_\*
 * Warley Soares de Souza (wss)
 
-Link do repositório:
+Link do repositório: <https://github.com/ricarthlima/eo-project-es>
 
 Link a aplicação no Heroku:
 
 Monitor:
 
-## (7) Nome do Projeto:
+## (7) Nome do Projeto: Primeiro Emprego
 
 * Ewerton Ferreira (effs)
 * Gabriel Fontanário (gsf4)
 * Henrique Melo (hmf)
 * _Lucas Pires (lps6)_\*
 
-Link do repositório:
+Link do repositório: <https://github.com/lucaspiressilveira/primeiroemprego>
 
 Link a aplicação no Heroku:
 
 Monitor:
 
-## (8) Nome do Projeto:
+## (8) Nome do Projeto: iGuia
 
 * Chiu Yong (cyc)
 * _Giovanni Veloso (gvs)_\*
 * Haziel Farias (hlf)
 * Victor Hugo (vhrc)
 
-Link do repositório:
+Link do repositório: <https://github.com/chiuyong/iGuia>
 
 Link a aplicação no Heroku:
 
