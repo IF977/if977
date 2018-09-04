@@ -30,14 +30,14 @@ Link a aplicação no Heroku:
 
 Monitor:
 
-## (3) Nome do Projeto:
+## (3) Nome do Projeto: PensionApp
 
 * Adson Wesley Silva de Souza (awss)
 * Claudio Victor Rosas Pacheco (cvrp)
 * Dairon Eugênio Martins (dem)
 * _Ewerton David Brito de Jesus (edbj2)_\*
 
-Link do repositório:
+Link do repositório: <https://github.com/DavidBrito/PensionApp>
 
 Link a aplicação no Heroku:
 
