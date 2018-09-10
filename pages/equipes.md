@@ -14,7 +14,7 @@ Link do projeto: <https://github.com/EmersonVictor/es-project>
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Antonio e Lerisson
 
 ## (2) Nome do Projeto: MySNiPs
 
@@ -28,7 +28,7 @@ Link do repositório: <https://github.com/ricardoebbers/MySNiPs>
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Mateus Cardoso e Lucas Assad
 
 ## (3) Nome do Projeto: PensionApp
 
@@ -41,7 +41,7 @@ Link do repositório: <https://github.com/DavidBrito/PensionApp>
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Joismar e Ricardo Ferreira
 
 ## (4) Nome do Projeto:
 
@@ -53,7 +53,7 @@ Link do repositório: <https://github.com/BrunoMota18/PROJETO-IF977>
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Sandrine e Ricardo Ferreira
 
 ## (5) Nome do Projeto: Fala-ai-Recife-
 
@@ -66,7 +66,7 @@ Link do repositório: <https://github.com/gecjcin/Fala-ai-Recife->
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Sandrine e Joismar
 
 ## (6) Nome do Projeto: Lista de Compras
 
@@ -79,7 +79,7 @@ Link do repositório: <https://github.com/ricarthlima/eo-project-es>
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Lucas Assad e Lerisson 
 
 ## (7) Nome do Projeto: Primeiro Emprego
 
@@ -92,7 +92,7 @@ Link do repositório: <https://github.com/lucaspiressilveira/primeiroemprego>
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Lucas Assad e Paulo Sergio
 
 ## (8) Nome do Projeto: iGuia
 
@@ -105,6 +105,6 @@ Link do repositório: <https://github.com/chiuyong/iGuia>
 
 Link a aplicação no Heroku:
 
-Monitor:
+Monitor: Paulo Sergio e Mateus Cardoso
 
 \* _Líder do Time_
