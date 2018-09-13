@@ -116,3 +116,4 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 * [Software Engineering for Disruptive Innovation](https://hackernoon.com/software-engineering-for-disruptive-innovation-d882f53788da)
 * [Ruby On Rails: What It Is and Why We use.](https://hackernoon.com/ruby-on-rails-what-it-is-and-why-we-use-2b295b54838d)
 * [Essential skills and tools every Javascript developer should master](http://www.thecalmcoder.com/general-developer-skills/essential-skills-and-tools-every-javascript-developer-should-master/)
+* [Measuring Developer Productivity](https://hackernoon.com/measure-a-developers-impact-e2e18593ac79)
