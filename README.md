@@ -117,3 +117,5 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 * [Ruby On Rails: What It Is and Why We use.](https://hackernoon.com/ruby-on-rails-what-it-is-and-why-we-use-2b295b54838d)
 * [Essential skills and tools every Javascript developer should master](http://www.thecalmcoder.com/general-developer-skills/essential-skills-and-tools-every-javascript-developer-should-master/)
 * [Measuring Developer Productivity](https://hackernoon.com/measure-a-developers-impact-e2e18593ac79)
+* [Mapping Go-to-Market to Customers: ‘The Coverage Matrix’](https://a16z.com/2018/09/13/how-what-sell-customers-markets/)
+* [What I Learned From Startup School Lectures](https://hackernoon.com/notes-on-startup-growth-4af0bf9e9706)
