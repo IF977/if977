@@ -68,7 +68,7 @@ Link a aplicação no Heroku:
 
 Monitor: Sandrine e Joismar
 
-## (6) Nome do Projeto: Lista de Compras
+## (6) Nome do Projeto: É vegano?
 
 * Guilherme Prado dos Santos (gps2)
 * Monalisa Meyrelle de Sousa Silva (mmss)
@@ -77,7 +77,7 @@ Monitor: Sandrine e Joismar
 
 Link do repositório: <https://github.com/ricarthlima/eo-project-es>
 
-Link a aplicação no Heroku:
+Link da aplicação no Heroku: <http://equipeone.com.br/evegano/>
 
 Monitor: Lucas Assad e Lerisson 
 
