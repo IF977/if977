@@ -43,7 +43,7 @@ Link a aplicação no Heroku:
 
 Monitor: Joismar e Ricardo Ferreira
 
-## (4) Nome do Projeto:
+## (4) Nome do Projeto: RabbitCare
 
 * Bruno Vinícius Gonçalves Mota (bvgm)
 * Marcelo Aguiar Coelho de Moura Filho (macmf)
