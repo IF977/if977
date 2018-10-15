@@ -18,7 +18,6 @@ Monitor: Antonio e Lerisson
 
 ## (2) Nome do Projeto: MySNiPs
 
-* Jaime Fernandes de Araujo Neto (jfan)
 * João Pedro Lira dos Santos (jpls)
 * João Rafael Santos Camelo (jrsc2)
 * José Reginaldo de Barros Junior (jrbj)
