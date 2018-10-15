@@ -68,7 +68,7 @@ Link a aplicação no Heroku:
 
 Monitor: Sandrine e Joismar
 
-## (6) Nome do Projeto: Lista de Compras
+## (6) Nome do Projeto: É vegano?
 
 * Guilherme Prado dos Santos (gps2)
 * Monalisa Meyrelle de Sousa Silva (mmss)
