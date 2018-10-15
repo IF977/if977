@@ -2,7 +2,7 @@
 
 # Equipes
 
-## (1) Nome do Projeto:
+## (1) Nome do Projeto: Como é que é?
 
 * Almir Gabriel (aggs)
 * _Emerson Victor (evfl)_\*
