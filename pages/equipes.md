@@ -10,9 +10,9 @@
 * José Tomáz (jtgl)
 * Navarro Alberson (nags)
 
-Link do projeto: <https://github.com/EmersonVictor/es-project>
+Link do projeto: <https://github.com/EmersonVictor/como-e-que-e>
 
-Link a aplicação no Heroku:
+Link a aplicação no Heroku: <https://como-e-que-e.herokuapp.com>
 
 Monitor: Antonio e Lerisson
 
