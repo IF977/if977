@@ -97,7 +97,6 @@ Monitor: Lucas Assad e Paulo Sergio
 
 * Chiu Yong (cyc)
 * _Giovanni Veloso (gvs)_\*
-* Haziel Farias (hlf)
 * Victor Hugo (vhrc)
 
 Link do repositório: <https://github.com/chiuyong/iGuia>
