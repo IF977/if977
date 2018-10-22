@@ -49,17 +49,17 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 **Iteration 2**
 
 - Deadline 1 - **15/10** - Continuação do desenvolvimento
-- Deadline 2 - **31/10** - Criação de testes; Postmortem da iteração 2
+- Deadline 2 - **22/10** - Criação de testes; Postmortem da iteração 2
 
 **Iteration 3**
 
-- Deadline 1 - **07/11** - Continuação do desenvolvimento
-- Deadline 2 - **14/11** - Criação de testes; Modelo ER; Postmortem da iteração 3
+- Deadline 1 - **31/10** - Continuação do desenvolvimento
+- Deadline 2 - **07/11** - Criação de testes; Modelo ER; Postmortem da iteração 3
 
 **Iteration 4**
 
-- Deadline 1 - **21/11** - Finalização do desenvolvimento
-- Deadline 2 - **28/11** - Criação de testes; Postmortem da iteração 4
+- Deadline 1 - **14/11** - Finalização do desenvolvimento
+- Deadline 2 - **26/11** - Criação de testes; Postmortem da iteração 4
 
 ## Quais são os produtos entregáveis (deliverables) do projeto
 
