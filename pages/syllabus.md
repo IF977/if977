@@ -6,7 +6,7 @@
 
 | Classes       | Topics                      | Assignments | Project |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-| Aug-13 (Mon) | [Apresentação do curso. Introdução à Eng. de Software](https://github.com/IF977/IF977/blob/master/lectures/a01%20-%20Apresentacao%20e%20Introducao%20a%20Engenharia%20de%20Software.pdf) | Navegar pelo site da disciplina; analisar as opções de ambiente de desenvolvimento.  | _Kick-off do projeto pelo professor._ <br><br> _Ler e pesquisar sobre a temática do projeto_ |
+| Aug-13 (Mon) | [Apresentação do curso. Introdução à Eng. de Software](https://github.com/IF977/IF977/blob/master/lectures/a01%20-%20Apresentacao%20e%20Introducao%20a%20Engenharia%20de%20Software.pdf) | Navegar pelo site da disciplina; analisar as opções de ambiente de desenvolvimento. <br><br> [Small is Beautiful — The Big Bang Launch Failure of Healthcare.gov](https://hackernoon.com/small-is-beautiful-the-launch-failure-of-healthcare-gov-5e60f20eb967) | _Kick-off do projeto pelo professor._ <br><br> _Ler e pesquisar sobre a temática do projeto_ |
 | Aug-15 (Wed) | SaaS e Arquitetura Orientada a Serviço | Assista [An Agenda for the Future of Software [Engineering in Brazil]](https://youtu.be/eujhiejLL7c), Prof. Silvio Meira. <br><br> Sugestão de Atividade: [CodeAcademy Ruby ](https://www.codecademy.com/learn/learn-ruby)(D+14, 23:59)  |  |
 | Aug-20 (Mon) | Computação em Nuvem; Código Legado; Qualidade; Produtividade |   |  |
 | Aug-22 (Wed) | [Ciclo de Vida: Dirigido a Plano vs Ágil](https://github.com/IF977/IF977/blob/master/lectures/a03%20-%20PlanVsAgile-Teams.pdf) (1/2)| [SaaS TV: Raffi Krikorian](https://www.youtube.com/watch?v=lPAFuhSXBck) |  |
