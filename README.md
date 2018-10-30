@@ -119,3 +119,4 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 * [Measuring Developer Productivity](https://hackernoon.com/measure-a-developers-impact-e2e18593ac79)
 * [Mapping Go-to-Market to Customers: ‘The Coverage Matrix’](https://a16z.com/2018/09/13/how-what-sell-customers-markets/)
 * [What I Learned From Startup School Lectures](https://hackernoon.com/notes-on-startup-growth-4af0bf9e9706)
+* [Top 12 Things That Destroy Developer Productivity](https://dzone.com/articles/top-12-things-that-destroy-developer-productivity)
