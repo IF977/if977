@@ -38,7 +38,7 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 - Deadline 1 - **27/08** - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
 - Deadline 2 - **03/09** - Prazo final para confirmar time, cliente; agenda reuniões/calls;
-- Deadline 3 - **17/09** - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README contendo informações do time e do projeto
+- Deadline 3 - **17/09** - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto
 - Deadline 4 - **24/09** - Criação de histórias de usuários iniciais; Criação de mockups e storyboards Lo-Fi  para histórias do usuário; Postmortem da iteração 0
 
 **Iteration 1**
