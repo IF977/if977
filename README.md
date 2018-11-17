@@ -10,8 +10,8 @@ Para quem tiver curiosidade, a história dessa cadeira é, resumidamente, contad
 
 - **[A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)**
 - **[Ensinando Engenharia de Software na Prática, Parte I](http://vinicius3w.com/education/ensinando-engenharia-de-software-na-pratica-parte-i/)**
-- **[Ensinando Engenharia de Software na Prática, Parte II](http://vinicius3w.com/education/ensinando-engenharia-de-software-na-pratica-parte-ii/)**
-￼￼￼- **[Qual é o impacto da ES no mercado de Computação e na sociedade como um todo](https://drive.google.com/file/d/0Bxt1VZoj3lGuazhWM19CenlucUU/view?usp=sharing)**. Computação Brasil, Revista da Sociedade Brasileira de Computação, número 28 de Março de 2015.
+- [**Ensinando Engenharia de Software na Prática, Parte II**](http://vinicius3w.com/education/ensinando-engenharia-de-software-na-pratica-parte-ii/)
+￼- [**Qual é o impacto da ES no mercado de Computação e na sociedade como um todo**](https://drive.google.com/file/d/0Bxt1VZoj3lGuazhWM19CenlucUU/view?usp=sharing). Computação Brasil, Revista da Sociedade Brasileira de Computação, número 28 de Março de 2015.
 - Dias-Neto, A.C., Prikladnicki, R., Barros, M..O. et al. **[Software engineering research in Brazil from the perspective of young researchers: a panorama of the last decade](https://doi.org/10.1186/s13173-015-0033-0)**. Journal of the Brazilian Computer Society, December 2015, 21:14. doi:10.1186/s13173-015-0033-0.
 - Christof Ebert, Marco Kuhrmann, Rafael Prikladnicki. **[Global Software Engineering: An Industry Perspective](https://www.computer.org/csdl/mags/so/2016/01/mso2016010105-abs.html)**. IEEE Software, vol.33, no. 1, pp. 105-108, Jan.-Feb. 2016, doi:10.1109/MS.2016.27
 - Armando Fox and David Patterson. 2012. **[Crossing the software education chasm](http://bit.ly/1b9QbFj)**. Commun. ACM 55, 5 (May 2012), 44-49. DOI: <https://doi.org/10.1145/2160718.2160732>
