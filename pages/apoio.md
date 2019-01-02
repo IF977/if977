@@ -85,3 +85,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
 - [Git 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 - [Curso básico de Git ](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+
+## BBD
+
+- [BDD: Writing an Automated Test Suite isn’t Rocket Science](https://hackernoon.com/bdd-writing-a-test-suite-before-writing-code-6279e4cf4be6)
