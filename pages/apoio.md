@@ -79,6 +79,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Git
 
+- [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
 - [Top 5 Free Courses to Learn Git and Github — Best of Lot](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
 - [Rails with Git and GitHub](http://railsapps.github.io/rails-git.html), by Daniel Kehoe
 - [Try Git](https://www.codeschool.com/courses/try-git), Codeschool
