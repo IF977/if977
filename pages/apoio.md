@@ -51,6 +51,10 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [You are Wrong About What Software Engineering is](https://hackernoon.com/you-are-wrong-about-what-software-engineering-is-e17f471c451b), by Humberto LineroFollow, Feb 4 - 2019.
 - [7 Common Web Development problems which every developer from Beginners to Experts should know [with multiple solutions]](https://hackernoon.com/7-common-web-development-problems-which-every-developer-from-beginners-to-experts-should-know-with-47a7d2e9367f), Yogi, Feb 2 - 2019.
 
+## Cloud Computing
+
+- [Public Cloud Services Comparison](http://comparecloud.in)
+
 ## Ruby on Rails & Frameworks de Programação
 
 - [5 Free Sites to Learn to Code](https://hackernoon.com/5-free-sites-to-learn-to-code-c9c87ce24f5d), Vinoth George, Feb 2 - 2019.
