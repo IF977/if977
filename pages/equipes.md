@@ -2,107 +2,108 @@
 
 # Equipes
 
-## (1) Nome do Projeto: Como é que é?
+## (1) Nome do Projeto: 
 
-* Almir Gabriel (aggs)
-* _Emerson Victor (evfl)_\*
-* José Neto (jcsn2)
-* José Tomáz (jtgl)
-* Navarro Alberson (nags)
+* _Jhonata Lima de Souza (jls3)_\*
+* Pedro Henrique Alves Cruz (phac)
+* Matheus Andrade Gomes (mag2)
+* Renan Stephano Barbosa de Souza Rodrigues (rsbsr)
 
-Link do projeto: <https://github.com/EmersonVictor/es-project>
-
-Link a aplicação no Heroku:
-
-Monitor: Antonio e Lerisson
-
-## (2) Nome do Projeto: MySNiPs
-
-* João Pedro Lira dos Santos (jpls)
-* João Rafael Santos Camelo (jrsc2)
-* José Reginaldo de Barros Junior (jrbj)
-* _Ricardo Ebbers Carneiro Leão (recl)_\*
-
-Link do repositório: <https://github.com/ricardoebbers/MySNiPs>
+Link do projeto: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: Mateus Cardoso e Lucas Assad
+Monitor: 
 
-## (3) Nome do Projeto: PensionApp
+## (2) Nome do Projeto: 
 
-* Adson Wesley Silva de Souza (awss)
-* Claudio Victor Rosas Pacheco (cvrp)
-* Dairon Eugênio Martins (dem)
-* _Ewerton David Brito de Jesus (edbj2)_\*
+* _Danilo Lira (drla)_\*
+* Ivan Ferreira (ifsl2)
+* Leonardo Lima (lol2)
+* Gabriel Estevam (gel)
 
-Link do repositório: <https://github.com/DavidBrito/PensionApp>
-
-Link a aplicação no Heroku:
-
-Monitor: Joismar e Ricardo Ferreira
-
-## (4) Nome do Projeto: RabbitCare
-
-* Bruno Vinícius Gonçalves Mota (bvgm)
-* Marcelo Aguiar Coelho de Moura Filho (macmf)
-* _Vitor Cardim Menezes (vcm3)_\*
-
-Link do repositório: <https://github.com/BrunoMota18/PROJETO-IF977>
+Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: Sandrine e Ricardo Ferreira
+Monitor: 
 
-## (5) Nome do Projeto: Fala-ai-Recife-
+## (3) Nome do Projeto: 
 
-* Giovanni Evaristo Corrêa Júnior (gecj)
-* Jefferson Wagner da Silva Alves (jwsa)
-* Jhonata Lima de Souza (jls3)
-* _Thales Rodrigues Monteiro (trm3)_\*
+* 
+* 
+* 
+* 
 
-Link do repositório: <https://github.com/gecjcin/Fala-ai-Recife->
-
-Link a aplicação no Heroku:
-
-Monitor: Sandrine e Joismar
-
-## (6) Nome do Projeto: É vegano?
-
-* Guilherme Prado dos Santos (gps2)
-* Monalisa Meyrelle de Sousa Silva (mmss)
-* _Ricarth Ruan da Silva Lima  (rrsl)_\*
-* Warley Soares de Souza (wss)
-
-Link do repositório: <https://github.com/ricarthlima/eo-project-es>
+Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: Lucas Assad e Lerisson 
+Monitor: 
 
-## (7) Nome do Projeto: Primeiro Emprego
+## (4) Nome do Projeto:  
 
-* Ewerton Ferreira (effs)
-* Gabriel Fontanário (gsf4)
-* Henrique Melo (hmf)
-* _Lucas Pires (lps6)_\*
+* 
+* 
+* 
+* 
 
-Link do repositório: <https://github.com/lucaspiressilveira/primeiroemprego>
-
-Link a aplicação no Heroku:
-
-Monitor: Lucas Assad e Paulo Sergio
-
-## (8) Nome do Projeto: iGuia
-
-* Chiu Yong (cyc)
-* _Giovanni Veloso (gvs)_\*
-* Victor Hugo (vhrc)
-
-Link do repositório: <https://github.com/chiuyong/iGuia>
+Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: Paulo Sergio e Mateus Cardoso
+Monitor: 
+
+## (5) Nome do Projeto:  
+
+* 
+* 
+* 
+* 
+
+Link do repositório: <https://github.com/>
+
+Link a aplicação no Heroku:
+
+Monitor: 
+
+## (6) Nome do Projeto:  
+
+* 
+* 
+* 
+* 
+
+Link do repositório: <https://github.com/>
+
+Link a aplicação no Heroku:
+
+Monitor:  
+
+## (7) Nome do Projeto:  
+
+* 
+* 
+* 
+* 
+
+Link do repositório: <https://github.com/>
+
+Link a aplicação no Heroku:
+
+Monitor: 
+
+## (8) Nome do Projeto:  
+
+* 
+* 
+* 
+* 
+
+Link do repositório: <https://github.com/>
+
+Link a aplicação no Heroku:
+
+Monitor: 
 
 \* _Líder do Time_
