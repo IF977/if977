@@ -69,10 +69,10 @@ Monitor:
 
 ## (6) Nome do Projeto:  
 
-* 
-* 
-* 
-* 
+* _Adauto Mourato (ajmbf)_\*
+* Antônio Almeirda (aasn)
+* Ighor Honorato (ihon)
+* José Tomáz (jtgl)
 
 Link do repositório: <https://github.com/>
 
