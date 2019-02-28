@@ -30,10 +30,11 @@ Monitor:
 
 ## (3) Nome do Projeto: 
 
-* 
-* 
-* 
-* 
+* _Daniel Silva (djs)_\*
+* Hugo Uraga (hiu)
+* Jussara Silva (jprs)
+* Myllena Alves (mal4)
+* Myllena Almeida (mrma2)
 
 Link do repositório: <https://github.com/>
 
@@ -43,10 +44,10 @@ Monitor:
 
 ## (4) Nome do Projeto:  
 
-* 
-* 
-* 
-* 
+* Antônio Paulino (apln2)
+* Gabriel Cavalcanti (gcm2)
+* Isac Tomaz (its)
+* _Pedro Rodolfo (prgs)_\*
 
 Link do repositório: <https://github.com/>
 
@@ -56,10 +57,9 @@ Monitor:
 
 ## (5) Nome do Projeto:  
 
-* 
-* 
-* 
-* 
+* _Raphael Farias de Figueiredo (rff3)\*
+* Livio Cavalcanti de Souza (lcs9)
+* Josenildo Lopes de Souza (jls2)
 
 Link do repositório: <https://github.com/>
 
