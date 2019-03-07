@@ -53,8 +53,6 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [You are Wrong About What Software Engineering is](https://hackernoon.com/you-are-wrong-about-what-software-engineering-is-e17f471c451b), by Humberto LineroFollow, Feb 4 - 2019.
 - [7 Common Web Development problems which every developer from Beginners to Experts should know [with multiple solutions]](https://hackernoon.com/7-common-web-development-problems-which-every-developer-from-beginners-to-experts-should-know-with-47a7d2e9367f), Yogi, Feb 2 - 2019.
 
-
-
 ## Cloud Computing
 
 - [Public Cloud Services Comparison](http://comparecloud.in)
@@ -83,6 +81,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Setup Ruby On Rails on Ubuntu 14.04](https://gorails.com/setup/ubuntu/14.04) Trusty Tahr
 - [Especial: 8 sites gratuitos para aprender programação por conta própria](http://idgnow.com.br/internet/2015/08/11/conheca-8-sites-gratuitos-para-aprender-programacao-por-conta-propria/)
 - [12 Sites That Will Teach You Coding for Free](http://www.entrepreneur.com/article/250323)
+- [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
 
 ## Platform as a Service - Deployment Enviroments
 
