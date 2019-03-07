@@ -44,10 +44,10 @@ Monitor:
 
 ## (4) Nome do Projeto:  
 
-* Antônio Paulino (apln2)
+* _Antônio Paulino (apln2)_\*
 * Gabriel Cavalcanti (gcm2)
 * Isac Tomaz (its)
-* _Pedro Rodolfo (prgs)_\*
+* Pedro Rodolfo (prgs)
 
 Link do repositório: <https://github.com/>
 
