@@ -15,14 +15,14 @@ Link a aplicação no Heroku:
 
 Monitor: 
 
-## (2) Nome do Projeto: 
+## (2) Nome do Projeto: I4Bizz
 
 * _Danilo Lira (drla)_\*
 * Ivan Ferreira (ifsl2)
 * Leonardo Lima (lol2)
 * Gabriel Estevam (gel)
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/RenanRodriguesRecife/if977_equipe2>
 
 Link a aplicação no Heroku:
 
