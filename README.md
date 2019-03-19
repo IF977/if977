@@ -33,7 +33,7 @@ Centro de Informática, horários: segunda (18:50-20:30) e quarta (17:00-18:40),
 
 ### Edições anteriores
 
-* [Semestre 2018.2](https://github.com/IF977/if977/releases/tag/if977-2018-2)
+* [Semestre 2018.2](http://bit.ly/vcg-es-2018-2)
 * Até 2018.1 [este era o site da disciplina](http://www.cin.ufpe.br/~if977).
 
 ### Atenção
