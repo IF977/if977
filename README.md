@@ -33,7 +33,7 @@ Centro de Informática, horários: segunda (18:50-20:30) e quarta (17:00-18:40),
 
 ### Edições anteriores
 
-* [Semestre 2018.2](https://github.com/IF977/if977/releases/tag/if977-2018-2)
+* [Semestre 2018.2](http://bit.ly/vcg-es-2018-2)
 * Até 2018.1 [este era o site da disciplina](http://www.cin.ufpe.br/~if977).
 
 ### Atenção
@@ -109,7 +109,9 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 
 * <a href="https://github.com" target="_blank">GitHub</a> (sistema de controle de versão distribuída, rápido e escalável).
 * <a href="https://c9.io/" target="_blank">Cloud9</a>, your development environment, in the cloud.
-* <a href="https://codenvy.com/" target="_blank">Codeny</a>, cloud workspaces for Dev teams.
+* <a href="https://codenvy.com/" target="_blank">Codenvy</a>, cloud workspaces for Dev teams.
+* <a href="https://coder.com" target="_blank">Coder</a>, an online IDE serving VSCode.
+* <a href="https://www.slant.co/options/2223/alternatives/~aws-cloud-9-alternatives" target="_blank">What is the best alternative to AWS Cloud 9?</a>
 
 ### Links, posts e artigos diversos
 
