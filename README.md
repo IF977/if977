@@ -110,6 +110,8 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 * <a href="https://github.com" target="_blank">GitHub</a> (sistema de controle de versão distribuída, rápido e escalável).
 * <a href="https://c9.io/" target="_blank">Cloud9</a>, your development environment, in the cloud.
 * <a href="https://codenvy.com/" target="_blank">Codenvy</a>, cloud workspaces for Dev teams.
+* <a href="https://coder.com" target="_blank">Coder</a>, an online IDE serving VSCode.
+* <a href="https://www.slant.co/options/2223/alternatives/~aws-cloud-9-alternatives" target="_blank">What is the best alternative to AWS Cloud 9?</a>
 
 ### Links, posts e artigos diversos
 
