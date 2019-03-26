@@ -2,14 +2,14 @@
 
 # Equipes
 
-## (1) Nome do Projeto: 
+## (1) Nome do Projeto: Accessible Life
 
 * _Jhonata Lima de Souza (jls3)_\*
 * Pedro Henrique Alves Cruz (phac)
 * Matheus Andrade Gomes (mag2)
 * Renan Stephano Barbosa de Souza Rodrigues (rsbsr)
 
-Link do projeto: <https://github.com/>
+Link do projeto: <https://github.com/RenanRodriguesRecife/if977_equipe2>
 
 Link a aplicação no Heroku:
 
