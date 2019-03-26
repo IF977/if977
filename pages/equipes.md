@@ -49,7 +49,7 @@ Monitores: Antonio Augusto C. Gondim Neto (aacgn) & Mateus C. G. da Silva (mcgs)
 * Isac Tomaz (its)
 * Pedro Rodolfo (prgs)
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/aplneto/projeto_ES>
 
 Link a aplicação no Heroku:
 
