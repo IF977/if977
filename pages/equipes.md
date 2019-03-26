@@ -67,14 +67,14 @@ Link a aplicação no Heroku:
 
 Monitor: Antonio R. da Mata Neto (armn) & Matheus R. de O. Leandro (mrol)
 
-## (6) Nome do Projeto:  
+## (6) Nome do Projeto: Pet helper
 
 * _Adauto Mourato (ajmbf)_\*
 * Antônio Almeirda (aasn)
 * Ighor Honorato (ihon)
 * José Tomáz (jtgl)
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/ajmbf/Projeto-ES/>
 
 Link a aplicação no Heroku:
 
