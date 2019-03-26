@@ -47,11 +47,13 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Software Enfineering and Software Development
 
-- [Four reasons you need automated tests for your code](https://hackernoon.com/four-reasons-you-need-automated-tests-for-your-code-3fd4f6f4e720), Written by Vikash Tank, Junior Blockchain Developer at Verv, Feb 26 - 2019.
-- [Responsabilidades do Product Owner](https://youtu.be/EVMkjmoZD8g), Dicas para profissionais que estão iniciando no papel de Product Owner, Feb 26 - 2019.
-- [Lean for Software Developers](https://hackernoon.com/lean-for-software-developers-15021cfb382c), by Krzysztof CzernekFollow, Feb 5 - 2019.
-- [You are Wrong About What Software Engineering is](https://hackernoon.com/you-are-wrong-about-what-software-engineering-is-e17f471c451b), by Humberto LineroFollow, Feb 4 - 2019.
-- [7 Common Web Development problems which every developer from Beginners to Experts should know [with multiple solutions]](https://hackernoon.com/7-common-web-development-problems-which-every-developer-from-beginners-to-experts-should-know-with-47a7d2e9367f), Yogi, Feb 2 - 2019.
+- [Four reasons you need automated tests for your code](https://hackernoon.com/four-reasons-you-need-automated-tests-for-your-code-3fd4f6f4e720), Written by Vikash Tank, Junior Blockchain Developer at Verv -- Feb 26, 2019.
+- [Responsabilidades do Product Owner](https://youtu.be/EVMkjmoZD8g), Dicas para profissionais que estão iniciando no papel de Product Owner -- Feb 26, 2019.
+- [Lean for Software Developers](https://hackernoon.com/lean-for-software-developers-15021cfb382c), by Krzysztof CzernekFollow -- Feb 5, 2019.
+- [You are Wrong About What Software Engineering is](https://hackernoon.com/you-are-wrong-about-what-software-engineering-is-e17f471c451b), by Humberto LineroFollow -- Feb 4, 2019.
+- [7 Common Web Development problems which every developer from Beginners to Experts should know [with multiple solutions]](https://hackernoon.com/7-common-web-development-problems-which-every-developer-from-beginners-to-experts-should-know-with-47a7d2e9367f), Yogi -- Feb 2, 2019.
+- [Application Architecture explained in a way your Mom will understand](http://bit.ly/2TVRLty), CrypteriumFollow -- Dec 11, 2018
+- [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), Robert ZhuFollow -- Dec 6, 2018
 
 ## Cloud Computing
 

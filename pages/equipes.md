@@ -28,7 +28,7 @@ Link a aplicação no Heroku:
 
 Monitor: 
 
-## (3) Nome do Projeto: 
+## (3) Nome do Projeto: Iggle
 
 * _Daniel Silva (djs)_\*
 * Hugo Uraga (hiu)
@@ -36,7 +36,7 @@ Monitor:
 * Myllena Alves (mal4)
 * Myllena Almeida (mrma2)
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/hugouraga/Iggle>
 
 Link a aplicação no Heroku:
 
