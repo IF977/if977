@@ -2,31 +2,31 @@
 
 # Equipes
 
-## (1) Nome do Projeto: 
+## (1) Nome do Projeto: Accessible Life
 
 * _Jhonata Lima de Souza (jls3)_\*
 * Pedro Henrique Alves Cruz (phac)
 * Matheus Andrade Gomes (mag2)
 * Renan Stephano Barbosa de Souza Rodrigues (rsbsr)
 
-Link do projeto: <https://github.com/>
+Link do projeto: <https://github.com/RenanRodriguesRecife/if977_equipe2>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitores: Lucas S. da C. Assad (lsca) & Lerisson F. Freitas (lff3)
 
-## (2) Nome do Projeto: I4Bizz
+## (2) Nome do Projeto: Propes
 
 * _Danilo Lira (drla)_\*
 * Ivan Ferreira (ifsl2)
 * Leonardo Lima (lol2)
 * Gabriel Estevam (gel)
 
-Link do repositório: <https://github.com/RenanRodriguesRecife/if977_equipe2>
+Link do repositório: <https://github.com/DaniloLira/Propes>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitores: Paulo S. da S. Rodrigues (pssr) & Vinicius G. C. Paulino (vgcp)
 
 ## (3) Nome do Projeto: Iggle
 
@@ -40,7 +40,7 @@ Link do repositório: <https://github.com/hugouraga/Iggle>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitores: Antonio Augusto C. Gondim Neto (aacgn) & Mateus C. G. da Silva (mcgs)
 
 ## (4) Nome do Projeto:  
 
@@ -49,11 +49,11 @@ Monitor:
 * Isac Tomaz (its)
 * Pedro Rodolfo (prgs)
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/aplneto/projeto_ES>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitor: Johnny M. S. Ferreira (jmsf2) & Joismar A. B. Braga (jabb)
 
 ## (5) Nome do Projeto:  
 
@@ -65,20 +65,20 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitor: Antonio R. da Mata Neto (armn) & Matheus R. de O. Leandro (mrol)
 
-## (6) Nome do Projeto:  
+## (6) Nome do Projeto: Pet helper
 
 * _Adauto Mourato (ajmbf)_\*
 * Antônio Almeirda (aasn)
 * Ighor Honorato (ihon)
 * José Tomáz (jtgl)
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/ajmbf/Projeto-ES/>
 
 Link a aplicação no Heroku:
 
-Monitor:  
+Monitor: Ricardo E. C. Leao (recl) & Sandrine Ventura Martins (svm2)
 
 ## (7) Nome do Projeto:  
 

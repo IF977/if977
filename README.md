@@ -62,12 +62,17 @@ Os monitores são responsáveis por aulas práticas da disciplina. Também são 
 São eles:
 
 - Antonio Rodrigues da Mata Neto (armn)
+- Antonio Augusto Correa Gondim Neto (aacgn)
+- Johnny Mayron Santana Ferreira (jmsf2)
 - Joismar Antonio Batista Braga (jabb)
 - Lerisson F. Freitas (lff3)
 - Lucas Serra da Cunha Assad (lsca)
 - Mateus Cardozo Gomes da Silva (mcgs)
+- Matheus Raz de Oliveira Leandro (mrol)
 - Paulo Sergio da Silva Rodrigues (pssr)
+- Ricardo Ebbers Carneiro Leao (recl)
 - Ricardo Ferreira dos Santos Junior (rfsj)
+- Vinicius Giles Costa Paulino (vgcp)
 
 Além dos monitores, temos também uma equipe de consultores, que estão disponíveis também para ajudar, sempre que solicitados, são eles:
 
