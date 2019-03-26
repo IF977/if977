@@ -13,7 +13,7 @@ Link do projeto: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitores: Lucas S. da C. Assad (lsca) & Lerisson F. Freitas (lff3)
 
 ## (2) Nome do Projeto: I4Bizz
 
@@ -26,7 +26,7 @@ Link do repositório: <https://github.com/RenanRodriguesRecife/if977_equipe2>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitores: Paulo S. da S. Rodrigues (pssr) & Vinicius G. C. Paulino (vgcp)
 
 ## (3) Nome do Projeto: Iggle
 
@@ -40,7 +40,7 @@ Link do repositório: <https://github.com/hugouraga/Iggle>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitores: Antonio Augusto C. Gondim Neto (aacgn) & Mateus C. G. da Silva (mcgs)
 
 ## (4) Nome do Projeto:  
 
@@ -53,7 +53,7 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitor: Johnny M. S. Ferreira (jmsf2) & Joismar A. B. Braga (jabb)
 
 ## (5) Nome do Projeto:  
 
@@ -65,7 +65,7 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitor: Antonio R. da Mata Neto (armn) & Matheus R. de O. Leandro (mrol)
 
 ## (6) Nome do Projeto:  
 
@@ -78,7 +78,7 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor:  
+Monitor: Ricardo E. C. Leao (recl) & Sandrine Ventura Martins (svm2)
 
 ## (7) Nome do Projeto:  
 
