@@ -15,14 +15,14 @@ Link a aplicação no Heroku:
 
 Monitores: Lucas S. da C. Assad (lsca) & Lerisson F. Freitas (lff3)
 
-## (2) Nome do Projeto: I4Bizz
+## (2) Nome do Projeto: Propes
 
 * _Danilo Lira (drla)_\*
 * Ivan Ferreira (ifsl2)
 * Leonardo Lima (lol2)
 * Gabriel Estevam (gel)
 
-Link do repositório: <https://github.com/RenanRodriguesRecife/if977_equipe2>
+Link do repositório: <https://github.com/DaniloLira/Propes>
 
 Link a aplicação no Heroku:
 
