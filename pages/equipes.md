@@ -11,7 +11,7 @@
 
 Link do projeto: <https://github.com/RenanRodriguesRecife/if977_equipe2>
 
-Link a aplicação no Heroku:
+Link a aplicação no Heroku: <http://accessiblelife.herokuapp.com>
 
 Monitores: Lucas S. da C. Assad (lsca) & Lerisson F. Freitas (lff3)
 
