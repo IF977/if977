@@ -8,6 +8,7 @@ Para a estruturacao do seu projeto, leve em consideracao a utilizacao da abordag
 
 Maiores informaçoes sobre **GQM** podem ser obtidas nos links:
 
+* [Aula sobre Goal-Question-Metric (GQM)](https://github.com/IF977/if977/blob/master/lectures/Engenharia%20de%20Software%20-%20GQM%20-%20final.pdf)
 * [AGILE METRICS: A GQM APPROACH](https://www.leadingagile.com/2017/05/agile-metrics-gqm-approach/)
 * [The Goal Question Metric Approach](https://github.com/IF977/if977/blob/master/GQM.pdf)
 * [Goal-Question-Metric (GQM), prof. Eduardo Figueiredo (DCC/ICEx/UFMG)](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/lectures/goal-question-metric_v01.pdf)
