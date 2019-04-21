@@ -85,6 +85,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Especial: 8 sites gratuitos para aprender programação por conta própria](http://idgnow.com.br/internet/2015/08/11/conheca-8-sites-gratuitos-para-aprender-programacao-por-conta-propria/)
 - [12 Sites That Will Teach You Coding for Free](http://www.entrepreneur.com/article/250323)
 - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
+- [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
+- [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
 
 ## Platform as a Service - Deployment Enviroments
 
