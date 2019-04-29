@@ -47,6 +47,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Software Enfineering and Software Development
 
+- [6 Ways to Master the Daily Stand-Up Meetings](http://bit.ly/2PxT9Ny), by Eric SmithFollow -- Apr 29, 2019
 - [One secret to becoming a great software engineer: read code](http://bit.ly/2PcKDn3), Become a better programmer by building a routine and habit for reading code, by Nemil DalalFollow -- Apr 16, 2019.
 - [Four reasons you need automated tests for your code](https://hackernoon.com/four-reasons-you-need-automated-tests-for-your-code-3fd4f6f4e720), Written by Vikash Tank, Junior Blockchain Developer at Verv -- Feb 26, 2019.
 - [Responsabilidades do Product Owner](https://youtu.be/EVMkjmoZD8g), Dicas para profissionais que estão iniciando no papel de Product Owner -- Feb 26, 2019.
