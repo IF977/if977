@@ -60,8 +60,9 @@ Monitor: Johnny M. S. Ferreira (jmsf2) & Joismar A. B. Braga (jabb)
 * _Raphael Farias de Figueiredo (rff3)\*
 * Livio Cavalcanti de Souza (lcs9)
 * Josenildo Lopes de Souza (jls2)
+* Rivaldo de Castro (rcra) 
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/rcra92/x-system>
 
 Link a aplicação no Heroku:
 
