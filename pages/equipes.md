@@ -21,6 +21,7 @@ Monitores: Lucas S. da C. Assad (lsca) & Lerisson F. Freitas (lff3)
 * Ivan Ferreira (ifsl2)
 * Leonardo Lima (lol2)
 * Gabriel Estevam (gel)
+* Antônio Almeirda (aasn)
 
 Link do repositório: <https://github.com/DaniloLira/Propes>
 
@@ -71,7 +72,6 @@ Monitor: Antonio R. da Mata Neto (armn) & Matheus R. de O. Leandro (mrol)
 ## (6) Nome do Projeto: Pet helper
 
 * _Adauto Mourato (ajmbf)_\*
-* Antônio Almeirda (aasn)
 * Ighor Honorato (ihon)
 * José Tomáz (jtgl)
 
