@@ -88,6 +88,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
 - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
 - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
+- [REXML, a pure Ruby XML processor](http://www.germane-software.com/software/rexml/docs/tutorial.html), Revision: 1.1.2.1
 
 ## Platform as a Service - Deployment Enviroments
 
