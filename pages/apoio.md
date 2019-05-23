@@ -89,6 +89,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
 - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
 - [REXML, a pure Ruby XML processor](http://www.germane-software.com/software/rexml/docs/tutorial.html), Revision: 1.1.2.1
+- [Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser](https://nokogiri.org)
 
 ## Platform as a Service - Deployment Enviroments
 
