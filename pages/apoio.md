@@ -25,6 +25,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Warm up
 
+- [How To Prepare Students For 21st Century Survival: 7 Skills Students Will Always Need](https://www.teachthought.com/the-future-of-learning/how-to-prepare-student-for-21st-century-survival/), by TeachThought Staff -- March 17, 2019
 - [**How to Read a Paper**](https://drive.google.com/a/cin.ufpe.br/file/d/0Bxt1VZoj3lGuR2tQWE5sTTdzYTA/edit?usp=sharing), S Keshav, ACM SIGCOMM Computer Communication Review, 2007.
 - [How to choose a good scientific problem](https://drive.google.com/open?id=0Bxt1VZoj3lGucElPSnlfMjRnbXM&authuser=0)
 - [Mapping out a research agenda](https://drive.google.com/open?id=0Bxt1VZoj3lGucElPSnlfMjRnbXM&authuser=0)
