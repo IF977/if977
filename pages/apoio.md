@@ -65,32 +65,36 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 ## Ruby on Rails & Frameworks de Programação
 
 - [5 Free Sites to Learn to Code](https://hackernoon.com/5-free-sites-to-learn-to-code-c9c87ce24f5d), Vinoth George, Feb 2 - 2019.
-- Ruby on Rails, Criando um Blog em 15 minutos (DRC Treinamentos)
-           - Parte 01: <http://youtu.be/z4fCLSeAjcA>
-           - Parte 02: <http://youtu.be/z4fCLSeAjcA>
-           - Parte 03: <http://youtu.be/GZBnduAHUoU>
-- [Aulas de Ruby on Rails para iniciantes](https://www.youtube.com/channel/UCwf9gicXucOZrWT8s7mm6ZQ)
-- Tutorial: [Ruby+Rails+começando com cucumber](http://ricardo.zn.inf.br/tag/qualidade-de-software/)
-- [Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/chapters/beginning), by Michael Hartl
-- [Cucumber: An Introduction for Non-Rubyists – Setup and the Basics](https://blog.codecentric.de/en/2013/08/cucumber-setup-basics/)
-- [Cucumber related blog posts/tutorials](https://github.com/cucumber/cucumber/wiki/tutorials-and-related-blog-posts)
-- Step definitions (Cucumber): <http://cukes.info/step-definitions.html>
-- [Quick tutorial: Starting with Cucumber and Capybara – BDD on Rails project](http://loudcoding.com/posts/quick-tutorial-starting-with-cucumber-and-capybara-bdd-on-rails-project/)
-- [Test-BDD-Cucumber-0.17](http://search.cpan.org/~bdr/Test-BDD-Cucumber-0.17/lib/Test/BDD/Cucumber/Manual/Tutorial.pod)
-- Tutorial Rails: [Devise with RSpec and Cucumber](http://railsapps.github.io/tutorial-rails-devise-rspec-cucumber.html)
-- [Use the Cucumber](https://peepcode.com/products/cucumber)
-- [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), Jeffrey Dean and Sanjay Ghemawat, OSDI, 2004.
 - [Programming Frameworks Readings](https://docs.google.com/document/d/1j9AQWMTTniFiChKyV92lRbG8HFqX0EtIHITf-WZifVw/edit?usp=sharing)
-- [Install Ruby on Rails · Mac OS X Yosemite](http://railsapps.github.io/installrubyonrails-mac.html), by Daniel Kehoe
-- [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP&feature=c4-feed-u)
-- [Setup Ruby On Rails on Ubuntu 14.04](https://gorails.com/setup/ubuntu/14.04) Trusty Tahr
 - [Especial: 8 sites gratuitos para aprender programação por conta própria](http://idgnow.com.br/internet/2015/08/11/conheca-8-sites-gratuitos-para-aprender-programacao-por-conta-propria/)
 - [12 Sites That Will Teach You Coding for Free](http://www.entrepreneur.com/article/250323)
-- [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
-- [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
-- [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
-- [REXML, a pure Ruby XML processor](http://www.germane-software.com/software/rexml/docs/tutorial.html), Revision: 1.1.2.1
-- [Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser](https://nokogiri.org)
+- Cucumber & Capybara
+  - [Cucumber: An Introduction for Non-Rubyists – Setup and the Basics](https://blog.codecentric.de/en/2013/08/cucumber-setup-basics/)
+  - [Cucumber related blog posts/tutorials](https://github.com/cucumber/cucumber/wiki/tutorials-and-related-blog-posts)
+  - Step definitions (Cucumber): <http://cukes.info/step-definitions.html>
+  - [Quick tutorial: Starting with Cucumber and Capybara – BDD on Rails project](http://loudcoding.com/posts/quick-tutorial-starting-with-cucumber-and-capybara-bdd-on-rails-project/)
+  - [Test-BDD-Cucumber-0.17](http://search.cpan.org/~bdr/Test-BDD-Cucumber-0.17/lib/Test/BDD/Cucumber/Manual/Tutorial.pod)
+  - [Use the Cucumber](https://peepcode.com/products/cucumber)
+  - [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), Jeffrey Dean and Sanjay Ghemawat, OSDI, 2004.
+- Ruby on Rails
+  - Ruby on Rails, Criando um Blog em 15 minutos (DRC Treinamentos)
+    - Parte 01: <http://youtu.be/z4fCLSeAjcA>
+    - Parte 02: <http://youtu.be/z4fCLSeAjcA>
+    - Parte 03: <http://youtu.be/GZBnduAHUoU>
+  - [Aulas de Ruby on Rails para iniciantes](https://www.youtube.com/channel/UCwf9gicXucOZrWT8s7mm6ZQ)
+  - Tutorial: [Ruby+Rails+começando com cucumber](http://ricardo.zn.inf.br/tag/qualidade-de-software/)
+  - [Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/chapters/beginning), by Michael Hartl
+  - Tutorial Rails: [Devise with RSpec and Cucumber](http://railsapps.github.io/tutorial-rails-devise-rspec-cucumber.html)
+  - [Install Ruby on Rails · Mac OS X Yosemite](http://railsapps.github.io/installrubyonrails-mac.html), by Daniel Kehoe
+  - [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP&feature=c4-feed-u)
+  - [Setup Ruby On Rails on Ubuntu 14.04](https://gorails.com/setup/ubuntu/14.04) Trusty Tahr
+  - [REXML, a pure Ruby XML processor](http://www.germane-software.com/software/rexml/docs/tutorial.html), Revision: 1.1.2.1
+  - [Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser](https://nokogiri.org)
+- ReactJS & React Native
+  - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
+  - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
+  - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
+  - [Building Your First React Native App](https://hackernoon.com/building-your-first-react-native-app-77a192734ff1), by Nathan Thomas -- May 24, 2019
 
 ## Platform as a Service - Deployment Enviroments
 
