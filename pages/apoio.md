@@ -106,6 +106,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Git
 
+- [A gentle introduction to Git and GitHub — the ELI5 way](https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
 - [Top 5 Free Courses to Learn Git and Github — Best of Lot](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
 - [Rails with Git and GitHub](http://railsapps.github.io/rails-git.html), by Daniel Kehoe
 - [Try Git](https://www.codeschool.com/courses/try-git), Codeschool
