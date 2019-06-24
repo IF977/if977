@@ -8,6 +8,7 @@
 * Pedro Henrique Alves Cruz (phac)
 * Matheus Andrade Gomes (mag2)
 * Renan Stephano Barbosa de Souza Rodrigues (rsbsr)
+* Antônio Almeirda (aasn)
 
 Link do projeto: <https://github.com/RenanRodriguesRecife/if977_equipe2>
 
@@ -21,7 +22,6 @@ Monitores: Lucas S. da C. Assad (lsca) & Lerisson F. Freitas (lff3)
 * Ivan Ferreira (ifsl2)
 * Leonardo Lima (lol2)
 * Gabriel Estevam (gel)
-* Antônio Almeirda (aasn)
 
 Link do repositório: <https://github.com/DaniloLira/Propes>
 
