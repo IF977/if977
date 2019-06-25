@@ -21,6 +21,7 @@ Para quem tiver curiosidade, a história dessa cadeira é, resumidamente, contad
 ### Instrutores
 
 * **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
+* **Professor Colaborador** Vanilson Buérgio ([vanilson@gmail.com](mailto:vanilson@gmail.com))
 
 ### Local e Horários
 
