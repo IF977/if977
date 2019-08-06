@@ -30,10 +30,11 @@ Centro de Informática, horários: segunda (18:50-20:30) e quarta (17:00-18:40),
 ### Comunicação
 
 * Para facilitar a comunicação via e-mail no âmbito da disciplina, utilizem [if977] como parte do assunto do email.
-* _[EXPERIMENTO]_ Temos um canal no Telegram para uma comunicação mais dinâmica: <a href="https://t.me/if977" target="_blank">t.me/if977</a>
+* _[EXPERIMENTO]_ Temos um canal no Telegram para uma comunicação mais dinâmica: <a href="https://t.me/if977es" target="_blank">t.me/if977es</a>
 
 ### Edições anteriores
 
+* [Semestre 2019.1](http://bit.ly/vcg-es-2019-1)
 * [Semestre 2018.2](http://bit.ly/vcg-es-2018-2)
 * Até 2018.1 [este era o site da disciplina](http://www.cin.ufpe.br/~if977).
 
