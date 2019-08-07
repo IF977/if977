@@ -4,4 +4,4 @@
 
 ## [IF977] Engenharia de Software - Syllabus - 2019.1
 
-[**Link para o Syllabus**](https://docs.google.com/document/d/1JUtX35D9vFzhg9r-d-ngEOYzycNrfqFp0hQ-WzVxeeI/edit?usp=sharing).
+[**Link para o Syllabus**](https://docs.google.com/document/d/1AjJpCr56RSqKPnapZmiqZtxzgROEGa37OaRDsZvFsoc/edit?usp=sharing).
