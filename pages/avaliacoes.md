@@ -2,4 +2,4 @@
 
 # Avaliações
 
-Para ter acesso ao resultado das avaliações de **2019.1** utilize este [**link**](http://bit.ly/if977-ee-2019-1).
+Para ter acesso ao resultado das avaliações de **2019.2** utilize este [**link**](http://bit.ly/if977-ee-2019-2).
