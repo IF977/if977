@@ -32,7 +32,7 @@ Link a aplicação no Heroku:
 
 Monitores: 
 
-## (3) Nome do Projeto: Iggle
+## (3) Nome do Projeto: Equipe 3
 
 * _Igor_
 * Kayque
