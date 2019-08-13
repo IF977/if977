@@ -2,84 +2,92 @@
 
 # Equipes
 
-## (1) Nome do Projeto: Accessible Life
+## (1) Nome do Projeto: Equipe 1
 
-* _Jhonata Lima de Souza (jls3)_\*
-* Pedro Henrique Alves Cruz (phac)
-* Matheus Andrade Gomes (mag2)
-* Renan Stephano Barbosa de Souza Rodrigues (rsbsr)
+* _Andre_
+* Izabella
+* Matheus
+* Janiel
+* Mauro
+* Tarcisio
 
-Link do projeto: <https://github.com/RenanRodriguesRecife/if977_equipe2>
+Link do projeto: <https://github.com/>
 
-Link a aplicação no Heroku: <http://accessiblelife.herokuapp.com>
+Link a aplicação no Heroku: 
 
-Monitores: Lucas S. da C. Assad (lsca) & Lerisson F. Freitas (lff3)
+Monitores: 
 
-## (2) Nome do Projeto: Propes
+## (2) Nome do Projeto: Equipe 2
 
-* _Danilo Lira (drla)_\*
-* Ivan Ferreira (ifsl2)
-* Leonardo Lima (lol2)
-* Gabriel Estevam (gel)
-* Antônio Almeirda (aasn)
+* _Adriano_
+* Bruno
+* Danilo
+* Fernando
+* Jose Lucio
+* Gabriel H
 
-Link do repositório: <https://github.com/DaniloLira/Propes>
+Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitores: Paulo S. da S. Rodrigues (pssr) & Vinicius G. C. Paulino (vgcp)
+Monitores: 
 
 ## (3) Nome do Projeto: Iggle
 
-* _Daniel Silva (djs)_\*
-* Hugo Uraga (hiu)
-* Jussara Silva (jprs)
-* Myllena Alves (mal4)
-* Myllena Almeida (mrma2)
+* _Igor_
+* Kayque
+* Lucas
+* Marcos
+* Jose Sheldon
+* Talyta
 
-Link do repositório: <https://github.com/hugouraga/Iggle>
-
-Link a aplicação no Heroku:
-
-Monitores: Antonio Augusto C. Gondim Neto (aacgn) & Mateus C. G. da Silva (mcgs)
-
-## (4) Nome do Projeto:  
-
-* _Antônio Paulino (apln2)_\*
-* Gabriel Cavalcanti (gcm2)
-* Isac Tomaz (its)
-* Pedro Rodolfo (prgs)
-
-Link do repositório: <https://github.com/aplneto/projeto_ES>
+Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: Johnny M. S. Ferreira (jmsf2) & Joismar A. B. Braga (jabb)
+Monitores: 
 
-## (5) Nome do Projeto:  
+## (4) Nome do Projeto: Equipe 4
 
-* _Raphael Farias de Figueiredo (rff3)\*
-* Livio Cavalcanti de Souza (lcs9)
-* Josenildo Lopes de Souza (jls2)
-* Rivaldo de Castro (rcra) 
+* _Joao Gabriel_
+* Gabriel R.
+* Victor Sena
+* Adriana
+* Giovanni
+* Thiago B
 
-Link do repositório: <https://github.com/rcra92/x-system>
-
-Link a aplicação no Heroku:
-
-Monitor: Antonio R. da Mata Neto (armn) & Matheus R. de O. Leandro (mrol)
-
-## (6) Nome do Projeto: Pet helper
-
-* _Adauto Mourato (ajmbf)_\*
-* Ighor Honorato (ihon)
-* José Tomáz (jtgl)
-
-Link do repositório: <https://github.com/ajmbf/Projeto-ES/>
+Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: Ricardo E. C. Leao (recl) & Sandrine Ventura Martins (svm2)
+Monitor: 
+
+## (5) Nome do Projeto: Equipe 5
+
+* _Tomaz_
+* Thales
+* Vitor Lima
+* Victor Gabryel
+* Ivan
+* Ighor
+
+Link do repositório: <https://github.com/>
+
+Link a aplicação no Heroku:
+
+Monitor: 
+
+## (6) Nome do Projeto: 
+
+* 
+* 
+* 
+
+Link do repositório: <https://github.com/>
+
+Link a aplicação no Heroku:
+
+Monitor: 
 
 ## (7) Nome do Projeto:  
 
