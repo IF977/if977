@@ -25,6 +25,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Iniciando com Git | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=MW7hrQe6aYo&list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk)
 - [Iniciando no ReactJS | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
 - [Iniciando com AdonisJS, um framework completo para NodeJS | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
+- [API NodeJS + Express + Mongo -> Estrutura e cadastro | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp)
 
 ## Warm up
 
