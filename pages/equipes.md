@@ -4,12 +4,12 @@
 
 ## (1) Nome do Projeto: Equipe 1
 
-* _Andre_
-* Izabella
-* Matheus
-* Janiel
-* Mauro
-* Tarcisio
+* _André Luis Fernandes Nascimento (alfn)*_
+* Izabella Priscylla da Costa Nascimento (ipcn)
+* Janiel Nicácio da Silva (jns3)
+* Matheus Santos Veras (msv3)
+* Mauro Antonino Veríssimo (mav)
+* Tarcísio Chaves Monteiro (tcm)
 
 Link do projeto: <https://github.com/>
 
@@ -64,14 +64,13 @@ Monitor:
 
 ## (5) Nome do Projeto: Equipe 5
 
-* _Tomaz_
-* Thales
-* Vitor Lima
-* Victor Gabryel
-* Ivan
-* Ighor
+* _José Tomáz (jtgl)*_
+* Vitor Lima ()
+* Victor Gabryel Santos (vgss)
+* Ivan Ferreira (ifsl2)
+* Ighor Honorato (ihon)
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/jtomaz99/ES-Project>
 
 Link a aplicação no Heroku:
 
