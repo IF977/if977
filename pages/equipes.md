@@ -64,11 +64,11 @@ Monitor:
 
 ## (5) Nome do Projeto: Equipe 5
 
-* _José Tomáz (jtgl)*_
-* Vitor Lima ()
-* Victor Gabryel Santos (vgss)
-* Ivan Ferreira (ifsl2)
+* _José Tomáz Gonçalves (jtgl)*_
 * Ighor Honorato (ihon)
+* Ivan Ferreira da Silva Lima (ifsl2)
+* Vitor Lima (vals)
+* Victor Gabryel Santos (vgss)
 
 Link do repositório: <https://github.com/jtomaz99/ES-Project>
 
