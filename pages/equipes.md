@@ -34,12 +34,12 @@ Monitores:
 
 ## (3) Nome do Projeto: Equipe 3
 
-* _Igor_
-* Kayque
-* Lucas
-* Marcos
-* Jose Sheldon
-* Talyta
+* _Igor Fernandes (ifc)*_
+* Kayque Santos (klss)
+* Lucas Burgos (lpcb)
+* Marcos Galvão (matg)
+* Sheldon Fekete (jsbf)
+* Talyta Pacheco (tmrp)
 
 Link do repositório: <https://github.com/>
 
