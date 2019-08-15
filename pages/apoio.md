@@ -22,6 +22,9 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Railscasts](http://railscasts.com/): focuses on Rails-specific development issues
 - [RailsLab](http://railslab.newrelic.com/): focuses on Rails-specific operations/dev-ops issues
 - [BDDcasts](http://bddcasts.com/) specializes in BDD & Cucumber [TeachMeToCode](http://teachmetocode.com/)
+- [Iniciando com Git | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=MW7hrQe6aYo&list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk)
+- [Iniciando no ReactJS | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
+- [Iniciando com AdonisJS, um framework completo para NodeJS | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
 
 ## Warm up
 
