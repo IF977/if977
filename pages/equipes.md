@@ -19,12 +19,12 @@ Monitores:
 
 ## (2) Nome do Projeto: Equipe 2
 
-* _Adriano_
-* Bruno
-* Danilo
-* Fernando
-* Jose Lucio
-* Gabriel H
+* _Danilo Leite de França (dlf3)*_
+* Gabriel Hans Stadtler (ghs2)
+* Bruno Artagoitia Vicente do Nascimento (bavn)
+* Adriano Gonçalves de Souza (ags6)
+* Fernando Nunes Ferreira de Oliveira (fnfo)
+* José Lúcio de Almeida Júnior (jlaj2)
 
 Link do repositório: <https://github.com/>
 
