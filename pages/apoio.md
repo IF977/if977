@@ -62,6 +62,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [OpenShift](https://www.openshift.com/)
   - [Codenvy](http://codenvy.com)
   - [C9.io](http://www.c9.io/)
+- [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)
   
 ## Environment
 
@@ -85,6 +86,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - NodeJS
   - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
+  - [Gerenciando variáveis ambiente no NodeJS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/), por Higo Ribeiro -- Jan, 2019
 - ReactJS & React Native
   - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
   - [Playlist ReactJS by Rocketseat](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
