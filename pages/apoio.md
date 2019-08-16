@@ -4,54 +4,43 @@
 
 Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
-| Tópico                     | Básicos e Iniciantes                                                              | Iniciantes a Intermediários                                                                                                                                                             | Intermediários a Avançados         | Materiais de Referência em Geral                                                                                                      |
-| -------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Ruby                       | [Try Ruby](http://www.tryruby.org/) <BR> [Codecademy](http://www.codecademy.com/) | [RubyMonk](http://rubymonk.com/) <BR> [Ruby Bits](https://www.codeschool.com/courses/ruby-bits) ([Code School](https://www.codeschool.com/courses/ruby-bits)) - começa free depois pago | [Rubykoans](http://rubykoans.com/) | [Ruby style guide](https://github.com/styleguide/ruby) <BR> [Ruby cheat sheet](http://www.zenspider.com/Languages/Ruby/QuickRef.html) |
-| Rails                      |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| HTML, CSS, etc.            |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| Git, GitHub                |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| JavaScript                 |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| Banco de Dados Relacionais |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| RSpec                      |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| Cucumber                   |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| Bundler                    |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-| Heroku                     |                                                                                   |                                                                                                                                                                                         |                                    |                                                                                                                                       |
-
-## Free screencasts
-
-- [Railscasts](http://railscasts.com/): focuses on Rails-specific development issues
-- [RailsLab](http://railslab.newrelic.com/): focuses on Rails-specific operations/dev-ops issues
-- [BDDcasts](http://bddcasts.com/) specializes in BDD & Cucumber [TeachMeToCode](http://teachmetocode.com/)
-- [Iniciando com Git | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=MW7hrQe6aYo&list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk)
-- [Iniciando no ReactJS | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
-- [Iniciando com AdonisJS, um framework completo para NodeJS | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
-- [API NodeJS + Express + Mongo -> Estrutura e cadastro | Diego Fernandes (Rocketseat)](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp)
-
 ## Warm up
 
 - [How To Prepare Students For 21st Century Survival: 7 Skills Students Will Always Need](https://www.teachthought.com/the-future-of-learning/how-to-prepare-student-for-21st-century-survival/), by TeachThought Staff -- March 17, 2019
 - [**How to Read a Paper**](https://drive.google.com/a/cin.ufpe.br/file/d/0Bxt1VZoj3lGuR2tQWE5sTTdzYTA/edit?usp=sharing), S Keshav, ACM SIGCOMM Computer Communication Review, 2007.
+- [7 Skills Students Will Always Need](http://www.teachthought.com/learning/how-to-prepare-student-for-21st-century-survival/)
 - [How to choose a good scientific problem](https://drive.google.com/open?id=0Bxt1VZoj3lGucElPSnlfMjRnbXM&authuser=0)
 - [Mapping out a research agenda](https://drive.google.com/open?id=0Bxt1VZoj3lGucElPSnlfMjRnbXM&authuser=0)
 - [Português e Redação (TRT)](https://drive.google.com/open?id=0Bxt1VZoj3lGucElPSnlfMjRnbXM&authuser=0)
-- [**An Agenda for the Future of Software (Engineering in Brazil)**](https://youtu.be/eujhiejLL7c), Prof. Silvio Meira
 - [Computers Are The Future, But Does Everyone Need To Code?](http://n.pr/1kzKwQA)
-- [Código legado: um exercício de arqueologia e compaixão](http://www.itexto.net/devkico/?p=2073)
 - Artigos, Teses e dissertações do grupo ASSERT: <http://assertlab.com/publicacoes>
 - Temas e linhas de pesquisa que tenho trabalhado (2014): <http://bit.ly/assertlab2014>
-- [Examples Showing How You Can Scale Scrum](http://www.infoq.com/news/2014/05/examples-scale-scrum)
-- [Conselhos de um velho programador antissocial e ranzinza](http://gizmodo.uol.com.br/conselhos-de-um-velho-programador-antissocial-e-ranzinza/)
-- [Scrumhalf](http://myscrumhalf.com/?lang=en)
-- [Não fique preso a apenas uma arquitetura](http://www.infoq.com/br/presentations/nao-fique-preso-a-uma-arquitetura)
-- [Evoluindo uma Arquitetura inteiramente sobre APIs: o caso da SoundCloud](http://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud)
-- [Migrando uma aplicação de alta disponibilidade para a nuvem da Amazon](http://www.infoq.com/br/interviews/joao-talles-migrando-cloud-amazon)
 - [Coursera lança curso gratuito sobre empreendedorismo no Brasil](http://idgnow.com.br/internet/2015/08/11/coursera-lanca-curso-gratuito-sobre-empreendedorismo-no-brasil/)
 - [Como estimular a criatividade dos estudantes e direcioná-la para um rumo produtivo](http://noticias.universia.com.br/educacao/noticia/2015/01/15/1118281/professor-descubra-15-maneiras-estimular-criatividade-alunos.html)
-- [7 Skills Students Will Always Need](http://www.teachthought.com/learning/how-to-prepare-student-for-21st-century-survival/)
 - [10 ferramentas gratuitas para empreendedores](https://catracalivre.com.br/geral/empreendedorismo/indicacao/10-ferramentas-gratuitas-para-empreendedores/)
+
+
+## Git
+
+- [Playlist Git by Rocketseat](https://www.youtube.com/watch?v=MW7hrQe6aYo&list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk)
+- [A gentle introduction to Git and GitHub — the ELI5 way](https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
+- [Top 5 Free Courses to Learn Git and Github — Best of Lot](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
+- [Rails with Git and GitHub](http://railsapps.github.io/rails-git.html), by Daniel Kehoe
+- [Try Git](https://www.codeschool.com/courses/try-git), Codeschool
+- [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
+- [Git 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
+- [Curso básico de Git ](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Software Enfineering and Software Development
 
+- [**An Agenda for the Future of Software (Engineering in Brazil)**](https://youtu.be/eujhiejLL7c), Prof. Silvio Meira
+- [Código legado: um exercício de arqueologia e compaixão](http://www.itexto.net/devkico/?p=2073)
+- [Conselhos de um velho programador antissocial e ranzinza](http://gizmodo.uol.com.br/conselhos-de-um-velho-programador-antissocial-e-ranzinza/)
+- [Não fique preso a apenas uma arquitetura](http://www.infoq.com/br/presentations/nao-fique-preso-a-uma-arquitetura)
+- [Evoluindo uma Arquitetura inteiramente sobre APIs: o caso da SoundCloud](http://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud)
+- [Examples Showing How You Can Scale Scrum](http://www.infoq.com/news/2014/05/examples-scale-scrum)
+- [Scrumhalf](http://myscrumhalf.com/?lang=en)
 - [6 Ways to Master the Daily Stand-Up Meetings](http://bit.ly/2PxT9Ny), by Eric SmithFollow -- Apr 29, 2019
 - [One secret to becoming a great software engineer: read code](http://bit.ly/2PcKDn3), Become a better programmer by building a routine and habit for reading code, by Nemil DalalFollow -- Apr 16, 2019.
 - [Four reasons you need automated tests for your code](https://hackernoon.com/four-reasons-you-need-automated-tests-for-your-code-3fd4f6f4e720), Written by Vikash Tank, Junior Blockchain Developer at Verv -- Feb 26, 2019.
@@ -64,23 +53,42 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Cloud Computing
 
+- [Migrando uma aplicação de alta disponibilidade para a nuvem da Amazon](http://www.infoq.com/br/interviews/joao-talles-migrando-cloud-amazon)
 - [Public Cloud Services Comparison](http://comparecloud.in)
+- Platform as a Service - Deployment Enviroments
+  - [Rails Heroku Tutorial](http://railsapps.github.io/rails-heroku-tutorial.html), by Daniel Kehoe
+  - [Getting Started with Rails 4.x on Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
+  - [OpenShift](https://www.openshift.com/)
+  - [Codenvy](http://codenvy.com)
+  - [C9.io](http://www.c9.io/)
 
-## Ruby on Rails & Frameworks de Programação
+## Frameworks de Programação
 
 - [5 Free Sites to Learn to Code](https://hackernoon.com/5-free-sites-to-learn-to-code-c9c87ce24f5d), Vinoth George, Feb 2 - 2019.
 - [Programming Frameworks Readings](https://docs.google.com/document/d/1j9AQWMTTniFiChKyV92lRbG8HFqX0EtIHITf-WZifVw/edit?usp=sharing)
 - [Especial: 8 sites gratuitos para aprender programação por conta própria](http://idgnow.com.br/internet/2015/08/11/conheca-8-sites-gratuitos-para-aprender-programacao-por-conta-propria/)
 - [12 Sites That Will Teach You Coding for Free](http://www.entrepreneur.com/article/250323)
-- Cucumber & Capybara
-  - [Cucumber: An Introduction for Non-Rubyists – Setup and the Basics](https://blog.codecentric.de/en/2013/08/cucumber-setup-basics/)
-  - [Cucumber related blog posts/tutorials](https://github.com/cucumber/cucumber/wiki/tutorials-and-related-blog-posts)
-  - Step definitions (Cucumber): <http://cukes.info/step-definitions.html>
-  - [Quick tutorial: Starting with Cucumber and Capybara – BDD on Rails project](http://loudcoding.com/posts/quick-tutorial-starting-with-cucumber-and-capybara-bdd-on-rails-project/)
-  - [Test-BDD-Cucumber-0.17](http://search.cpan.org/~bdr/Test-BDD-Cucumber-0.17/lib/Test/BDD/Cucumber/Manual/Tutorial.pod)
-  - [Use the Cucumber](https://peepcode.com/products/cucumber)
-  - [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), Jeffrey Dean and Sanjay Ghemawat, OSDI, 2004.
+- [Codecademy](http://www.codecademy.com/), the best system for **learning to code**.
+- Adonis
+  - [AdonisJS vs ExpressJS: Quando utilizar cada um?](https://blog.rocketseat.com.br/adonis-vs-express/), por Diego Fernandes -- Jan, 2019
+  - [Playlist AdonisJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoi5wROnW01cBMk8ss-eBMpO)
+  - [Criando CRUD e relações em API REST no AdonisJS](https://blog.rocketseat.com.br/crud-api-rest-adonis/), por Diego Fernandes -- Ago, 2018
+- NodeJS
+  - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
+  - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
+- ReactJS & React Native
+  - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
+  - [Playlist ReactJS by Rocketseat](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
+  - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
+  - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
+  - [Building Your First React Native App](https://hackernoon.com/building-your-first-react-native-app-77a192734ff1), by Nathan Thomas -- May 24, 2019
 - Ruby on Rails
+  - [Try Ruby](http://www.tryruby.org/), para nível Básico a Iniciante
+  - [RubyMonk](http://rubymonk.com/), para nível Iniciante a Intermediário
+  - [Ruby Bits](https://www.codeschool.com/courses/ruby-bits) ([Code School](https://www.codeschool.com/courses/ruby-bits)) - começa free depois pago, pata nível Iniciante a Intermediário
+  - [Rubykoans](http://rubykoans.com/), para nível Intermediário a Avançado 
+  - [Ruby style guide](https://github.com/styleguide/ruby)
+  - [Ruby cheat sheet](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
   - Ruby on Rails, Criando um Blog em 15 minutos (DRC Treinamentos)
     - Parte 01: <http://youtu.be/z4fCLSeAjcA>
     - Parte 02: <http://youtu.be/z4fCLSeAjcA>
@@ -94,27 +102,21 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Setup Ruby On Rails on Ubuntu 14.04](https://gorails.com/setup/ubuntu/14.04) Trusty Tahr
   - [REXML, a pure Ruby XML processor](http://www.germane-software.com/software/rexml/docs/tutorial.html), Revision: 1.1.2.1
   - [Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser](https://nokogiri.org)
-- ReactJS & React Native
-  - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
-  - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
-  - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
-  - [Building Your First React Native App](https://hackernoon.com/building-your-first-react-native-app-77a192734ff1), by Nathan Thomas -- May 24, 2019
-
-## Platform as a Service - Deployment Enviroments
-
-- [Rails Heroku Tutorial](http://railsapps.github.io/rails-heroku-tutorial.html), by Daniel Kehoe
-- [Getting Started with Rails 4.x on Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
-- [OpenShift](https://www.openshift.com/)
-- [Codenvy](http://codenvy.com)
-- [C9.io](http://www.c9.io/)
-
-## Git
-
-- [A gentle introduction to Git and GitHub — the ELI5 way](https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
-- [Top 5 Free Courses to Learn Git and Github — Best of Lot](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
-- [Rails with Git and GitHub](http://railsapps.github.io/rails-git.html), by Daniel Kehoe
-- [Try Git](https://www.codeschool.com/courses/try-git), Codeschool
-- [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
-- [Git 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
-- [Curso básico de Git ](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
-- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+  - [Railscasts](http://railscasts.com/): focuses on Rails-specific development issues
+  - [RailsLab](http://railslab.newrelic.com/): focuses on Rails-specific operations/dev-ops issues
+  
+## Frameworks de Testes
+  - [Por que escrever testes automatizados se eu mesmo posso testar?](https://blog.rocketseat.com.br/por-que-escrever-testes-automatizados/), por Higo Ribeiro -- Jan, 2019
+  - Cucumber & Capybara
+    - [BDDcasts](http://bddcasts.com/) specializes in BDD & Cucumber [TeachMeToCode](http://teachmetocode.com/)
+    - [Cucumber: An Introduction for Non-Rubyists – Setup and the Basics](https://blog.codecentric.de/en/2013/08/cucumber-setup-basics/)
+    - [Cucumber related blog posts/tutorials](https://github.com/cucumber/cucumber/wiki/tutorials-and-related-blog-posts)
+    - Step definitions (Cucumber): <http://cukes.info/step-definitions.html>
+    - [Quick tutorial: Starting with Cucumber and Capybara – BDD on Rails project](http://loudcoding.com/posts/quick-tutorial-starting-with-cucumber-and-capybara-bdd-on-rails-project/)
+    - [Test-BDD-Cucumber-0.17](http://search.cpan.org/~bdr/Test-BDD-Cucumber-0.17/lib/Test/BDD/Cucumber/Manual/Tutorial.pod)
+    - [Use the Cucumber](https://peepcode.com/products/cucumber)
+    - [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), Jeffrey Dean and Sanjay Ghemawat, OSDI, 2004.
+  - Adonis
+    - [Getting Started with tests](https://adonisjs.com/docs/4.1/testing)
+  - React
+    - [Enzyme](https://github.com/airbnb/enzyme), a JavaScript Testing utility for React that makes it easier to test your React Components' output.
