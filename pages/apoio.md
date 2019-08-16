@@ -62,6 +62,11 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [OpenShift](https://www.openshift.com/)
   - [Codenvy](http://codenvy.com)
   - [C9.io](http://www.c9.io/)
+  
+## Environment
+
+- [Configurando VSCode para Node.js, ReactJS e React Native](https://www.youtube.com/watch?v=c7P03kkrEG8)
+- [Terminal com Oh My Zsh, Spaceship, Dracula e mais](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/), por Diego Fernandes -- May, 2019
 
 ## Frameworks de Programação
 
