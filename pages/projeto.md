@@ -32,14 +32,16 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 1. Deve ter um modelo de negócio para continuidade do projeto.
 1. Deve ter uma análise de mercado ou de concorrentes.
 
-## Quando são os prazos (deadlines) do projeto
+## O que são os prazos (deadlines) do projeto?
+
+Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus.md).
 
 **Iteration 0**
 
-- Deadline 1 - **27/08** - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
-- Deadline 2 - **03/09** - Prazo final para confirmar time, cliente; agenda reuniões/calls;
-- Deadline 3 - **17/09** - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto
-- Deadline 4 - **24/09** - Criação de histórias de usuários iniciais; Criação de mockups e storyboards Lo-Fi  para histórias do usuário; Postmortem da iteração 0
+- Deadline 1 - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
+- Deadline 2 - Prazo final para confirmar time, cliente; agenda reuniões/calls;
+- Deadline 3 - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto
+- Deadline 4 - Criação de histórias de usuários iniciais; Criação de mockups e storyboards Lo-Fi  para histórias do usuário; Postmortem da iteração 0
 
 **Iteration 1**
 
