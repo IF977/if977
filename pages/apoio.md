@@ -22,6 +22,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Git
 
+- [Criando contribuição open-source no Github do zero!](https://www.youtube.com/watch?v=mcd7lqpUzIA)
 - [Playlist Git by Rocketseat](https://www.youtube.com/watch?v=MW7hrQe6aYo&list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk)
 - [A gentle introduction to Git and GitHub — the ELI5 way](https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
 - [Top 5 Free Courses to Learn Git and Github — Best of Lot](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
