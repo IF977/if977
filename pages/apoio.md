@@ -73,6 +73,9 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [AdonisJS vs ExpressJS: Quando utilizar cada um?](https://blog.rocketseat.com.br/adonis-vs-express/), por Diego Fernandes -- Jan, 2019
   - [Playlist AdonisJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoi5wROnW01cBMk8ss-eBMpO)
   - [Criando CRUD e relações em API REST no AdonisJS](https://blog.rocketseat.com.br/crud-api-rest-adonis/), por Diego Fernandes -- Ago, 2018
+- Express
+  - [Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/), por Higo Ribeiro -- Ago, 2018
+  - [Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/), por Claudio Orlandi -- Ago, 2018
 - NodeJS
   - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
