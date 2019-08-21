@@ -69,6 +69,7 @@ Monitor:
 * Ivan Ferreira da Silva Lima (ifsl2)
 * Vitor Lima (vals)
 * Victor Gabryel Santos (vgss)
+* Giovanni Evaristo Correa Junior (gecj)
 
 Link do repositório: <https://github.com/jtomaz99/ES-Project>
 
