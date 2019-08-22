@@ -84,7 +84,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - Express
   - [Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/), por Higo Ribeiro -- Ago, 2018
   - [Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/), por Claudio Orlandi -- Ago, 2018
-- Javascript
+- JavaScript
   - [JavaScript Guide, MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
     - [JavaScript basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
     - [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
