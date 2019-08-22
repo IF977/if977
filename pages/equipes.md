@@ -15,7 +15,7 @@ Link do projeto: <https://github.com/>
 
 Link a aplicação no Heroku: 
 
-Monitores: 
+Monitor: Lerisson Freitas (lff3)
 
 ## (2) Nome do Projeto: Equipe 2
 
@@ -30,7 +30,7 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitores: 
+Monitor: Ricardo Ebbers (recl)
 
 ## (3) Nome do Projeto: Equipe 3
 
@@ -45,7 +45,7 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitores: 
+Monitor: Ricardo Ferreira (rfsj)
 
 ## (4) Nome do Projeto: Equipe 4
 
@@ -60,7 +60,7 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitor: Sandrine Martins (svm2)
 
 ## (5) Nome do Projeto: Equipe 5
 
@@ -75,7 +75,7 @@ Link do repositório: <https://github.com/jtomaz99/ES-Project>
 
 Link a aplicação no Heroku:
 
-Monitor: 
+Monitor: Vinicius Giles (vgcp)
 
 ## (6) Nome do Projeto: 
 
