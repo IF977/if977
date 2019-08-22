@@ -68,6 +68,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 - [Configurando VSCode para Node.js, ReactJS e React Native](https://www.youtube.com/watch?v=c7P03kkrEG8)
 - [Terminal com Oh My Zsh, Spaceship, Dracula e mais](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/), por Diego Fernandes -- May, 2019
+- [Repl.it](http://repl.it/), A read-update-evaluate-loop browser app to quickly write and test code. This can be very useful sandbox for trying out different things in JavaScript, and perhaps the best way of learning new aspects of the language.
 
 ## Frameworks de Programação
 
@@ -83,6 +84,17 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - Express
   - [Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/), por Higo Ribeiro -- Ago, 2018
   - [Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/), por Claudio Orlandi -- Ago, 2018
+- Javascript
+ - [JavaScript Guide, MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+   - [JavaScript basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
+   - [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+   - [Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements)
+   - [Predefined Core Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Predefined_Core_Objects)
+ - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/#core)
+ - [Eloquent JavaScript](http://eloquentjavascript.net/index.html)
+   - [Introduction](http://eloquentjavascript.net/00_intro.html)
+   - [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
+   - [Values, variables, and literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
 - NodeJS
   - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
