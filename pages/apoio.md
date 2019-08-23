@@ -78,6 +78,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [12 Sites That Will Teach You Coding for Free](http://www.entrepreneur.com/article/250323)
 - [Codecademy](http://www.codecademy.com/), the best system for **learning to code**.
 - Adonis
+  - [AdonisJs](https://adonisjs.com), is a **Node.js web framework** with a breath of fresh air and drizzle of elegant syntax on top of it.
   - [AdonisJS vs ExpressJS: Quando utilizar cada um?](https://blog.rocketseat.com.br/adonis-vs-express/), por Diego Fernandes -- Jan, 2019
   - [Playlist AdonisJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoi5wROnW01cBMk8ss-eBMpO)
   - [Criando CRUD e relações em API REST no AdonisJS](https://blog.rocketseat.com.br/crud-api-rest-adonis/), por Diego Fernandes -- Ago, 2018
