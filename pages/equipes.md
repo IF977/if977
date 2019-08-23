@@ -60,7 +60,7 @@ Link do repositório: <https://github.com/>
 
 Link a aplicação no Heroku:
 
-Monitor: Sandrine Martins (svm2)
+Monitor: Vinicius Giles (vgcp)
 
 ## (5) Nome do Projeto: Equipe 5
 
@@ -75,7 +75,7 @@ Link do repositório: <https://github.com/jtomaz99/ES-Project>
 
 Link a aplicação no Heroku:
 
-Monitor: Vinicius Giles (vgcp)
+Monitor: Sandrine Martins (svm2)
 
 ## (6) Nome do Projeto: 
 
