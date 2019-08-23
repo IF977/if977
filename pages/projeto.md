@@ -46,7 +46,7 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 **Iteration 1**
 
 - Deadline 1 - Início do desenvolvimento
-- Deadline 2 - Criação de testes; Deploy + 2 HU's; Postmortem da iteração 1
+- Deadline 2 - Criação de testes; Deploy + 2 HU's; Postmortem da iteração 1; Criação do planejamento no formato **GQM**
 
 **Iteration 2**
 
@@ -61,7 +61,7 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 **Iteration 4**
 
 - Deadline 1 - Finalização do desenvolvimento
-- Deadline 2 - Criação de testes; Postmortem da iteração 4
+- Deadline 2 - Criação de testes; Postmortem da iteração 4; Screencast
 
 ## Quais são os produtos entregáveis (deliverables) do projeto
 
@@ -77,7 +77,7 @@ Os artefatos a serem produzidos durante o ciclod e vida do projeto, em resumo, s
 | **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | _Postmortem_ | Resumo do que funcionou e do que não funcionou durante a iteração, e planos para melhorar o que não funcionou. <BR>a) Período: data de início - data de término da iteração<BR>b) O que estava planejado?<br>- atividades e pra quem<br>c) O que foi feito?<br>- atividades e por quem<br>d) O que não foi feito?<br>- atividades e por quem, quais os impedimentos<br>e) O que está planejado para a próxima iteração?<br>- atividades e pra quem<br>f) Lições aprendidas (Post Mortem / Rationale) |
 | **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | Identificar o subconjunto de histórias trabalhadas na iteração | Cadastrar no [**github**](http://www.github.com) e identificar o responsável por cada uma delas e usar as labels |
 | **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | Usar BDD+TDD | Para desenvolver as histórias em Rails e implantar em [**Heroku**](http://www.heroku.com) |
-| **4** | Um screencast curto (2-3 minutos) | Gravado pelo time mostrando um demo do projeto entregue após as 4 iterações |
+| **4** | Um screencast curto (2-3 minutos) | Vídeo gravado pelo time (contendo legenda ou voz) mostrando um demo do projeto entregue após as 4 iterações |
 
 ## Sugestões para reuniões com clientes
 
