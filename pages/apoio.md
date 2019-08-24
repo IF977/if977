@@ -104,7 +104,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
   - [Gerenciando variáveis ambiente no NodeJS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/), por Higo Ribeiro -- Jan, 2019
 - ReactJS & React Native
-  - Learn ReactJS (Codecademy): [Part I](https://www.codecademy.com/learn/react-101), [Part II](https://www.codecademy.com/learn/react-102), Build powerful interactive applications with this popular JavaScript library.
+  - Learn ReactJS (Codecademy): [Part I](https://www.codecademy.com/learn/react-101) & [Part II](https://www.codecademy.com/learn/react-102), Build powerful interactive applications with this popular JavaScript library.
   - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
   - [Playlist ReactJS by Rocketseat](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
   - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
