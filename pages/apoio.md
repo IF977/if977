@@ -98,8 +98,9 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
     - [Introduction](http://eloquentjavascript.net/00_intro.html)
     - [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
     - [Values, variables, and literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
+  - [JavaScript - WebPlatform](https://webplatform.github.io/docs/javascript/)
+  - [Learn Javascript (gitbookio)](https://gitbookio.gitbooks.io/javascript/)
 - NodeJS
-  - [Create a back-end app with JavaScript]()
   - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
   - [Gerenciando variáveis ambiente no NodeJS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/), por Higo Ribeiro -- Jan, 2019
