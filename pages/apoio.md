@@ -83,9 +83,11 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Playlist AdonisJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoi5wROnW01cBMk8ss-eBMpO)
   - [Criando CRUD e relações em API REST no AdonisJS](https://blog.rocketseat.com.br/crud-api-rest-adonis/), por Diego Fernandes -- Ago, 2018
 - Express
+  - [Learn Express (Codecademy)](https://www.codecademy.com/learn/learn-express), Learn how to make back-end apps and APIs using the popular Express.js framework.
   - [Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/), por Higo Ribeiro -- Ago, 2018
   - [Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/), por Claudio Orlandi -- Ago, 2018
 - JavaScript
+  - [Introduction To JavaScript (Codecademy)](https://www.codecademy.com/learn/introduction-to-javascript), Learn the JavaScript fundamentals you'll need for front-end or back-end development.
   - [JavaScript Guide, MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
     - [JavaScript basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
     - [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
@@ -97,10 +99,12 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
     - [Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
     - [Values, variables, and literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
 - NodeJS
+  - [Create a back-end app with JavaScript]()
   - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
   - [Gerenciando variáveis ambiente no NodeJS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/), por Higo Ribeiro -- Jan, 2019
 - ReactJS & React Native
+  - Learn ReactJS (Codecademy): [Part I](https://www.codecademy.com/learn/react-101), [Part II](https://www.codecademy.com/learn/react-102), Build powerful interactive applications with this popular JavaScript library.
   - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
   - [Playlist ReactJS by Rocketseat](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
   - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
