@@ -103,6 +103,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [JavaScript - WebPlatform](https://webplatform.github.io/docs/javascript/)
   - [Learn Javascript (gitbookio)](https://gitbookio.gitbooks.io/javascript/)
 - NodeJS
+  - [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/p/node-js-para-iniciantes-nodebr), Aquele treinamento feito pela comunidade, para a comunidade!
   - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
   - [Gerenciando variáveis ambiente no NodeJS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/), por Higo Ribeiro -- Jan, 2019
