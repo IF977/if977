@@ -51,6 +51,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [7 Common Web Development problems which every developer from Beginners to Experts should know [with multiple solutions]](https://hackernoon.com/7-common-web-development-problems-which-every-developer-from-beginners-to-experts-should-know-with-47a7d2e9367f), Yogi -- Feb 2, 2019.
 - [Application Architecture explained in a way your Mom will understand](http://bit.ly/2TVRLty), CrypteriumFollow -- Dec 11, 2018
 - [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), Robert ZhuFollow -- Dec 6, 2018
+- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/?source=post_page-----c1eb7cfa8a30----------------------), August 13, 2016
 
 ## Cloud Computing
 
@@ -86,6 +87,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Learn Express (Codecademy)](https://www.codecademy.com/learn/learn-express), Learn how to make back-end apps and APIs using the popular Express.js framework.
   - [Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/), por Higo Ribeiro -- Ago, 2018
   - [Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/), por Claudio Orlandi -- Ago, 2018
+  - [“Hello World!” app with Node.js and Express](https://medium.com/@adnanrahic/hello-world-app-with-node-js-and-express-c1eb7cfa8a30), by Adnan Rahić -- Jan 9, 2017.
 - JavaScript
   - [Introduction To JavaScript (Codecademy)](https://www.codecademy.com/learn/introduction-to-javascript), Learn the JavaScript fundamentals you'll need for front-end or back-end development.
   - [JavaScript Guide, MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
