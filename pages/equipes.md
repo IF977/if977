@@ -41,7 +41,7 @@ Monitor: Ricardo Ebbers (recl)
 * Sheldon Fekete (jsbf)
 * Talyta Pacheco (tmrp)
 
-Link do repositório: <https://github.com/>
+Link do repositório: https://github.com/Igorxp5/AppLada
 
 Link a aplicação no Heroku:
 
