@@ -11,7 +11,7 @@
 * Mauro Antonino Veríssimo (mav)
 * Tarcísio Chaves Monteiro (tcm)
 
-Link do projeto: <https://github.com/>
+Link do projeto: https://github.com/Igorxp5/AppLada
 
 Link a aplicação no Heroku: 
 
