@@ -56,7 +56,7 @@ Monitor: Ricardo Ferreira (rfsj)
 * Giovanni
 * Thiago B
 
-Link do repositório: <https://github.com/>
+Link do repositório: <https://github.com/vsla/BugBounty/>
 
 Link a aplicação no Heroku:
 
