@@ -138,6 +138,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser](https://nokogiri.org)
   - [Railscasts](http://railscasts.com/): focuses on Rails-specific development issues
   - [RailsLab](http://railslab.newrelic.com/): focuses on Rails-specific operations/dev-ops issues
+- Vue
+  - [Building A Real-Time Chat Application With Vue.js and Firebase ](https://medium.com/codingthesmartway-com-blog/building-a-real-time-chat-application-with-vue-js-and-firebase-part-1-670c768ad860), by Sebastian Eschweiler -- Nov 9, 2018
   
 ## Frameworks de Testes
   - [Por que escrever testes automatizados se eu mesmo posso testar?](https://blog.rocketseat.com.br/por-que-escrever-testes-automatizados/), por Higo Ribeiro -- Jan, 2019
