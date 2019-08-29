@@ -74,6 +74,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Frameworks de Programação
 
+- [The 2019 Roadmap To Fullstack Web Development](https://medium.com/codingthesmartway-com-blog/the-2019-roadmap-to-fullstack-web-development-1bba67a54ae8), by Sebastian Eschweiler -- Nov 14, 2018 
 - [5 Free Sites to Learn to Code](https://hackernoon.com/5-free-sites-to-learn-to-code-c9c87ce24f5d), Vinoth George, Feb 2 - 2019.
 - [Programming Frameworks Readings](https://docs.google.com/document/d/1j9AQWMTTniFiChKyV92lRbG8HFqX0EtIHITf-WZifVw/edit?usp=sharing)
 - [Especial: 8 sites gratuitos para aprender programação por conta própria](http://idgnow.com.br/internet/2015/08/11/conheca-8-sites-gratuitos-para-aprender-programacao-por-conta-propria/)
