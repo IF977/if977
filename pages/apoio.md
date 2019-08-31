@@ -65,6 +65,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Codenvy](http://codenvy.com)
   - [C9.io](http://www.c9.io/)
 - [O que é API? REST e RESTful?](https://www.youtube.com/watch?v=ghTrp1x_1As)
+- [Deploy de aplicação NodeJS e ReactJS no Heroku (Youtube)](https://www.youtube.com/watch?v=-j7vLmBMsEU), Publicado em 19 de fev de 2019
   
 ## Environment
 
