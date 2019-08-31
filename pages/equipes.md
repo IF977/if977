@@ -11,7 +11,7 @@
 * Mauro Antonino Veríssimo (mav)
 * Tarcísio Chaves Monteiro (tcm)
 
-Link do projeto: <https://github.com/>
+Link do projeto: https://github.com/tarmont/personal-guide
 
 Link a aplicação no Heroku: 
 
