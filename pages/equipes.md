@@ -26,7 +26,7 @@ Monitor: Lerisson Freitas (lff3)
 * Fernando Nunes Ferreira de Oliveira (fnfo)
 * José Lúcio de Almeida Júnior (jlaj2)
 
-Link do repositório: <https://github.com/>
+Link do repositório: https://github.com/DaniloFranca01/CaelumEAP
 
 Link a aplicação no Heroku:
 
