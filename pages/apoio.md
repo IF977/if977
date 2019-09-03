@@ -110,6 +110,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Serie API NodeJS](https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp), por Diego Fernandes -- Publicado 23 de nov de 2017
   - [Playlist NodeJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
   - [Gerenciando variáveis ambiente no NodeJS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/), por Higo Ribeiro -- Jan, 2019
+  - [NodeJS: Best Practices for Production](https://www.freecodecamp.org/news/nodejs-best-practices-for-production-5b173983d14b/), by freeCodeCamp -- Feb 15, 2019
 - ReactJS & React Native
   - [The MERN Stack Tutorial – Building A React CRUD Application From Start To Finish](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/), by Sebastian -- Dec, 17, 2018
   - Learn ReactJS (Codecademy): [Part I](https://www.codecademy.com/learn/react-101) & [Part II](https://www.codecademy.com/learn/react-102), Build powerful interactive applications with this popular JavaScript library.
