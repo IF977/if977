@@ -147,6 +147,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   
 ## Frameworks de Testes
   - [Por que escrever testes automatizados se eu mesmo posso testar?](https://blog.rocketseat.com.br/por-que-escrever-testes-automatizados/), por Higo Ribeiro -- Jan, 2019
+  - Adonis
+    - [Getting Started with tests](https://adonisjs.com/docs/4.1/testing)
   - Cucumber & Capybara
     - [BDDcasts](http://bddcasts.com/) specializes in BDD & Cucumber [TeachMeToCode](http://teachmetocode.com/)
     - [Cucumber: An Introduction for Non-Rubyists – Setup and the Basics](https://blog.codecentric.de/en/2013/08/cucumber-setup-basics/)
@@ -156,7 +158,10 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
     - [Test-BDD-Cucumber-0.17](http://search.cpan.org/~bdr/Test-BDD-Cucumber-0.17/lib/Test/BDD/Cucumber/Manual/Tutorial.pod)
     - [Use the Cucumber](https://peepcode.com/products/cucumber)
     - [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), Jeffrey Dean and Sanjay Ghemawat, OSDI, 2004.
-  - Adonis
-    - [Getting Started with tests](https://adonisjs.com/docs/4.1/testing)
+  - Cypress
+    - [End to End Testing a Web Application using Cypress](https://www.youtube.com/watch?v=woI490HRM34), Publicado em 23 de abr de 2019
+    - [JavaScript Testing Introduction Tutorial - Unit Tests, Integration Tests & e2e Tests](https://www.youtube.com/watch?v=r9HdJ8P6GQI), Publicado em 3 de out de 2018
+    - [Cypress.io - five-minute introduction](https://www.youtube.com/watch?v=AddBNz1T08U), Publicado em 31 de jan de 2018
+    - [Testing The Way It Should Be (aka Intro Into Cypress)](https://www.youtube.com/watch?v=pJ349YntoIs), Publicado em 12 de jan de 2018
   - React
     - [Enzyme](https://github.com/airbnb/enzyme), a JavaScript Testing utility for React that makes it easier to test your React Components' output.
