@@ -86,6 +86,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [AdonisJS vs ExpressJS: Quando utilizar cada um?](https://blog.rocketseat.com.br/adonis-vs-express/), por Diego Fernandes -- Jan, 2019
   - [Playlist AdonisJS by Rocketseat](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoi5wROnW01cBMk8ss-eBMpO)
   - [Criando CRUD e relações em API REST no AdonisJS](https://blog.rocketseat.com.br/crud-api-rest-adonis/), por Diego Fernandes -- Ago, 2018
+  - [Behind the Code #01 - Autenticação no Adonis com TDD](https://www.youtube.com/watch?v=3t78tTWt-JY), Publicado em 3 de set de 2019
 - Express
   - [Learn Express (Codecademy)](https://www.codecademy.com/learn/learn-express), Learn how to make back-end apps and APIs using the popular Express.js framework.
   - [Iniciando com middlewares no Express.js](https://blog.rocketseat.com.br/middlewares-no-express-js/), por Higo Ribeiro -- Ago, 2018
