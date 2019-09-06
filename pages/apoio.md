@@ -120,6 +120,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
   - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
   - [Building Your First React Native App](https://hackernoon.com/building-your-first-react-native-app-77a192734ff1), by Nathan Thomas -- May 24, 2019
+  - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) & [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102), by Codecademy
 - Ruby on Rails
   - [Try Ruby](http://www.tryruby.org/), para nível Básico a Iniciante
   - [RubyMonk](http://rubymonk.com/), para nível Iniciante a Intermediário
