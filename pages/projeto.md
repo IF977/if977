@@ -41,7 +41,7 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 - Deadline 1 - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
 - Deadline 2 - Prazo final para confirmar time, cliente; agenda reuniões/calls;
 - Deadline 3 - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto
-- Deadline 4 - Criação de histórias de usuários iniciais; Criação de mockups e storyboards Lo-Fi  para histórias do usuário; Postmortem da iteração 0
+- Deadline 4 - Criação de histórias de usuários iniciais; Criação de mockups Lo-Fi; Criação de storyboards Lo-Fi para histórias do usuário; Postmortem da iteração 0
 
 **Iteration 1**
 
@@ -71,7 +71,7 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 |:-------------:|---------------------------|------------------------|
 | **0** | Preenchimento do repositório público inicial do GitHub para o projeto | Página de readme/inicial com **nome do projeto**, **justificativa do projeto**, **descrição do produto**, **especificação do papel de cada membro da equipe** e demais informações pertinentes |
 | **0** | [Ata da reunião](https://github.com/IF977/monitoria-if977-SI/blob/master/Ata_reuniao.md) com o cliente e criação de [histórias de usuários](https://github.com/IF977/monitoria-if977-SI/blob/master/historias_usuarios.md) iniciais. | Conter os participantes da reunião, tópicos discutidos e o que foi definido na mesma. <br> As histórias devem estar no formato <br> (“Como… <br>  Eu gostaria de… <BR>  Para...) |
-| **0** | Criação de mockups e storyboards Lo-Fi  para histórias do usuário. | |
+| **0** | Criação de mockups Lo-Fi e storyboards Lo-Fi para histórias do usuário. | |
 | **1** | Criação do planejamento no formato **GQM** do projeto (maiores informações sobre a metodologia podem ser obtidas [aqui](https://github.com/IF977/if977/blob/master/guidelines.md)). | Descrição no formato GQM na documentação visível e explícita do projeto (i.e. README do repositório). |
 | **3** | Modelo ER | Representar as entidades envolvidas, seus atributos, e como eles se relacionam entre si. |
 | **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | _[Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md)_ | Resumo do que funcionou e do que não funcionou durante a iteração, e planos para melhorar o que não funcionou. <BR>a) Período: data de início - data de término da iteração<BR>b) O que estava planejado?<br>- atividades e pra quem<br>c) O que foi feito?<br>- atividades e por quem<br>d) O que não foi feito?<br>- atividades e por quem, quais os impedimentos<br>e) O que está planejado para a próxima iteração?<br>- atividades e pra quem<br>f) Lições aprendidas (Post Mortem / Rationale) |
