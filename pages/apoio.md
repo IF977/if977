@@ -159,6 +159,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
     - [Use the Cucumber](https://peepcode.com/products/cucumber)
     - [MapReduce: Simplied Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), Jeffrey Dean and Sanjay Ghemawat, OSDI, 2004.
   - Cypress
+    - [Cypress In a nutshell](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
     - [End to End Testing a Web Application using Cypress](https://www.youtube.com/watch?v=woI490HRM34), Publicado em 23 de abr de 2019
     - [JavaScript Testing Introduction Tutorial - Unit Tests, Integration Tests & e2e Tests](https://www.youtube.com/watch?v=r9HdJ8P6GQI), Publicado em 3 de out de 2018
     - [Cypress.io - five-minute introduction](https://www.youtube.com/watch?v=AddBNz1T08U), Publicado em 31 de jan de 2018
