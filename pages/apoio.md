@@ -163,5 +163,12 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
     - [JavaScript Testing Introduction Tutorial - Unit Tests, Integration Tests & e2e Tests](https://www.youtube.com/watch?v=r9HdJ8P6GQI), Publicado em 3 de out de 2018
     - [Cypress.io - five-minute introduction](https://www.youtube.com/watch?v=AddBNz1T08U), Publicado em 31 de jan de 2018
     - [Testing The Way It Should Be (aka Intro Into Cypress)](https://www.youtube.com/watch?v=pJ349YntoIs), Publicado em 12 de jan de 2018
+  - Mocha & Chai
+    - [JavaScript — Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71), by NC Patro -- Mar 7, 2018
+    - [Introduction to Node.js API Unit Testing with Mocha and Chai](https://ubuverse.com/introduction-to-node-js-api-unit-testing-with-mocha-and-chai/), June 30, 2017
+    - [Intro To JavaScript Unit Testing With Mocha JS & Chai (Youtube)](https://www.youtube.com/watch?v=MLTRHc5dk6s), Publicado em 1 de mai de 2017
+    - [Writing test for JavaScript with Mocha and Chai](https://devleague.slides.com/devleague/mocha-chai)
+    - [Unit Testing and TDD in Node.js – Part 1](https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877), by David Tang -- Published Nov 16, 2015
+    - [Unit Testing and TDD in Node.js – Part 2](https://www.codementor.io/nodejs/tutorial/unit-testing-tdd-node-js-nockjs-part-2), Published November 27th 2015
   - React
     - [Enzyme](https://github.com/airbnb/enzyme), a JavaScript Testing utility for React that makes it easier to test your React Components' output.
