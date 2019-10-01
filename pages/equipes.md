@@ -2,7 +2,7 @@
 
 # Equipes
 
-## (1) Nome do Projeto: Equipe 1
+## (1) Nome do Projeto: Personal Guide
 
 * _André Luis Fernandes Nascimento (alfn)*_
 * Izabella Priscylla da Costa Nascimento (ipcn)
@@ -11,13 +11,13 @@
 * Mauro Antonino Veríssimo (mav)
 * Tarcísio Chaves Monteiro (tcm)
 
-Link do projeto: https://github.com/tarmont/personal-guide
+Link do projeto: [Personal Guide](https://github.com/tarmont/personal-guide)
 
 Link a aplicação no Heroku: 
 
 Monitor: Lerisson Freitas (lff3)
 
-## (2) Nome do Projeto: Equipe 2
+## (2) Nome do Projeto: Caelum EAP
 
 * _Danilo Leite de França (dlf3)*_
 * Gabriel Hans Stadtler (ghs2)
@@ -26,13 +26,13 @@ Monitor: Lerisson Freitas (lff3)
 * Fernando Nunes Ferreira de Oliveira (fnfo)
 * José Lúcio de Almeida Júnior (jlaj2)
 
-Link do repositório: https://github.com/DaniloFranca01/CaelumEAP
+Link do repositório: [CaelumEAP](https://github.com/DaniloFranca01/CaelumEAP)
 
 Link a aplicação no Heroku:
 
-Monitor: Ricardo Ebbers (recl)
+Monitor: Vinícius Giles (vgcp)
 
-## (3) Nome do Projeto: Equipe 3
+## (3) Nome do Projeto: AppLada
 
 * _Igor Fernandes (ifc)*_
 * Kayque Santos (klss)
@@ -41,13 +41,13 @@ Monitor: Ricardo Ebbers (recl)
 * Sheldon Fekete (jsbf)
 * Talyta Pacheco (tmrp)
 
-Link do repositório: https://github.com/Igorxp5/AppLada
+Link do repositório: [AppLada](https://github.com/Igorxp5/AppLada)
 
 Link a aplicação no Heroku:
 
 Monitor: Ricardo Ferreira (rfsj)
 
-## (4) Nome do Projeto: Equipe 4
+## (4) Nome do Projeto: BugBounty
 
 * _Joao Gabriel_
 * Gabriel R.
@@ -56,13 +56,13 @@ Monitor: Ricardo Ferreira (rfsj)
 * Giovanni
 * Thiago B
 
-Link do repositório: <https://github.com/vsla/BugBounty/>
+Link do repositório: [BugBounty](https://github.com/vsla/BugBounty/)
 
 Link a aplicação no Heroku:
 
-Monitor: Vinicius Giles (vgcp)
+Monitor: Vinícius Giles (vgcp)
 
-## (5) Nome do Projeto: Equipe 5
+## (5) Nome do Projeto: 4R
 
 * _José Tomáz Gonçalves (jtgl)*_
 * Ighor Honorato (ihon)
@@ -71,48 +71,10 @@ Monitor: Vinicius Giles (vgcp)
 * Victor Gabryel Santos (vgss)
 * Giovanni Evaristo Correa Junior (gecj)
 
-Link do repositório: <https://github.com/jtomaz99/ES-Project>
+Link do repositório: [4R](https://github.com/jtomaz99/ES-Project)
 
 Link a aplicação no Heroku:
 
 Monitor: Sandrine Martins (svm2)
-
-## (6) Nome do Projeto: 
-
-* 
-* 
-* 
-
-Link do repositório: <https://github.com/>
-
-Link a aplicação no Heroku:
-
-Monitor: 
-
-## (7) Nome do Projeto:  
-
-* 
-* 
-* 
-* 
-
-Link do repositório: <https://github.com/>
-
-Link a aplicação no Heroku:
-
-Monitor: 
-
-## (8) Nome do Projeto:  
-
-* 
-* 
-* 
-* 
-
-Link do repositório: <https://github.com/>
-
-Link a aplicação no Heroku:
-
-Monitor: 
 
 \* _Líder do Time_
