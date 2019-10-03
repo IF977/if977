@@ -28,7 +28,7 @@ Monitor: Lerisson Freitas (lff3)
 
 Link do repositório: [CaelumEAP](https://github.com/DaniloFranca01/CaelumEAP)
 
-Link a aplicação no Heroku:
+Link a aplicação no Heroku: https://appcaelumeap.herokuapp.com/
 
 Monitor: Vinícius Giles (vgcp)
 
