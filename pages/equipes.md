@@ -58,7 +58,7 @@ Monitor: Ricardo Ferreira (rfsj)
 
 Link do repositório: [BugBounty](https://github.com/vsla/BugBounty/)
 
-Link a aplicação no Heroku:
+Link a aplicação no Heroku:https://bughunter-front.herokuapp.com/
 
 Monitor: Vinícius Giles (vgcp)
 
