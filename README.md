@@ -63,22 +63,20 @@ Os monitores são responsáveis por aulas práticas da disciplina. Também são 
 
 São eles:
 
-- Antonio Rodrigues da Mata Neto (armn)
-- Antonio Augusto Correa Gondim Neto (aacgn)
-- Johnny Mayron Santana Ferreira (jmsf2)
 - Joismar Antonio Batista Braga (jabb)
 - Lerisson F. Freitas (lff3)
 - Lucas Serra da Cunha Assad (lsca)
 - Mateus Cardozo Gomes da Silva (mcgs)
-- Matheus Raz de Oliveira Leandro (mrol)
 - Paulo Sergio da Silva Rodrigues (pssr)
-- Ricardo Ebbers Carneiro Leao (recl)
 - Ricardo Ferreira dos Santos Junior (rfsj)
-- Vinicius Giles Costa Paulino (vgcp)
+- Sandrine Ventura Martins (svm2)
+- Vinícius Giles Costa Paulino (vgcp)
 
 Além dos monitores, temos também uma equipe de consultores, que estão disponíveis também para ajudar, sempre que solicitados, são eles:
 
 - Alysson dos Santos Lima (asl)
+- Antonio Augusto Correa Gondim Neto (aacgn)
+- Antonio Rodrigues da Mata Neto (armn)
 - André Victor Costa de Melo (avcm)
 - Avyner Henrique B. da Fonseca Lucena (ahbfl)
 - Denio Batista Brasileiro Bezerra (dbbb)
@@ -86,16 +84,18 @@ Além dos monitores, temos também uma equipe de consultores, que estão dispon�
 - Ian Fireman (imlbf)
 - Isabel Oliveira Jordao do Amaral (ioja)
 - Joao Vitor Bizerra de Araujo (jvba)
+- Johnny Mayron Santana Ferreira (jmsf2)
 - Jorge Henrique Cordeiro Linhares (jhcl)
 - José Durval Carneiro Campello Neto (jdccn)
 - Linaldo Leite Ferreira Junior (llfj)
 - Marcela Pereira de Oliveira (mpo)
 - Mariana Ferreira de Melo (mfm2)
+- Matheus Raz de Oliveira Leandro (mrol)
 - Pedro Jose de Souza Neto (pjsn)
 - Pedro Paulo Sousa Neto (ppsn)
 - Rafael Felipe Pedroza Jordao (rfpj)
 - Rafael Leonardo de Lima Brito (rllb)
-- Sandrine Ventura Martins (svm2)
+- Ricardo Ebbers Carneiro Leao (recl)
 - Victor Hugo Barbosa Arruda (vhba)
 - Wellington Oliveira (wmof)
 
@@ -114,11 +114,11 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 
 ### Ferramentas
 
-* <a href="https://github.com" target="_blank">GitHub</a> (sistema de controle de versão distribuída, rápido e escalável).
-* <a href="https://c9.io/" target="_blank">Cloud9</a>, your development environment, in the cloud.
-* <a href="https://codenvy.com/" target="_blank">Codenvy</a>, cloud workspaces for Dev teams.
-* <a href="https://coder.com" target="_blank">Coder</a>, an online IDE serving VSCode.
-* <a href="https://www.slant.co/options/2223/alternatives/~aws-cloud-9-alternatives" target="_blank">What is the best alternative to AWS Cloud 9?</a>
+* [GitHub](https://github.com) (sistema de controle de versão distribuída, rápido e escalável).
+* [Cloud9](https://c9.io/), your development environment, in the cloud.
+* [Codenvy](https://codenvy.com/), cloud workspaces for Dev teams.
+* [Coder](https://coder.com), an online IDE serving VSCode.
+* [What is the best alternative to AWS Cloud 9?](https://www.slant.co/options/2223/alternatives/~aws-cloud-9-alternatives)
 
 ### Links, posts e artigos diversos
 
