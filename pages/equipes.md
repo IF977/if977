@@ -28,9 +28,9 @@ Monitor: Lerisson Freitas (lff3)
 
 Link do repositório: https://github.com/DaniloFranca01/CaelumEAP
 
-Link a aplicação no Heroku:
+Link a aplicação no Heroku: https://appcaelumeap.herokuapp.com/
 
-Monitor: Ricardo Ebbers (recl)
+Monitor: Vinícius Giles (vgcp)
 
 ## (3) Nome do Projeto: Equipe 3
 
