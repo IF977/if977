@@ -47,7 +47,7 @@ Link a aplicação no Heroku:
 
 Monitor: Ricardo Ferreira (rfsj)
 
-## (4) Nome do Projeto: BugBounty
+## (4) Nome do Projeto: BugHunter
 
 * _Joao Gabriel_
 * Gabriel R.
@@ -56,9 +56,9 @@ Monitor: Ricardo Ferreira (rfsj)
 * Giovanni
 * Thiago B
 
-Link do repositório: [BugBounty](https://github.com/vsla/BugBounty/)
+Link do repositório: [BugHunter](https://github.com/vsla/BugHunter)
 
-Link a aplicação no Heroku:https://bughunter-front.herokuapp.com/
+Link a aplicação no Heroku: https://bughunter-front.herokuapp.com/
 
 Monitor: Vinícius Giles (vgcp)
 
