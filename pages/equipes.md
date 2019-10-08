@@ -65,7 +65,7 @@ Monitor: Vinícius Giles (vgcp)
 ## (5) Nome do Projeto: 4R
 
 * _José Tomáz Gonçalves (jtgl)*_
-* Ighor Honorato (ihon)
+* ~Ighor Honorato (ihon)~
 * Ivan Ferreira da Silva Lima (ifsl2)
 * Vitor Lima (vals)
 * Victor Gabryel Santos (vgss)
