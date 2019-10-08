@@ -24,7 +24,7 @@ Monitor: Lerisson Freitas (lff3)
 * Bruno Artagoitia Vicente do Nascimento (bavn)
 * Adriano Gonçalves de Souza (ags6)
 * Fernando Nunes Ferreira de Oliveira (fnfo)
-* José Lúcio de Almeida Júnior (jlaj2)
+* ~José Lúcio de Almeida Júnior (jlaj2)~
 
 Link do repositório: [CaelumEAP](https://github.com/DaniloFranca01/CaelumEAP)
 
