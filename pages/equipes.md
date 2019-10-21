@@ -56,7 +56,7 @@ Monitor: Ricardo Ferreira (rfsj)
 * Giovanni
 * Thiago B
 
-Link do repositório: [BugHunterFrontEnd](https://github.com/vsla/BugHunter)[BugHunterBackEnd](https://github.com/brailog/backend-bxh)
+Link do repositório: [BugHunterFrontEnd](https://github.com/vsla/BugHunter) & [BugHunterBackEnd](https://github.com/brailog/backend-bxh)
 
 Link a aplicação no Heroku: https://bughunter-front.herokuapp.com/
 
