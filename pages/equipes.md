@@ -71,9 +71,9 @@ Monitor: Vinícius Giles (vgcp)
 * Victor Gabryel Santos (vgss)
 * Giovanni Evaristo Correa Junior (gecj)
 
-Link do repositório: [4R](https://github.com/jtomaz99/ES-Project) & [4R-API](https://fourr-api.herokuapp.com/)
+Link do repositório: [4R](https://github.com/jtomaz99/ES-Project)
 
-Link a aplicação no Heroku:https://fourr.herokuapp.com
+Link a aplicação no Heroku: <https://fourr.herokuapp.com>  & [4R-API](https://fourr-api.herokuapp.com/)
 
 Monitor: Sandrine Martins (svm2)
 
