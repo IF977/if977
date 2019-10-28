@@ -166,6 +166,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
     - [Cypress.io - five-minute introduction](https://www.youtube.com/watch?v=AddBNz1T08U), Publicado em 31 de jan de 2018
     - [Testing The Way It Should Be (aka Intro Into Cypress)](https://www.youtube.com/watch?v=pJ349YntoIs), Publicado em 12 de jan de 2018
     - [Tutorial: JavaScript End to End Testing with Cypress](https://www.valentinog.com/blog/cypress/), by Valentino Gagliardi, 8th April 2019
+    - [How to add end to end tests to your project with Cypress](https://www.freecodecamp.org/news/how-to-add-end-to-end-tests-to-your-project-with-cypress-a74437f6df6e/), by freeCodeCamp, 5th December 2018
   - Mocha & Chai
     - [JavaScript — Unit Testing using Mocha and Chai](https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71), by NC Patro -- Mar 7, 2018
     - [Introduction to Node.js API Unit Testing with Mocha and Chai](https://ubuverse.com/introduction-to-node-js-api-unit-testing-with-mocha-and-chai/), June 30, 2017
