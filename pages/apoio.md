@@ -113,6 +113,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - [Values, variables, and literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
 - [JavaScript - WebPlatform](https://webplatform.github.io/docs/javascript/)
 - [Learn Javascript (gitbookio)](https://gitbookio.gitbooks.io/javascript/)
+- [husky](https://github.com/typicode/husky), Git hooks made easy
 
 ### NodeJS
 
