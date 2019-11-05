@@ -114,6 +114,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [JavaScript - WebPlatform](https://webplatform.github.io/docs/javascript/)
 - [Learn Javascript (gitbookio)](https://gitbookio.gitbooks.io/javascript/)
 - [husky](https://github.com/typicode/husky), Git hooks made easy
+- [Code/Drops #05 - Automatizando padrões de código com Husky + lint-staged](https://www.youtube.com/watch?v=-c57D2kQffQ), Publicado em 1 de nov de 2019
 
 ### NodeJS
 
