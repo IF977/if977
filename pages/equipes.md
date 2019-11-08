@@ -26,9 +26,9 @@ Monitor: Lerisson Freitas (lff3)
 * Fernando Nunes Ferreira de Oliveira (fnfo)
 * ~José Lúcio de Almeida Júnior (jlaj2)~
 
-Link do repositório: [CaelumEAP](https://github.com/DaniloFranca01/CaelumEAP)
+Link do repositório: [Front CaelumEAP](https://github.com/DaniloFranca01/ReactCaelumEAP) & [API CaelumEAP](https://github.com/DaniloFranca01/ApiCaelumEAP)
 
-Link a aplicação no Heroku: https://appcaelumeap.herokuapp.com/
+Link a aplicação no Heroku: [Front CaelumEAP](https://react-caelum-eap.herokuapp.com/) & [API CaelumEAP](https://api-caelum-eap.herokuapp.com/) 
 
 Monitor: Vinícius Giles (vgcp)
 
