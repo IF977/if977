@@ -78,3 +78,14 @@ Link a aplicação no Heroku: <https://fourr.herokuapp.com>  & [4R-API](https://
 Monitor: Sandrine Martins (svm2)
 
 \* _Líder do Time_
+
+## (6) Nome do Projeto: Aki Gás e Água
+
+* Giovanni Veloso (gvs)
+* Thiago Prazeres (tpb)
+
+Link do Repositório: [AkiGasEAgua](https://github.com/thiagoprazeres/akigasegua)
+
+Link da aplicação no Heroku:
+
+Monitor: Ricardo Ferreira (rfsj)
