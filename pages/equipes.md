@@ -9,7 +9,7 @@
 * Janiel Nicácio da Silva (jns3)
 * Matheus Santos Veras (msv3)
 * Mauro Antonino Veríssimo (mav)
-* Tarcísio Chaves Monteiro (tcm)
+* ~Tarcísio Chaves Monteiro (tcm)~
 
 Link do projeto: [Personal Guide](https://github.com/tarmont/personal-guide)
 
