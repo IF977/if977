@@ -13,7 +13,7 @@
 
 Link do projeto: [Personal Guide](https://github.com/tarmont/personal-guide)
 
-Link a aplicação no Heroku: 
+Link a aplicação no Heroku: <https://personalguide.herokuapp.com/>
 
 Monitor: Lerisson Freitas (lff3)
 
