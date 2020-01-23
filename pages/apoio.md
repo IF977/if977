@@ -53,6 +53,10 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Application Architecture explained in a way your Mom will understand](http://bit.ly/2TVRLty), CrypteriumFollow -- Dec 11, 2018
 - [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), Robert ZhuFollow -- Dec 6, 2018
 - [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/?source=post_page-----c1eb7cfa8a30----------------------), August 13, 2016
+- [How Deploying Every Feature Branch Enables Fast Product Feedback](https://www.infoq.com/news/2019/12/deploy-feature-fast-feedback/), by Ben Linders -- Dec 12, 2019
+- [Product Goals, not Sprint Goals](https://www.infoq.com/articles/sprint-product-goals), by Mahesh Krshnan & Shane Hastie -- Dec 21, 2019
+- [The Importance of Fun in the Workplace](https://www.infoq.com/news/2019/12/fun-workplace/), by Ben Linders -- Dec 19, 2019
+
 
 ## Cloud Computing
 
