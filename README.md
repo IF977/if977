@@ -4,7 +4,7 @@
 
 ![IF977](/if977_logo_icon.png)
 
-Esta é a página/repositório da disciplina de **Engenharia de Software**, voltada ao curso de [Bacharelado em Sistemas de Informação](http://www2.cin.ufpe.br/site/secao.php?s=2&c=26), do [Centro de Informática (CIn)](http://wwww.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](http://www.ufpe.br). Esta "versão" da disciplina foi inspirada na experiência profissional do [professor](http://viniciusgarcia.me) e nas lições aprendidas com as [versões anteriores da disciplina](https://sites.google.com/a/cin.ufpe.br/if682/sistemas-de-informacao), sugestões e relatos da disciplina "[CS169 - Software Engineering](http://www.saasbook.info/)" da [UC Berkeley](http://www.berkeley.edu/).
+Esta é a página/repositório da disciplina de **Engenharia de Software**, voltada ao curso de [Bacharelado em Sistemas de Informação](http://www2.cin.ufpe.br/site/secao.php?s=2&c=26), do [Centro de Informática (CIn)](http://wwww.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](http://www.ufpe.br). Esta "versão" da disciplina foi inspirada na experiência profissional do [professor Vinicius Cardoso Garcia](http://viniciusgarcia.me) e nas lições aprendidas com as [versões anteriores da disciplina](https://sites.google.com/a/cin.ufpe.br/if682/sistemas-de-informacao), sugestões e relatos da disciplina "[CS169 - Software Engineering](http://www.saasbook.info/)" da [UC Berkeley](http://www.berkeley.edu/).
 
 Para quem tiver curiosidade, a história dessa cadeira é, resumidamente, contada nestes três primeiros artigos. Os demais também influenciaram na história e evolução da cadeira.
 
@@ -20,7 +20,7 @@ Para quem tiver curiosidade, a história dessa cadeira é, resumidamente, contad
 
 ### Instrutores
 
-* **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
+* **Professor** [Vinicius Cardoso Garcia](http://viniciusgarcia.me) ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
 * **Professor Colaborador** Vanilson Buérgio ([vanilson@gmail.com](mailto:vanilson@gmail.com))
 
 ### Local e Horários
