@@ -16,7 +16,7 @@ Para quem tiver curiosidade, a história dessa cadeira é, resumidamente, contad
 * Christof Ebert, Marco Kuhrmann, Rafael Prikladnicki. **[Global Software Engineering: An Industry Perspective](https://www.computer.org/csdl/mags/so/2016/01/mso2016010105-abs.html)**. IEEE Software, vol.33, no. 1, pp. 105-108, Jan.-Feb. 2016, doi:10.1109/MS.2016.27
 * Armando Fox and David Patterson. 2012. **[Crossing the software education chasm](http://bit.ly/1b9QbFj)**. Commun. ACM 55, 5 (May 2012), 44-49. DOI: <https://doi.org/10.1145/2160718.2160732>
 
-## Sistemas de Informação, <a href="http://www.cin.ufpe.br" target="_blank">Centro de Informática</a>, (<a href="http://www.ufpe.br" target="_blank">UFPE)
+## Sistemas de Informação, <a href="http://www.cin.ufpe.br" target="_blank">Centro de Informática</a>, (<a href="http://www.ufpe.br" target="_blank">UFPE</a>)
 
 ### Instrutores
 
