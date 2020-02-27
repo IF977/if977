@@ -32,23 +32,25 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 1. Deve ter um modelo de negócio para continuidade do projeto.
 1. Deve ter uma análise de mercado ou de concorrentes.
 
-## O que são os prazos (deadlines) do projeto?
+## Quais são os produtos entregáveis (deliverables) do projeto
+
+Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1N60wdHdyU0OwIzKzihPPYtaWM1nHslTQHtuXOjDwIrE/edit?usp=sharing).
 
 Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus.md).
 
 **Iteração 1**
 
 - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
-- Ata da primeira reunião com cliente (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
+- [Ata da primeira reunião com cliente](https://github.com/IF977/monitoria-if977-SI/blob/master/Ata_reuniao.md) (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
 - Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto;
 - Design e Arquitetura
   - [Protocolo HTTP e requisições GET/POST](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki/o-básico-sobre-o-protocolo-HTTP), by profa. [Claudia Melo](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki)
   - [O que é API Rest e como implementar uma?](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki/O-que-é-uma-API-REST-e-como-implementar-uma%3F), by profa. [Claudia Melo](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki)
-- Criação de histórias de usuários iniciais;
+- Criação de [histórias de usuários iniciais](https://github.com/IF977/monitoria-if977-SI/blob/master/historias_usuarios.md);
 - Criação de testes automatizados (TDD) iniciais;
 - Criação de mockups Lo-Fi;
 - Criação de storyboards Lo-Fi para histórias do usuário;
-- Postmortem da **Iteração 1**.
+- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 1**.
 
 **Iteração 2**
 
@@ -62,7 +64,7 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 - Criação de testes fim-a-fim automatizados funcionando;
 - Pelo menos uma entrega para o cliente: deploy de algumas HU's;
 - Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
-- Postmortem da **Iteração 2**.
+- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 2**.
 
 **Iteração 3**
 
@@ -77,7 +79,7 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 - Nova entrega para o cliente: deploy de mais algumas HU's;
 - Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
 - Artefatos para garantir continuidade do projeto;
-- Postmortem da **Iteração 3**.
+- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 3**.
 
 **Iteration 4**
 
@@ -92,29 +94,13 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 - Última entrega para o cliente: deploy de mais algumas HU's;
 - Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
 - Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto;
-- Screencast de utilização do produto;
+- Screencast curto (até 3 minutos) de utilização do produto (contendo legenda ou voz);
 - Apresentação em formato PDF;
-- Postmortem da **Iteração 4**.
+- [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 4**.
 
 ## Individual: Avaliação 360o
 
 Avaliação das pessoas do time sobre si mesmas e as demais. Será triangulada com a avaliação da docente. Utilizada para calibrar a nota final individual. Preencher o [**formulário**](https://forms.gle/NEJrbUHa6Asfz4gh8) até o final da **Iteração 4**.
-
-## Quais são os produtos entregáveis (deliverables) do projeto
-
-Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1N60wdHdyU0OwIzKzihPPYtaWM1nHslTQHtuXOjDwIrE/edit?usp=sharing).
-
-| Iteração      | O que deve ser entregue   | Como deve ser entregue |
-|:-------------:|---------------------------|------------------------|
-| **0** | Preenchimento do repositório público inicial do GitHub para o projeto | Página de readme/inicial com **nome do projeto**, **justificativa do projeto**, **descrição do produto**, **especificação do papel de cada membro da equipe** e demais informações pertinentes |
-| **0** | [Ata da reunião](https://github.com/IF977/monitoria-if977-SI/blob/master/Ata_reuniao.md) com o cliente e criação de [histórias de usuários](https://github.com/IF977/monitoria-if977-SI/blob/master/historias_usuarios.md) iniciais. | Conter os participantes da reunião, tópicos discutidos e o que foi definido na mesma. <br> As histórias devem estar no formato <br> (“Como… <br>  Eu gostaria de… <BR>  Para...) |
-| **0** | Criação de mockups Lo-Fi e storyboards Lo-Fi para histórias do usuário. | |
-| **1** | Criação do planejamento no formato **GQM** do projeto (maiores informações sobre a metodologia podem ser obtidas [aqui](https://github.com/IF977/if977/blob/master/guidelines.md)). | Descrição no formato GQM na documentação visível e explícita do projeto (i.e. README do repositório). |
-| **3** | Modelo ER | Representar as entidades envolvidas, seus atributos, e como eles se relacionam entre si. |
-| **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | _[Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md)_ | Resumo do que funcionou e do que não funcionou durante a iteração, e planos para melhorar o que não funcionou. <BR>a) Período: data de início - data de término da iteração<BR>b) O que estava planejado?<br>- atividades e pra quem<br>c) O que foi feito?<br>- atividades e por quem<br>d) O que não foi feito?<br>- atividades e por quem, quais os impedimentos<br>e) O que está planejado para a próxima iteração?<br>- atividades e pra quem<br>f) Lições aprendidas (Post Mortem / Rationale) |
-| **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | Identificar o subconjunto de histórias trabalhadas na iteração | Cadastrar no [**github**](http://www.github.com) e identificar o responsável por cada uma delas e usar as labels |
-| **0**<BR>**1**<BR>**2**<BR>**3**<BR>**4** | Usar BDD+TDD | Para desenvolver as histórias em Rails e implantar em [**Heroku**](http://www.heroku.com) |
-| **4** | Um screencast curto (2-3 minutos) | Vídeo gravado pelo time (contendo legenda ou voz) mostrando um demo do projeto entregue após as 4 iterações |
 
 ## Sugestões para reuniões com clientes
 
