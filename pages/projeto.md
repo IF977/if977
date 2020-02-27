@@ -36,32 +36,66 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 
 Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus.md).
 
-**Iteration 0**
+**Iteração 1**
 
-- Deadline 1 - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
-- Deadline 2 - Prazo final para confirmar time, cliente; agenda reuniões/calls;
-- Deadline 3 - Ata da primeira reunião com cliente ou registro da primeira reunião de definição de escopo do projeto; artefato salvo no repositório; Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto
-- Deadline 4 - Criação de histórias de usuários iniciais; Criação de mockups Lo-Fi; Criação de storyboards Lo-Fi para histórias do usuário; Postmortem da iteração 0
+- Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
+- Ata da primeira reunião com cliente (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
+- Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto;
+- Criação de histórias de usuários iniciais;
+- Criação de testes automatizados (TDD) iniciais;
+- Criação de mockups Lo-Fi;
+- Criação de storyboards Lo-Fi para histórias do usuário;
+- Postmortem da **Iteração 1**.
 
-**Iteration 1**
+**Iteração 2**
 
-- Deadline 1 - Início do desenvolvimento
-- Deadline 2 - Criação de testes; Deploy + 2 HU's; Postmortem da iteração 1; Criação do planejamento no formato **GQM**
+- Criação do planejamento no formato **GQM**;
+- Planejamento/Comunicação Interna e Externa;
+- Modelo ER;
+- Histórias definidas, claras, concisas, com entrega de valor bem definida;
+- Ambiente de versionamento atuante (com commits frequentes);
+- Issue tracker atualizado;
+- TDD experimentado e usado;
+- Criação de testes fim-a-fim automatizados funcionando;
+- Pelo menos uma entrega para o cliente: deploy de algumas HU's;
+- Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
+- Postmortem da **Iteração 2**.
 
-**Iteration 2**
+**Iteração 3**
 
-- Deadline 1 - Continuação do desenvolvimento
-- Deadline 2 - Criação de testes; Postmortem da iteração 2
-
-**Iteration 3**
-
-- Deadline 1 - Continuação do desenvolvimento
-- Deadline 2 - Criação de testes; Modelo ER; Postmortem da iteração 3
+- Continuação do desenvolvimento;
+- Histórias definidas, claras, concisas, com entrega de valor bem definida;
+- Ambiente de versionamento atuante (com commits frequentes);
+- Issue tracker atualizado;
+- TDD experimentado e usado;
+- Criação de testes fim-a-fim automatizados funcionando com atenção para **Cobertura dos testes**;
+- Integração contínua;
+- Entregas frequentes;
+- Nova entrega para o cliente: deploy de mais algumas HU's;
+- Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
+- Artefatos para garantir continuidade do projeto;
+- Postmortem da **Iteração 3**.
 
 **Iteration 4**
 
-- Deadline 1 - Finalização do desenvolvimento
-- Deadline 2 - Criação de testes; Postmortem da iteração 4; Screencast
+- Finalização do desenvolvimento;
+- Histórias definidas, claras, concisas, com entrega de valor bem definida;
+- Ambiente de versionamento atuante (com commits frequentes);
+- Issue tracker atualizado;
+- TDD experimentado e usado;
+- Criação de testes fim-a-fim automatizados funcionando com atenção para **Cobertura dos testes**;
+- Integração contínua;
+- Entregas frequentes;
+- Última entrega para o cliente: deploy de mais algumas HU's;
+- Programação em Par experimentado e usado (ou não utilizado com boa justificativa);
+- Documentação clara, objetiva, conduzindo qualquer pessoa a montar o ambiente corretamente e contribuir com o projeto;
+- Screencast de utilização do produto;
+- Apresentação em formato PDF;
+- Postmortem da **Iteração 4**.
+
+## Individual: Avaliação 360o
+
+Avaliação das pessoas do time sobre si mesmas e as demais. Será triangulada com a avaliação da docente. Utilizada para calibrar a nota final individual. Preencher o formulário até o final da **Iteração 4**.
 
 ## Quais são os produtos entregáveis (deliverables) do projeto
 
@@ -88,15 +122,72 @@ Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, s
 - Lembre-se que a maioria destes clientes não seguem os horários dos alunos. Eles muitas vezes não estão lendo o e-mail relacionado ao trabalho no fim de semana. Eles geralmente não irão ler o seu e-mail às 11h. Se você quer o seu feedback sobre algo por (digamos) na quinta de manhã, você realmente precisa enviar o seu email a eles o mais tardar até terça-feira à noite: as pessoas com empregos em tempo integral são muitas vezes tão ocupadas que eles não podem dar-lhe uma resposta imediata do e-mail, de modo que se você enviar algo mais tarde do que 3 ou 4 horas da tarde, você deve assumir que não vai mesmo ser visto até o dia seguinte e pode não obter uma resposta até o dia seguinte. Planeje adequadamente quando você precisa de um retorno do seu cliente.
 - Se você é consistentemente incapaz de obter uma resposta do seu cliente, apesar de seguir todas as orientações acima, deixe um de nós saber (professor, instrutores, monitores). Não fique esperando que o sucesso do seu projeto seja responsabilidade do seu cliente.
 
+## Critérios de Documentação do Projeto
+
+Lista de critérios de documentação que serão avaliados como parte da **Iteração 4** (baseados na lista da profa. [Claúdia Melo]((https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki/Documentação-de-Software)).
+
+### O que documentar neste projeto?
+
+
+Documentação em projetos/produtos digitais é importante para transferir conhecimento sobre o projeto. Prazo para completarem a documentação é o final da **Iteração 4**. Nas próximas seções são descritos os requisitos de documentação dos projetos desta disciplina:
+
+**Código**
+
+Sabemos que o principal artefato de um projeto é o código em si, afinal é ele que descreve o comportamento do sistema. Quando falamos em código, estamos também falando do código de testes (a famosa malha de testes automatizados).
+
+[**Código bem escrito é documentação**](https://www.martinfowler.com/bliki/CodeAsDocumentation.html). Isso é o principal. Design bem feito reflete-se em código claro, portanto também é documentação. Código de teste de unidade, de teste de integração, de teste de aceitação etc, também é documentação.
+
+Documentação dentro do código pode ser relevante em alguns pontos do sistema.
+
+**Artefatos deste projeto**
+
+- Histórias desenvolvidas, com link para a versão correspondente no repositório.
+- Lista de bugs conhecidos e dívida técnica como “issues”.
+- Apresentações de showcase/screencast (fazer upload de todas), com link para a versão correspondente no repositório.
+- Fazer um resumo de todas as práticas ágeis adotadas, colete fotos do time e do ambiente. Descreva um pouco sobre como isso ajudou o desenvolvimento e lições aprendidas.
+
+**Questões éticas**
+
+Descreva algumas questões éticas em aberto sobre o uso das APIs das redes sociais. Para ajudar nisso, vocês podem dar uma olhada no artigo:
+
+Claudia de O. Melo and Thiago C. de Sousa. 2017. Reflections on cyberethics education for millennial software engineers. In Proceedings of the 1st International Workshop on Software Engineering Curricula for Millennials (SECM '17). IEEE Press, Piscataway, NJ, USA, 40-46. <https://arxiv.org/pdf/1703.00619.pdf> A Tabela 1 mostra um resumo de questões éticas em tecnologia e artigos relacionados.
+
+**Organizando o projeto (de software livre) para iniciantes**
+
+*(Baseado em: STEINMACHER, Igor; TREUDE, Christoph; GEROSA, Marco Aurélio. Let me in: Guidelines for the Successful Onboarding of Newcomers to Open Source Projects, IEEE Software, v.PP (99), 2018.)*
+
+Crie uma página ou portal específico para iniciantes (pode ser um arquivo .md com nome bem CLARO). Página estruturada, com informações limpas e organizadas mostrando:
+
+- O que é essencial para os primeiros passos, como o projeto é organizado e quais são os recursos importantes (por exemplo, repositório de código, listas de discussão, rastreador de problemas, workspace e canal do slack e ferramentas de revisão de código).
+- Aponte os iniciantes para tarefas fáceis: "Encontrar uma tarefa para começar". Esclareça como é o processo de contribuição.
+- Mantenha a lista de problemas atualizada: Fornecer uma lista marcada de issues (requisitos/bugs) é um grande suporte a recém-chegados.
+- Torne mais fácil para os recém-chegados fazer o build do sistema localmente. Assim, crie um guia só para isso.
+- Para ajudar os recém-chegados a entender o código, os projetos devem documentar a estrutura do código. É importante documentar claramente a estrutura organizacional do código e como os componentes, módulos, classes e pacotes se relacionam entre si. Use diagramas que mostram como o projeto é organizado.
+
+Alguns exemplos de projetos de software livre e sua documentação: <https://github.com/paulormm/analizo> e <https://github.com/fga-gpp-mds/Falko-2017.2-FrontEnd>.
+
+Quer ler mais sobre documentação de projetos de software? Dê uma olhada em: <http://www.agilemodeling.com/essays/agileDocumentationBestPractices.htm>
+
 ## Sugestão para apresentação final
 
-Você vai apresentar um resumo, de **2 minutos**, do problema do seu cliente (ou seu) e como seu aplicativo pretende resolvê-lo. O resultado final é uma única [apresentação](/guidelines.md) contendo **TODOS** os trabalhos/problemas do semestre. Vamos criar um documento do Google Presentations em que cada equipe vai colocar um slide com base nesses exemplos. Sugestão de organização da apresentação final do projeto:
+Você vai apresentar um resumo, de até **10 minutos**, do problema do seu cliente (ou seu) e como sua aplicação pretende resolvê-lo. O resultado final é uma única [apresentação](/guidelines.md) contendo **TODOS** os trabalhos/problemas do semestre. Vamos criar um documento do Google Presentations em que cada equipe vai colocar um slide com base nesses exemplos. Sugestão de organização da apresentação final do projeto:
 
-1. o que estava planejado para o projeto (por membro do time);
-2. o que foi feito;
-3. o que não foi feito e por quê não foi feito;
-4. lições aprendidas (por cada membro do time);
-5. críticas e sugestões.
+1. Visão geral do Produto
+  - Elevator pitch do produto (o que ele resolve, para que público, qual o diferencial etc)
+  - Visão geral da solução e como usar (alto nível)
+2. Processo de trabalho
+  - Práticas ágeis (total/parcialmente/não adotadas)
+  - Fluxo de trabalho (ex: etapas do Kanban, como organizaram o trabalho em cada etapa, desde o planejamento, priorização do backlog, requisitos, desenvolvimento, gerência de configuração, qualidade/testes, conceito de pronto)
+  - Como organizaram a comunicação ao longo do projeto
+  - Ferramentas utilizadas
+  - Lições aprendidas do processo de trabalho (a.k.a. Engenharia de Software)
+3. Time
+  - Contribuições individuais (1 slide por aluno refletindo o que fez/o que não pôde ou conseguiu fazer)
+  - Avaliação de como foi a formação de time: de fato formaram um time? Lembrar da avaliação 360o, lá temos dimensões importantes e relevantes de como as pessoas operam em um time.
+
+Apresentação em formato PDF deve estar no repositório do projeto.
+
+Exemplo de pitches de APIs: Pitch (em alemão) de uma API, dá pra ver bem a [apresentação](https://medium.com/@amancio.bouza/api-product-pitch-for-everybody-3b7f1493adca) no vídeo!
 
 ## Sobre relatórios técnicos e apresentações orais
 
