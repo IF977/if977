@@ -140,6 +140,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
 - [Building Your First React Native App](https://hackernoon.com/building-your-first-react-native-app-77a192734ff1), by Nathan Thomas -- May 24, 2019
 - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) & [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102), by Codecademy
+- [Uma aplicação desktop usando React e Express com Electron](https://www.itexto.com.br/devkico/?p=2995), by Henrique Lobo Weissmann -- Feb 20, 2020
 
 ### Ruby on Rails
 
