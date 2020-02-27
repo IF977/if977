@@ -41,6 +41,9 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 - Definição dos times: enviar por email com o título "[IF977] Time do projeto" indicando os membros (nome e login) e quem será o líder do time.
 - Ata da primeira reunião com cliente (se pertinente) ou registro da primeira reunião de definição de escopo do projeto (artefato salvo no repositório);
 - Projeto criado no github com página de README (usar as instruções deste [artigo](https://hackernoon.com/a-crash-course-on-writing-a-better-readme-d796d1f6b352)) contendo informações do time e do projeto;
+- Design e Arquitetura
+  - [Protocolo HTTP e requisições GET/POST](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki/o-básico-sobre-o-protocolo-HTTP), by profa. [Claudia Melo](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki)
+  - [O que é API Rest e como implementar uma?](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki/O-que-é-uma-API-REST-e-como-implementar-uma%3F), by profa. [Claudia Melo](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki)
 - Criação de histórias de usuários iniciais;
 - Criação de testes automatizados (TDD) iniciais;
 - Criação de mockups Lo-Fi;
