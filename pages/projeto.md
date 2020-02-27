@@ -10,7 +10,7 @@ Maiores informações sobre projetos passados podem ser acessadas neste link: <h
 
 Esta [**excelente publicação**](https://miter.mit.edu/the-unexotic-underclass/) resume por quê foi escolhido estimular, preferencialmente, o trabalho com organizações sem fins lucrativos.
 
-> "Mas professor, eu tenho um projeto que pode ser um bom ajuste para o curso!"
+> "Mas professor, eu tenho uma proposta que pode ser um bom projeto para o curso!"
 
 1. Verifique a FAQ para ter certeza que atende aos nossos critérios (sobre no que devemos ser firmes, para manter o curso em funcionamento)
 1. Se assim for, entre em contato com o professor responsável se apresentando como um candidato a cliente!
