@@ -32,7 +32,7 @@ Adicionalmente, temos requisitos que são considerados os ideais para projetos, 
 1. Deve ter um modelo de negócio para continuidade do projeto.
 1. Deve ter uma análise de mercado ou de concorrentes.
 
-## Quais são os produtos entregáveis (deliverables) do projeto
+## Quais são os artefatos (produtos de trabalho) entregáveis (deliverables) do projeto
 
 Os artefatos a serem produzidos durante o ciclo de vida do projeto, em resumo, são apresentados na tabela abaixo. Entretanto, é recomendável que todos conheçam os pesos de cada uma das entregas em suas respectivas iterações. A listagem com os pesos está disponível neste [**link**](https://docs.google.com/spreadsheets/d/1N60wdHdyU0OwIzKzihPPYtaWM1nHslTQHtuXOjDwIrE/edit?usp=sharing).
 
@@ -98,7 +98,7 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 - Apresentação em formato PDF;
 - [Postmortem](https://github.com/IF977/monitoria-if977-SI/blob/master/Postmortem.md) da **Iteração 4**.
 
-## Individual: Avaliação 360o
+### Individual: Avaliação 360o
 
 Avaliação das pessoas do time sobre si mesmas e as demais. Será triangulada com a avaliação da docente. Utilizada para calibrar a nota final individual. Preencher o [**formulário**](https://forms.gle/NEJrbUHa6Asfz4gh8) até o final da **Iteração 4**.
 
