@@ -100,7 +100,7 @@ Para confirmar as datas das entregas, favor visitar o [Syllabus](/pages/syllabus
 
 ### Individual: Avaliação 360o
 
-Avaliação das pessoas do time sobre si mesmas e as demais. Será triangulada com a avaliação da docente. Utilizada para calibrar a nota final individual. Preencher o [**formulário**](https://forms.gle/NEJrbUHa6Asfz4gh8) até o final da **Iteração 4**.
+Avaliação das pessoas do time sobre si mesmas e as demais. Será triangulada com a avaliação da docente. Utilizada para calibrar a nota final individual. Preencher o [**formulário**]() até o final da **Iteração 4**.
 
 ## Sugestões para reuniões com clientes
 
