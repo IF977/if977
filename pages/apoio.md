@@ -39,6 +39,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 ## Software Enfineering and Software Development
 
 - [**An Agenda for the Future of Software (Engineering in Brazil)**](https://youtu.be/eujhiejLL7c), Prof. Silvio Meira
+- [Gestão por competências](https://pt.wikipedia.org/wiki/Gestão_por_competências), Wikipedia
 - [Desenvolvendo Software](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki), wiki da matéria de Engenharia de Software UnB 2018, ministrada pela [profa. Claudia Melo](http://claudiamelo.org/).
 - [Código legado: um exercício de arqueologia e compaixão](http://www.itexto.net/devkico/?p=2073)
 - [Conselhos de um velho programador antissocial e ranzinza](http://gizmodo.uol.com.br/conselhos-de-um-velho-programador-antissocial-e-ranzinza/)
