@@ -7,6 +7,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 ## Warm up
 
 - [Escolas de programação são os novos MBAs](https://medium.com/codando/escolas-de-programação-são-os-novos-mbas-830fd3410537#.x1vl22q93), by Mathieu Le Roux -- Apr 25, 2016
+- [Há diferenças entre o empreendedor e o empresário](http://cbn.globoradio.globo.com/comentaristas/o-executivo-sincero/2015/12/02/HA-DIFERENCAS-ENTRE-O-EMPREENDEDOR-E-O-EMPRESARIO.htm), by Adriano Silva | O executivo sincero -- Dec 02, 2015
 - [How To Prepare Students For 21st Century Survival: 7 Skills Students Will Always Need](https://www.teachthought.com/the-future-of-learning/how-to-prepare-student-for-21st-century-survival/), by TeachThought Staff -- March 17, 2019
 - [**How to Read a Paper**](https://drive.google.com/a/cin.ufpe.br/file/d/0Bxt1VZoj3lGuR2tQWE5sTTdzYTA/edit?usp=sharing), S Keshav, ACM SIGCOMM Computer Communication Review, 2007.
 - [7 Skills Students Will Always Need](http://www.teachthought.com/learning/how-to-prepare-student-for-21st-century-survival/)
