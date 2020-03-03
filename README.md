@@ -124,6 +124,7 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 
 ### Links, posts e artigos diversos
 
+* [Não sei inglês, e agora? | Podcast FalaDev #03](https://www.youtube.com/watch?v=keMIEpZxQNI)
 * [What I learned from 6 months contributing to open source](https://hackernoon.com/what-i-learned-from-6-months-contributing-to-open-source-daa1cdafb9fb)
 * [Software Engineering for Disruptive Innovation](https://hackernoon.com/software-engineering-for-disruptive-innovation-d882f53788da)
 * [Ruby On Rails: What It Is and Why We use.](https://hackernoon.com/ruby-on-rails-what-it-is-and-why-we-use-2b295b54838d)
