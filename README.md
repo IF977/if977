@@ -117,6 +117,8 @@ IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SW
 ### Ferramentas
 
 * [GitHub](https://github.com) (sistema de controle de versão distribuída, rápido e escalável).
+* [SEBRAE Canvas](https://www.sebraecanvas.com/#/), Ferramenta gratuita online para criação do Canvas do Modelo de Negócios - SEBRAE
+  * [Aprenda a criar um quadro de modelo de negócios para renovar sua empre](https://www.sebrae.com.br/sites/PortalSebrae/bis/quadro-de-modelo-de-negocios-para-criar-recriar-e-inovar,a6df0cc7f4217410VgnVCM2000003c74010aRCRD)
 * [Cloud9](https://c9.io/), your development environment, in the cloud.
 * [Codenvy](https://codenvy.com/), cloud workspaces for Dev teams.
 * [Coder](https://coder.com), an online IDE serving VSCode.
