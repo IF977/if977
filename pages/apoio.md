@@ -26,6 +26,17 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Best Pitch Decks](https://pitchdeck.improvepresentation.com/best-pitch-decks), Modelos de Apresentação para Investidores
 - [The Best Startup Pitch Decks](http://bestpitchdecks.com), Pitch de grandes startups
 - [Aprenda mais sobre apresentações no Powerpoint e no Keynote](https://www.soap.com.br/downloads/)
+- Pitch para conquistar investidores (ou sócios)
+  - Problema
+  - Solução / Diferencial matador ~> Value Proposition Canvas
+  - Modelo de Negócios (de forma resumida, é escalável ou não, receita recorrente, escalada de sucesso, etc.)
+  - Mercado potencial (qual é o mercado, qual o público alvo) ~> importante estar claro também a sua capacidade produtiva
+  - Concorrentes (quem já está posicionado nesse mercado) ~> toda empresa tem concorrentes!
+    - Seu concorrente pode ser como o seu público alvo está resolvendo aquele problema atualmente
+  - Equipe (expertise, background, quem está participando da empreitada)
+  - Tração (já tem tração tem que mostrar, se não tem, tem que mostrar o potencial de ter)
+  - Status atual
+  - Resumo executivo & Call to action (o que você espera dos próximos passos após a reunião)
 
 ## Git
 
