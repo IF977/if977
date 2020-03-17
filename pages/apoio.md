@@ -21,6 +21,11 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Como estimular a criatividade dos estudantes e direcioná-la para um rumo produtivo](http://noticias.universia.com.br/educacao/noticia/2015/01/15/1118281/professor-descubra-15-maneiras-estimular-criatividade-alunos.html)
 - [10 ferramentas gratuitas para empreendedores](https://catracalivre.com.br/geral/empreendedorismo/indicacao/10-ferramentas-gratuitas-para-empreendedores/)
 
+## Pitch e Comunicação Executiva
+
+- [Best Pitch Decks](https://pitchdeck.improvepresentation.com/best-pitch-decks), Modelos de Apresentação para Investidores
+- [The Best Startup Pitch Decks](http://bestpitchdecks.com), Pitch de grandes startups
+- [Aprenda mais sobre apresentações no Powerpoint e no Keynote](https://www.soap.com.br/downloads/)
 
 ## Git
 
