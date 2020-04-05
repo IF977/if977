@@ -96,6 +96,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Configurando VSCode para Node.js, ReactJS e React Native](https://www.youtube.com/watch?v=c7P03kkrEG8)
 - [Terminal com Oh My Zsh, Spaceship, Dracula e mais](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/), por Diego Fernandes -- May, 2019
 - [Repl.it](http://repl.it/), A read-update-evaluate-loop browser app to quickly write and test code. This can be very useful sandbox for trying out different things in JavaScript, and perhaps the best way of learning new aspects of the language.
+- [Glitch](https://glitch.com), Build fast, full-stack web apps in your browser for free. A simple tool for creating web apps.
 
 ## Frameworks de Programação
 
