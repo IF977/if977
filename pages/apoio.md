@@ -37,6 +37,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - Tração (já tem tração tem que mostrar, se não tem, tem que mostrar o potencial de ter)
   - Status atual
   - Resumo executivo & Call to action (o que você espera dos próximos passos após a reunião)
+- [How to write freelance web development proposals that will win over clients](https://www.freecodecamp.org/news/free-web-design-proposal-template/). And this includes a downloadable template, too. (7 minute read)
 
 ## Git
 
