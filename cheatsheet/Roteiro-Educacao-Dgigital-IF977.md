@@ -46,6 +46,7 @@ Prof. Vinicius Cardoso Garcia
 - Produtividade
   - Como garantir uma alta produtividade no desenvolvimento de software? (<https://blog.cronapp.io/como-garantir-uma-alta-produtividade-no-desenvolvimento-de-software/>)
   - Como aumentar sua produtividade como desenvolvedor de software (<https://medium.com/naminhamaquinafunciona/como-aumentar-sua-produtividade-como-desenvolvedor-de-software-f99f0e403f5b>)
+  - Pomodoro Technique (<https://en.wikipedia.org/wiki/Pomodoro_Technique>)
 
 ### Um pouco de Javascript
 
