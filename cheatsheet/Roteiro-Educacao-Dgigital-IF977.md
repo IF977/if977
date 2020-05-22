@@ -2,9 +2,9 @@
 
 Centro de Informática, Universidade Federal de Pernambuco
 
-Engenharia de Software, curso de Graduação em Sistemas de Informação
+Disciplina: IF977 - **Engenharia de Software**, curso de Graduação em Sistemas de Informação
 
-Prof. Vinicius Cardoso Garcia
+Prof. **Vinicius Cardoso Garcia**
 
 ## Roteiro de leituras para discussão na aula
 
@@ -183,6 +183,8 @@ Prof. Vinicius Cardoso Garcia
 - Uma aplicação desktop usando React e Express com Electron, by Henrique Lobo Weissmann -- Feb 20, 2020 (<https://www.itexto.com.br/devkico/?p=2995>)
 - Explorando o React Native, by Kico (Henrique Lobo Weissmann) -- Mar 09, 2020 (<https://www.itexto.com.br/devkico/?p=3009>)
 - React Native – O projeto /dev/All Mobile – Introdução, by Kico (Henrique Lobo Weissmann) -- Mar 15, 2020 (<https://www.itexto.com.br/devkico/?p=3069>)
+- How to get started with React — a modern project-based guide for beginners. This step-by-step tutorial also includes React Hooks. (26 minute read): (<https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/>)
+
 
 ### Testes Unitários; Automatizados; TDD; Testes de Integração; Testes fim-a-fim
 
