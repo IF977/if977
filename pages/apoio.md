@@ -164,6 +164,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Uma aplicação desktop usando React e Express com Electron](https://www.itexto.com.br/devkico/?p=2995), by Henrique Lobo Weissmann -- Feb 20, 2020
 - [Explorando o React Native](https://www.itexto.com.br/devkico/?p=3009), by Kico (Henrique Lobo Weissmann) -- Mar 09, 2020
 - [React Native – O projeto /dev/All Mobile – Introdução](https://www.itexto.com.br/devkico/?p=3069), by Kico (Henrique Lobo Weissmann) -- Mar 15, 2020
+- [How to get started with React — a modern project-based guide for beginners](https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/). This step-by-step tutorial also includes React Hooks (26 minute read)  -- May 22, 2020.
+
 
 ### Ruby on Rails
 
