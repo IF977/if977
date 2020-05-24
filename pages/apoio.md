@@ -107,6 +107,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Especial: 8 sites gratuitos para aprender programação por conta própria](http://idgnow.com.br/internet/2015/08/11/conheca-8-sites-gratuitos-para-aprender-programacao-por-conta-propria/)
 - [12 Sites That Will Teach You Coding for Free](http://www.entrepreneur.com/article/250323)
 - [Codecademy](http://www.codecademy.com/), the best system for **learning to code**.
+- [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847) -- July 5th, 2019
+- [Angular vs React vs Vue: Which Framework to Choose in 2020](https://www.codeinwp.com/blog/angular-vs-vue-vs-react/), by Shaumik Daityari -- May 8, 2020
 
 ### Adonis
 
@@ -156,14 +158,19 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [The MERN Stack Tutorial – Building A React CRUD Application From Start To Finish](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/), by Sebastian -- Dec, 17, 2018
 - Learn ReactJS (Codecademy): [Part I](https://www.codecademy.com/learn/react-101) & [Part II](https://www.codecademy.com/learn/react-102), Build powerful interactive applications with this popular JavaScript library.
 - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
+- [Clean Code vs. Dirty Code: React Best Practices](https://americanexpress.io/clean-code-dirty-code/), Nov 16, 2017
 - [Playlist ReactJS by Rocketseat](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
 - [Is React Native Worth Using?](http://bit.ly/2Va8NEg), by Dan FedirkoFollow -- Apr 19, 2019
 - [How to Turn React Components into Native Web Components](http://bit.ly/2VfU8r6), by Dicky SuryadiFollow -- Apr 19, 2019
 - [Building Your First React Native App](https://hackernoon.com/building-your-first-react-native-app-77a192734ff1), by Nathan Thomas -- May 24, 2019
+- [Transform a React App into a Progressive Web App (PWA)](https://medium.com/@toricpope/transform-a-react-app-into-a-progressive-web-app-pwa-dea336bd96e6), by Tori Pope -- Mar 27, 2019
+- [How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f), by Ibrahim Ragab -- Apr 06, 2020
 - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) & [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102), by Codecademy
+- [From create-react-app to PWA](https://blog.logrocket.com/from-create-react-app-to-pwa/) - Take your app from the console to the web to your users’ home screens, by John Reilly -- January 8, 2020
 - [Uma aplicação desktop usando React e Express com Electron](https://www.itexto.com.br/devkico/?p=2995), by Henrique Lobo Weissmann -- Feb 20, 2020
 - [Explorando o React Native](https://www.itexto.com.br/devkico/?p=3009), by Kico (Henrique Lobo Weissmann) -- Mar 09, 2020
 - [React Native – O projeto /dev/All Mobile – Introdução](https://www.itexto.com.br/devkico/?p=3069), by Kico (Henrique Lobo Weissmann) -- Mar 15, 2020
+- [20 Best Free Bootstrap Templates for ReactJS in 2020](https://www.codeinwp.com/blog/best-free-bootstrap-templates-for-reactjs/), by Adelina Tuca -- May 8, 2020
 - [How to get started with React — a modern project-based guide for beginners](https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/). This step-by-step tutorial also includes React Hooks (26 minute read)  -- May 22, 2020.
 
 
