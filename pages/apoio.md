@@ -153,6 +153,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Gerenciando variáveis ambiente no NodeJS](https://blog.rocketseat.com.br/variaveis-ambiente-nodejs/), por Higo Ribeiro -- Jan, 2019
 - [NodeJS: Best Practices for Production](https://www.freecodecamp.org/news/nodejs-best-practices-for-production-5b173983d14b/), by freeCodeCamp -- Feb 15, 2019
 - [Criando uma API RESTful com NodeJS e Express — Inicializando o projeto e o método GET](https://link.medium.com/laFgt3dob1), by Tiago Lima -- Oct 28, 2019
+- [Implementing OAuth 2.0 in Node.js](https://blog.logrocket.com/implementing-oauth-2-0-in-node-js/), by Diogo Souza Follow -- May 13, 2020.
 
 ### ReactJS & React Native
 
@@ -169,6 +170,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) & [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102), by Codecademy
 - [From create-react-app to PWA](https://blog.logrocket.com/from-create-react-app-to-pwa/) - Take your app from the console to the web to your users’ home screens, by John Reilly -- January 8, 2020
 - [Uma aplicação desktop usando React e Express com Electron](https://www.itexto.com.br/devkico/?p=2995), by Henrique Lobo Weissmann -- Feb 20, 2020
+- [Top 10 React Component Libraries for 2020](https://blog.logrocket.com/top-10-react-component-libraries-for-2020/), by Ogundipe Samuel Follow -- March 5, 2020
 - [Explorando o React Native](https://www.itexto.com.br/devkico/?p=3009), by Kico (Henrique Lobo Weissmann) -- Mar 09, 2020
 - [React Native – O projeto /dev/All Mobile – Introdução](https://www.itexto.com.br/devkico/?p=3069), by Kico (Henrique Lobo Weissmann) -- Mar 15, 2020
 - [20 Best Free Bootstrap Templates for ReactJS in 2020](https://www.codeinwp.com/blog/best-free-bootstrap-templates-for-reactjs/), by Adelina Tuca -- May 8, 2020
