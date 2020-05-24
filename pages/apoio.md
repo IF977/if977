@@ -98,6 +98,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Terminal com Oh My Zsh, Spaceship, Dracula e mais](https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/), por Diego Fernandes -- May, 2019
 - [Repl.it](http://repl.it/), A read-update-evaluate-loop browser app to quickly write and test code. This can be very useful sandbox for trying out different things in JavaScript, and perhaps the best way of learning new aspects of the language.
 - [Glitch](https://glitch.com), Build fast, full-stack web apps in your browser for free. A simple tool for creating web apps.
+- [What’s the Best Cloud IDE in 2020? Here Are 8 of the Top Options](https://www.codeinwp.com/blog/best-cloud-ide/), by Shaumik Daityari -- May 21, 2020
 
 ## Frameworks de Programação
 
