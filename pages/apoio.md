@@ -157,6 +157,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ### ReactJS & React Native
 
+- [ReactJS - Getting Started](https://reactjs.org/docs/getting-started.html), This page is an overview of the React documentation and related resources.
 - [The MERN Stack Tutorial – Building A React CRUD Application From Start To Finish](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/), by Sebastian -- Dec, 17, 2018
 - Learn ReactJS (Codecademy): [Part I](https://www.codecademy.com/learn/react-101) & [Part II](https://www.codecademy.com/learn/react-102), Build powerful interactive applications with this popular JavaScript library.
 - [Curso ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4&list=PLBYDCXNKhWkfPwHrV3CqEakyI1eUfen8k), Publicado em 13 de fev de 2016
