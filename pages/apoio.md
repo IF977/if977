@@ -176,7 +176,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [React Native – O projeto /dev/All Mobile – Introdução](https://www.itexto.com.br/devkico/?p=3069), by Kico (Henrique Lobo Weissmann) -- Mar 15, 2020
 - [20 Best Free Bootstrap Templates for ReactJS in 2020](https://www.codeinwp.com/blog/best-free-bootstrap-templates-for-reactjs/), by Adelina Tuca -- May 8, 2020
 - [How to get started with React — a modern project-based guide for beginners](https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/). This step-by-step tutorial also includes React Hooks (26 minute read)  -- May 22, 2020.
-
+- [Programador JavaScript PRECISA DOMINAR essa TÉCNICA!](https://youtu.be/cGrTcnorZgs), by Cod3r Cursos -- Jun 6, 2020
 
 ### Ruby on Rails
 
