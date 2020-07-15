@@ -89,7 +89,7 @@ Prof. **Vinicius Cardoso Garcia**
 
 - REST (<https://pt.wikipedia.org/wiki/REST>)
 - O que é REST e RESTful? (<https://pt.stackoverflow.com/questions/45783/o-que-é-rest-e-restful>)
-- - O que é API? REST e RESTful? Conheça as definições e diferenças! (<https://becode.com.br/o-que-e-api-rest-e-restful/>)
+- O que é API? REST e RESTful? Conheça as definições e diferenças! (<https://becode.com.br/o-que-e-api-rest-e-restful/>)
 - O que é API? REST e RESTful?  | Mayk Brito by Rocketseat (<https://www.youtube.com/watch?v=ghTrp1x_1As>)
 
 ### GitHub (Ferramenta de controle de versão) e Configuração do ambiente para desenvolvimento do projeto
@@ -246,3 +246,4 @@ Prof. **Vinicius Cardoso Garcia**
 - Design Sprint: O que é, quando usar e quando não usar (<https://www.hellerdepaula.com.br/design-sprint/>)
 - O que é Design Sprint e como criamos um produto novo em 3 dias (<https://medium.com/maxmilhas-tech/o-que-é-design-sprint-e-como-criamos-um-produto-novo-em-3-dias-a1a6d05a9ec>)
 - Agile Sprints vs. Design Sprints (<https://medium.com/pminsider/design-sprints-vs-agile-dev-sprints-eb5a11a997a8>)
+- AS MÉTRICAS DO PIRATA: AAARRR! - Ricardo Dória (<https://www.youtube.com/watch?v=2QIQdKiL54g>)
