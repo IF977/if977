@@ -30,7 +30,7 @@ Centro de Informática, horários: segunda (18:50-20:30) e quarta (17:00-18:40),
 ### Comunicação
 
 * Para facilitar a comunicação via e-mail no âmbito da disciplina, utilizem [if977] como parte do assunto do email.
-* _[OBRIGATÓRIO]_ Temos um canal no Slack para uma comunicação mais dinâmica: [if977 no slack](https://join.slack.com/t/if977/shared_invite/enQtOTc5MTcyOTYwODIxLTQ4MTgwYmVkNGE2OGVjNjZkY2M2NzYxYTJkNWM4MTVhZGRiMDljMjAxMjE1NjUzNGMzM2Y1NmY3MTRiZWQzMTk) (para entrar, tem que usar o e-mail institucional do CIn).
+* _[OBRIGATÓRIO]_ Temos um canal no Slack para uma comunicação mais dinâmica: [if977 no slack](https://join.slack.com/t/if977/shared_invite/zt-gvdezo50-de6H2YG40DX86osw_~Q94Q) (para entrar, tem que usar o e-mail institucional do CIn).
 
 ### Edições anteriores
 
