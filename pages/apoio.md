@@ -77,7 +77,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [How Deploying Every Feature Branch Enables Fast Product Feedback](https://www.infoq.com/news/2019/12/deploy-feature-fast-feedback/), by Ben Linders -- Dec 12, 2019
 - [Product Goals, not Sprint Goals](https://www.infoq.com/articles/sprint-product-goals), by Mahesh Krshnan & Shane Hastie -- Dec 21, 2019
 - [The Importance of Fun in the Workplace](https://www.infoq.com/news/2019/12/fun-workplace/), by Ben Linders -- Dec 19, 2019
-
+- [Revealing The Secrets of Top Software Engineers](http://bit.ly/3jdXH98), by Will Goto (Cofounder & CEO of Humble Dot) -- September 5, 2020
+- [7 Best Project Management Tools for Developers (+ Free Templates)](http://bit.ly/35eeqV3), by Matt Byrom -- June 21, 2020
 
 ## Cloud Computing
 
@@ -99,6 +100,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Repl.it](http://repl.it/), A read-update-evaluate-loop browser app to quickly write and test code. This can be very useful sandbox for trying out different things in JavaScript, and perhaps the best way of learning new aspects of the language.
 - [Glitch](https://glitch.com), Build fast, full-stack web apps in your browser for free. A simple tool for creating web apps.
 - [What’s the Best Cloud IDE in 2020? Here Are 8 of the Top Options](https://www.codeinwp.com/blog/best-cloud-ide/), by Shaumik Daityari -- May 21, 2020
+- [Five Serverless Security Tools You Need To Adopt Right Now](http://bit.ly/2CnKuL3), by Miguel Calles -- June 28, 2020
 
 ## Frameworks de Programação
 
