@@ -110,7 +110,6 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each](https://blog.adobe.com/en/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use.html#gs.g2uz4j), by Nick Babich -- November 29, 2017
 - [Um rápido estudo de prototipagem](https://brasil.uxdesign.cc/uma-r%C3%A1pido-estudo-de-prototipagem-81a1b300471b), by André Dantas -- Jun 15, 2018
 - [Matriz CSD: O que é e Quais são as suas Vantagens](https://gobacklog.com/blog/matriz-csd/), by Adriele Portugal -- Jul, 23 2020
-  - [Matriz CSD em planilha](https://docs.google.com/spreadsheets/d/11ywNMx1k_xQpaon6ZyH3FrPnA8-_j_bUCUo2y5R1YmM/edit?usp=sharing)
 
 ## Frameworks de Programação
 
