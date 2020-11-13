@@ -155,6 +155,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Learn Javascript (gitbookio)](https://gitbookio.gitbooks.io/javascript/)
 - [husky](https://github.com/typicode/husky), Git hooks made easy
 - [Code/Drops #05 - Automatizando padrões de código com Husky + lint-staged](https://www.youtube.com/watch?v=-c57D2kQffQ), Publicado em 1 de nov de 2019
+- [What is Metaprogramming in JavaScript? In English, please](http://bit.ly/3nmBlF6), by Tapas Adhikary -- November 3, 2020
 
 ### NodeJS
 
@@ -189,6 +190,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [How to get started with React — a modern project-based guide for beginners](https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/). This step-by-step tutorial also includes React Hooks (26 minute read)  -- May 22, 2020.
 - [Programador JavaScript PRECISA DOMINAR essa TÉCNICA!](https://youtu.be/cGrTcnorZgs), by Cod3r Cursos -- Jun 6, 2020
 - [Learn the React JavaScript Library With This Free 10-Hour YouTube Course](https://bit.ly/31yOAKi), by Beau Carnes (freeCodeCamp) -- October 6, 2020
+- [Solidify Your React Skills by Building 15 Projects - Free Course](http://bit.ly/2JUX2gP)(9 hour YouTube course), The best way to learn a new tool is to practice building projects with it. And if you want to get good with React, you're in luck. This course will walk you through building 15 projects using the popular React JavaScript library, by Beau Carnes (freeCodeCamp) -- October 27, 2020
 
 ### Ruby on Rails
 
