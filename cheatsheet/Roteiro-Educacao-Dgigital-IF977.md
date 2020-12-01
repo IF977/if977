@@ -131,11 +131,11 @@ Prof. **Vinicius Cardoso Garcia**
 - Behavior-Driven Design (BDD) 
   - Behavior Driven Development (<https://pt.wikipedia.org/wiki/Behavior_Driven_Development>)
   - Desenvolvimento orientado por comportamento (BDD) (<https://www.devmedia.com.br/desenvolvimento-orientado-por-comportamento-bdd/21127>)
-  - Behavior Driven Development (<https://medium.com/desenvolvimento-orientado-por-comportamento/desenvolvimento-conduzido-de-comportamento-bdd-b2c98daea331>)
-  - Desenvolvimento Orientado para o Comportamento (<https://medium.com/@thi_carva/behaviour-driven-development-7cda5acdc4fa>)
+  - Behavior Driven Development (<https://bit.ly/3owYXIc>)
+  - Desenvolvimento Orientado para o Comportamento (<https://bit.ly/3kK5cXb>)
 - User Stories
   - Histórias de usuários com exemplos e template (<https://www.atlassian.com/br/agile/project-management/user-stories>)
-  - Como escrever boas histórias de usuário (User Stories) (<https://medium.com/vertice/como-escrever-boas-users-stories-histórias-de-usuários-b29c75043fac>)
+  - Como escrever boas histórias de usuário (User Stories) (<https://bit.ly/31KjnUi>)
   - Veja agora 08 dicas para criar excelentes histórias de usuário (<http://www.metodoagil.com/historias-de-usuario/>)
 
 ### SMART HU; Lo-Fi; Points & Velocity
@@ -150,7 +150,7 @@ Prof. **Vinicius Cardoso Garcia**
   - Baixa, média ou alta fidelidade? Conheça as diferenças entre os tipos de protótipos. (<https://dextra.com.br/pt/baixa-media-ou-alta-fidelidade-conheca-as-diferencas-entre-os-tipos-de-prototipos/>)
   - Protótipos de baixa, média e alta fidelidade (<http://jeffersonalex.com.br/design/prototipos-de-baixa-media-e-alta-fidelidade/>)
   - Startup Sorocaba: O que são protótipos de baixa e alta fidelidade (<https://startupsorocaba.com/startup-sorocaba-o-que-sao-prototipos-de-baixa-e-alta-fidelidade/>)
-  - Quais são as melhores ferramentas de prototipagem de interface? UI UX (<https://medium.com/aela/quais-são-as-melhores-ferramentas-de-prototipagem-de-interface-ui-ux-9b36155eef7a>)
+  - Quais são as melhores ferramentas de prototipagem de interface? UI UX (<http://bit.ly/3kIUEao>)
 - Points & Velocity
   - Pontos da história e estimativas (<https://www.atlassian.com/br/agile/project-management/estimation>)
   - Estimativas, que unidade usar? (<https://blog.myscrumhalf.com/estimativas-que-unidade-usar/>)
@@ -169,6 +169,8 @@ Prof. **Vinicius Cardoso Garcia**
   - Engenharia de Software Moderna, Cap. 8: Testes (<https://engsoftmoderna.info/cap8.html>)
   - TDD: fundamentos do desenvolvimento orientado a testes (<https://www.devmedia.com.br/tdd-fundamentos-do-desenvolvimento-orientado-a-testes/28151>)
   - Desenvolvimento Orientado a Testes (<>)
+  - Conheça os princípios F.I.R.S.T aplicados em testes de unidade (<https://bit.ly/3kA36ZF>)
+  - Qual a diferença entre BDD e TDD? (<https://blog.locaweb.com.br/artigos/metodologias-ageis/diferenca-entre-bdd-tdd/>)
 
 ### Aula prática sobre TDD com Mocha & Chai (Ferramenta de automação de testes)
 
