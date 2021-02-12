@@ -79,6 +79,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [The Importance of Fun in the Workplace](https://www.infoq.com/news/2019/12/fun-workplace/), by Ben Linders -- Dec 19, 2019
 - [Revealing The Secrets of Top Software Engineers](http://bit.ly/3jdXH98), by Will Goto (Cofounder & CEO of Humble Dot) -- September 5, 2020
 - [7 Best Project Management Tools for Developers (+ Free Templates)](http://bit.ly/35eeqV3), by Matt Byrom -- June 21, 2020
+- [How Model-View-Controller Architecture Works](https://bit.ly/3b5aNnk), by Nishant Kumar -- Feb, 04, 2021
+- [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://bit.ly/377KkUQ), by Idris Olubisi -- Feb 05, 2021
 
 ## Cloud Computing
 
