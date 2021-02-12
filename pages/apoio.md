@@ -110,6 +110,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each](https://blog.adobe.com/en/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use.html#gs.g2uz4j), by Nick Babich -- November 29, 2017
 - [Um rápido estudo de prototipagem](https://brasil.uxdesign.cc/uma-r%C3%A1pido-estudo-de-prototipagem-81a1b300471b), by André Dantas -- Jun 15, 2018
 - [Matriz CSD: O que é e Quais são as suas Vantagens](https://gobacklog.com/blog/matriz-csd/), by Adriele Portugal -- Jul, 23 2020
+- [UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma](https://bit.ly/3ag4ldC), by Adrian Twarog -- Feb 10, 2021
 
 ## Frameworks de Programação
 
