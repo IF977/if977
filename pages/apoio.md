@@ -263,3 +263,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ### React
 - [Enzyme](https://github.com/airbnb/enzyme), a JavaScript Testing utility for React that makes it easier to test your React Components' output.
+
+### Testes de APIs
+
+- Postman is a powerful tool for testing APIs. [This course](https://bit.ly/3cebRWs) will teach you how to install it and use it to inspect query parameters, path variables, and other parts of an HTTP response.
