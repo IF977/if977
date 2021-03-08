@@ -109,7 +109,7 @@ Além dos monitores, temos também uma equipe de consultores, que estão dispon�
 - Armando Fox and David Patterson. **[Engineering Software as a Service: An Agile Approach Using Cloud Computing](http://saasbook.info/)**. Strawberry Canyon LLC, 2013. **First Edition by Armando Fox and David Patterson. Be sure you get the First Edition, version 1.1.0 or later, released July 2014**. Earlier editions are missing various chapters, have different chapter numbering, and contain errors that have been corrected. Errata can be found (and reported) at <http://beta.saasbook.info/errata>.
 - Fabio Kon (IME-USP) e Daniel Cordeiro (EACH-USP). **[Construindo Software como Serviço: Uma Abordagem Ágil Usando Computação em Nuvem](http://br.saasbook.info/)**. Versão traduzida da primeira Edição.
 
-IEEE Computer Society, **Guide to the Software Engineering Body of Knowledge (SWEBOK)**, 2004 edition. Disponível [online](https://www.computer.org/education/bodies-of-knowledge/software-engineering).
+P. Bourque and R.E. Fairley, eds., **Guide to the Software Engineering Body of Knowledge**, Version 3.0, IEEE Computer Society, 2014; www.swebok.org. Disponível [online](https://www.computer.org/education/bodies-of-knowledge/software-engineering).
 
 ## Bibliografia complementar
 
