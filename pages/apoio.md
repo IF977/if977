@@ -169,6 +169,13 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [NodeJS: Best Practices for Production](https://www.freecodecamp.org/news/nodejs-best-practices-for-production-5b173983d14b/), by freeCodeCamp -- Feb 15, 2019
 - [Criando uma API RESTful com NodeJS e Express — Inicializando o projeto e o método GET](https://link.medium.com/laFgt3dob1), by Tiago Lima -- Oct 28, 2019
 - [Implementing OAuth 2.0 in Node.js](https://blog.logrocket.com/implementing-oauth-2-0-in-node-js/), by Diogo Souza Follow -- May 13, 2020.
+- [Desenvolver com o Node.js no Windows](https://docs.microsoft.com/pt-br/windows/nodejs/), by Microsoft -- Desenvolvedor Windows
+- [Introdução ao uso de Node.js no Windows para iniciantes](https://docs.microsoft.com/pt-br/windows/nodejs/beginners), by Microsoft -- Desenvolvedor Windows -- Sep 19, 2019
+  - Configurar seu ambiente de desenvolvimento Node.js
+  - Introdução para iniciantes
+  - Introdução às estruturas da Web
+  - Introdução aos bancos de dados
+  - Introdução aos contêineres
 
 ### ReactJS & React Native
 
