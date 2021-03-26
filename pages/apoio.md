@@ -125,6 +125,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Codecademy](http://www.codecademy.com/), the best system for **learning to code**.
 - [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847) -- July 5th, 2019
 - [Angular vs React vs Vue: Which Framework to Choose in 2020](https://www.codeinwp.com/blog/angular-vs-vue-vs-react/), by Shaumik Daityari -- May 8, 2020
+- [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://bit.ly/3rrEp4r), One of the best ways to strengthen your developer skills is to build a lot of projects. Here are 40 free JavaScript project ideas designed specifically with web developers in mind (including a course or detailed tutorial + example codebase)
 
 ### Adonis
 
