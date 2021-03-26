@@ -81,6 +81,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [7 Best Project Management Tools for Developers (+ Free Templates)](http://bit.ly/35eeqV3), by Matt Byrom -- June 21, 2020
 - [How Model-View-Controller Architecture Works](https://bit.ly/3b5aNnk), by Nishant Kumar -- Feb, 04, 2021
 - [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://bit.ly/377KkUQ), by Idris Olubisi -- Feb 05, 2021
+- [Awesome Tech Leads](https://github.com/gabiduarte/awesome-techleads), Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português.
 
 ## Cloud Computing
 
