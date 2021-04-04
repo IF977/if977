@@ -178,6 +178,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - Introdução às estruturas da Web
   - Introdução aos bancos de dados
   - Introdução aos contêineres
+- [Learn Node.js and Express with This Free 8-hour Back End Development Course](https://bit.ly/39EqQbu), Node.js is a popular JavaScript tool for coding the back end of websites and mobile apps. Lots of big companies use Node in production: Netflix, LinkedIn – even NASA uses Node. In this course, you'll learn asynchronous programming and how to use event emitters, data streams, middleware, Postman, and a ton of API routing best practices.
 
 ### ReactJS & React Native
 
