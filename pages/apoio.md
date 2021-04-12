@@ -82,6 +82,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [How Model-View-Controller Architecture Works](https://bit.ly/3b5aNnk), by Nishant Kumar -- Feb, 04, 2021
 - [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://bit.ly/377KkUQ), by Idris Olubisi -- Feb 05, 2021
 - [Awesome Tech Leads](https://github.com/gabiduarte/awesome-techleads), Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português.
+- [What is a PWA? Progressive Web Apps for Beginners](https://bit.ly/3dY8H9V), by Hillary Nyakundi -- Apr 6, 2021
 
 ## Cloud Computing
 
