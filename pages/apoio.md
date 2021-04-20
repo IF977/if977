@@ -60,8 +60,6 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Desenvolvendo Software](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki), wiki da matéria de Engenharia de Software UnB 2018, ministrada pela [profa. Claudia Melo](http://claudiamelo.org/).
 - [Código legado: um exercício de arqueologia e compaixão](http://www.itexto.net/devkico/?p=2073)
 - [Conselhos de um velho programador antissocial e ranzinza](http://gizmodo.uol.com.br/conselhos-de-um-velho-programador-antissocial-e-ranzinza/)
-- [Não fique preso a apenas uma arquitetura](http://www.infoq.com/br/presentations/nao-fique-preso-a-uma-arquitetura)
-- [Evoluindo uma Arquitetura inteiramente sobre APIs: o caso da SoundCloud](http://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud)
 - [Examples Showing How You Can Scale Scrum](http://www.infoq.com/news/2014/05/examples-scale-scrum)
 - [Scrumhalf](http://myscrumhalf.com/?lang=en)
 - [6 Ways to Master the Daily Stand-Up Meetings](http://bit.ly/2PxT9Ny), by Eric SmithFollow -- Apr 29, 2019
@@ -71,18 +69,25 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Lean for Software Developers](https://hackernoon.com/lean-for-software-developers-15021cfb382c), by Krzysztof CzernekFollow -- Feb 5, 2019.
 - [You are Wrong About What Software Engineering is](https://hackernoon.com/you-are-wrong-about-what-software-engineering-is-e17f471c451b), by Humberto LineroFollow -- Feb 4, 2019.
 - [7 Common Web Development problems which every developer from Beginners to Experts should know [with multiple solutions]](https://hackernoon.com/7-common-web-development-problems-which-every-developer-from-beginners-to-experts-should-know-with-47a7d2e9367f), Yogi -- Feb 2, 2019.
-- [Application Architecture explained in a way your Mom will understand](http://bit.ly/2TVRLty), CrypteriumFollow -- Dec 11, 2018
-- [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), Robert ZhuFollow -- Dec 6, 2018
-- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/?source=post_page-----c1eb7cfa8a30----------------------), August 13, 2016
 - [How Deploying Every Feature Branch Enables Fast Product Feedback](https://www.infoq.com/news/2019/12/deploy-feature-fast-feedback/), by Ben Linders -- Dec 12, 2019
 - [Product Goals, not Sprint Goals](https://www.infoq.com/articles/sprint-product-goals), by Mahesh Krshnan & Shane Hastie -- Dec 21, 2019
 - [The Importance of Fun in the Workplace](https://www.infoq.com/news/2019/12/fun-workplace/), by Ben Linders -- Dec 19, 2019
 - [Revealing The Secrets of Top Software Engineers](http://bit.ly/3jdXH98), by Will Goto (Cofounder & CEO of Humble Dot) -- September 5, 2020
 - [7 Best Project Management Tools for Developers (+ Free Templates)](http://bit.ly/35eeqV3), by Matt Byrom -- June 21, 2020
-- [How Model-View-Controller Architecture Works](https://bit.ly/3b5aNnk), by Nishant Kumar -- Feb, 04, 2021
-- [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://bit.ly/377KkUQ), by Idris Olubisi -- Feb 05, 2021
 - [Awesome Tech Leads](https://github.com/gabiduarte/awesome-techleads), Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português.
 - [What is a PWA? Progressive Web Apps for Beginners](https://bit.ly/3dY8H9V), by Hillary Nyakundi -- Apr 6, 2021
+
+## Software Architecture
+
+- [Não fique preso a apenas uma arquitetura](http://www.infoq.com/br/presentations/nao-fique-preso-a-uma-arquitetura)
+- [Evoluindo uma Arquitetura inteiramente sobre APIs: o caso da SoundCloud](http://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud)
+- [Application Architecture explained in a way your Mom will understand](http://bit.ly/2TVRLty), CrypteriumFollow -- Dec 11, 2018
+- [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), Robert ZhuFollow -- Dec 6, 2018
+- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/?source=post_page-----c1eb7cfa8a30----------------------), August 13, 2016
+- [How Model-View-Controller Architecture Works](https://bit.ly/3b5aNnk), by Nishant Kumar -- Feb, 04, 2021
+- [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://bit.ly/377KkUQ), by Idris Olubisi -- Feb 05, 2021
+- [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/), by Mark Richards & Neal Ford, O′Reilly; Illustrated edição (7 fevereiro 2020).
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), by Martin Kleppmann, O'Reilly Media, Inc., Released March 2017
 
 ## Cloud Computing
 
