@@ -238,6 +238,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 ### Vue
 
 - [Building A Real-Time Chat Application With Vue.js and Firebase ](https://medium.com/codingthesmartway-com-blog/building-a-real-time-chat-application-with-vue-js-and-firebase-part-1-670c768ad860), by Sebastian Eschweiler -- Nov 9, 2018
+- [How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify](https://bit.ly/3uRRp5B), by Fabio Pacific -- May 12, 2021
   
 ## Frameworks de Testes
 
