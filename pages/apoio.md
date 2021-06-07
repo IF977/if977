@@ -110,6 +110,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Glitch](https://glitch.com), Build fast, full-stack web apps in your browser for free. A simple tool for creating web apps.
 - [What’s the Best Cloud IDE in 2020? Here Are 8 of the Top Options](https://www.codeinwp.com/blog/best-cloud-ide/), by Shaumik Daityari -- May 21, 2020
 - [Five Serverless Security Tools You Need To Adopt Right Now](http://bit.ly/2CnKuL3), by Miguel Calles -- June 28, 2020
+- [JavaScript Tutorial – How to Set Up a Front End Development Project](https://bit.ly/34UCGM3), by Hunor Márton Borbély -- June 3, 2021
 
 ## Prototipação
 
