@@ -76,6 +76,9 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [7 Best Project Management Tools for Developers (+ Free Templates)](http://bit.ly/35eeqV3), by Matt Byrom -- June 21, 2020
 - [Awesome Tech Leads](https://github.com/gabiduarte/awesome-techleads), Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português.
 - [What is a PWA? Progressive Web Apps for Beginners](https://bit.ly/3dY8H9V), by Hillary Nyakundi -- Apr 6, 2021
+- [Uber Reveals Its API Gateway's Architecture](https://bit.ly/3lzgOza), by Eran Stiller -- Jun 02, 2021
+- [Enhance Your Testing Strategy with Mind Map-Driven Testing](https://bit.ly/3A7Lmw2), by Prashant Hegde and Ben Linders -- Jul 16, 2021
+- [PayPal Engineering Teams Implement Premortem Analysis](https://bit.ly/3lMEdO3), by Eran Stiller -- Jul 22, 2021
 
 ## Software Architecture
 
