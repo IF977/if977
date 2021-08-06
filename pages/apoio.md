@@ -214,6 +214,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Programador JavaScript PRECISA DOMINAR essa TÉCNICA!](https://youtu.be/cGrTcnorZgs), by Cod3r Cursos -- Jun 6, 2020
 - [Learn the React JavaScript Library With This Free 10-Hour YouTube Course](https://bit.ly/31yOAKi), by Beau Carnes (freeCodeCamp) -- October 6, 2020
 - [Solidify Your React Skills by Building 15 Projects - Free Course](http://bit.ly/2JUX2gP)(9 hour YouTube course), The best way to learn a new tool is to practice building projects with it. And if you want to get good with React, you're in luck. This course will walk you through building 15 projects using the popular React JavaScript library, by Beau Carnes (freeCodeCamp) -- October 27, 2020
+- [React and Material UI Course – Code a Dictionary](https://bit.ly/3xsb5ha), Learn React and the Material UI design library in this crash course. You can code along at home and use the Google Dictionary API to build your own dictionary website. You'll get plenty of practice with Progressive Web App concepts as well -- August 3, 2021
 
 ### Ruby on Rails
 
