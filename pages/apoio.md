@@ -52,6 +52,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Git 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 - [Curso básico de Git ](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Supercharge GitHub Issues with this new feature](https://youtu.be/PilNDZsko3Y)
 
 ## Software Enfineering and Software Development
 
