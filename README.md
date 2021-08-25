@@ -34,6 +34,12 @@ Centro de Informática, horários: segunda (18:50-20:30) e quarta (17:00-18:40),
 
 ### Edições anteriores
 
+* Semestre 2020.2
+  * [Análise da Jornada - Strateegia](https://github.com/IF977/if977/blob/master/lectures/strateegia.digital%20-%202020-2%20-%20analise%20de%20jornada%20IF977.pdf)
+  * [Análise do Engajamento - Strateegia](https://github.com/IF977/if977/blob/master/lectures/strateegia.digital%20-%202020-2%20-%20analise%20de%20engajamento%20IF977.pdf)
+* Semestre 2020.1
+  * [Análise da Jornada - Strateegia](https://github.com/IF977/if977/blob/master/lectures/strateegia.digital%20-%202020-1%20-%20analise%20de%20jornada%20IF977.pdf)
+  * [Análise do Engajamento - Strateegia](https://github.com/IF977/if977/blob/master/lectures/strateegia.digital%20-%202020-1%20-%20analise%20de%20engajamento%20IF977.pdf)
 * [Semestres 2020.1* & 2020.3](http://bit.ly/vcg-es-2020-3)
   * [Análise da Jornada - Strateegia](https://github.com/IF977/if977/blob/master/lectures/strateegia.digital%20-%202020-3%20-%20analise%20de%20jornada%20IF977.pdf)
   * [Análise do Engajamento - Strateegia](https://github.com/IF977/if977/blob/master/lectures/strateegia.digital%20-%202020-3%20-%20analise%20de%20engajamento%20IF977.pdf)
