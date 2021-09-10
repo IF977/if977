@@ -216,6 +216,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Learn the React JavaScript Library With This Free 10-Hour YouTube Course](https://bit.ly/31yOAKi), by Beau Carnes (freeCodeCamp) -- October 6, 2020
 - [Solidify Your React Skills by Building 15 Projects - Free Course](http://bit.ly/2JUX2gP)(9 hour YouTube course), The best way to learn a new tool is to practice building projects with it. And if you want to get good with React, you're in luck. This course will walk you through building 15 projects using the popular React JavaScript library, by Beau Carnes (freeCodeCamp) -- October 27, 2020
 - [React and Material UI Course – Code a Dictionary](https://bit.ly/3xsb5ha), Learn React and the Material UI design library in this crash course. You can code along at home and use the Google Dictionary API to build your own dictionary website. You'll get plenty of practice with Progressive Web App concepts as well -- August 3, 2021
+- [React Tutorial – How to Build the 2048 Game in React](https://bit.ly/3hme1qo), by Matt Sokola -- Sep 7, 2021
 
 ### Ruby on Rails
 
@@ -245,6 +246,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 - [Building A Real-Time Chat Application With Vue.js and Firebase ](https://medium.com/codingthesmartway-com-blog/building-a-real-time-chat-application-with-vue-js-and-firebase-part-1-670c768ad860), by Sebastian Eschweiler -- Nov 9, 2018
 - [How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify](https://bit.ly/3uRRp5B), by Fabio Pacific -- May 12, 2021
+- [Learn Vue 3, a Front-End JavaScript Framework](https://bit.ly/3E0TaCJ), by Beau Carnes -- Sep 7, 2021
   
 ## Frameworks de Testes
 
