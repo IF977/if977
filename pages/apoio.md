@@ -172,6 +172,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [husky](https://github.com/typicode/husky), Git hooks made easy
 - [Code/Drops #05 - Automatizando padrões de código com Husky + lint-staged](https://www.youtube.com/watch?v=-c57D2kQffQ), Publicado em 1 de nov de 2019
 - [What is Metaprogramming in JavaScript? In English, please](http://bit.ly/3nmBlF6), by Tapas Adhikary -- November 3, 2020
+- [Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More](https://bit.ly/3nYrmt0), by Tapas Adhikary -- Sep 13, 2021
 
 ### NodeJS
 
