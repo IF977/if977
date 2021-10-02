@@ -53,6 +53,9 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Curso básico de Git ](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Supercharge GitHub Issues with this new feature](https://youtu.be/PilNDZsko3Y)
+- [Git for Professionals – Free Version Control Course](https://bit.ly/3itZ0mP), by Beau Carnes -- Sep 30,2021
+
+
 
 ## Software Enfineering and Software Development
 
