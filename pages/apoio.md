@@ -194,6 +194,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
   - Introdução aos bancos de dados
   - Introdução aos contêineres
 - [Learn Node.js and Express with This Free 8-hour Back End Development Course](https://bit.ly/39EqQbu), Node.js is a popular JavaScript tool for coding the back end of websites and mobile apps. Lots of big companies use Node in production: Netflix, LinkedIn – even NASA uses Node. In this course, you'll learn asynchronous programming and how to use event emitters, data streams, middleware, Postman, and a ton of API routing best practices.
+- [Build Four Node.js and Express.js Projects](https://bit.ly/30zXZnh), by Beau Carnes -- Oct 14, 2021. This course taught by legendary freeCodeCamp teacher John Smilga will walk you through building four Node.js and Express.js projects. You'll build your own task manager, ecommerce API, login dashboard using JWT, and finally your own job board API. These projects will give you a sound foundation in API design and back end JavaScript web development. (10 hour YouTube course)
 
 ### ReactJS & React Native
 
