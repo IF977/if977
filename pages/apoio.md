@@ -128,6 +128,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Um rápido estudo de prototipagem](https://brasil.uxdesign.cc/uma-r%C3%A1pido-estudo-de-prototipagem-81a1b300471b), by André Dantas -- Jun 15, 2018
 - [Matriz CSD: O que é e Quais são as suas Vantagens](https://gobacklog.com/blog/matriz-csd/), by Adriele Portugal -- Jul, 23 2020
 - [UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma](https://bit.ly/3ag4ldC), by Adrian Twarog -- Feb 10, 2021
+- [UI Design with Figma - Tutorial](https://bit.ly/3Fg1bmu), by Beau Carnes -- Jan 05, 2022 -- Figma is a powerful user experience design tool used by web and mobile developers. This course will teach you Figma basics, along with Material Design, vector graphics, and Tailwind CSS.
 
 ## Frameworks de Programação
 
