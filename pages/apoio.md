@@ -224,6 +224,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [React and Material UI Course – Code a Dictionary](https://bit.ly/3xsb5ha), Learn React and the Material UI design library in this crash course. You can code along at home and use the Google Dictionary API to build your own dictionary website. You'll get plenty of practice with Progressive Web App concepts as well -- August 3, 2021
 - [React Tutorial – How to Build the 2048 Game in React](https://bit.ly/3hme1qo), by Matt Sokola -- Sep 7, 2021
 - [Learn Gatsby, a Static Site Generator](https://bit.ly/2Zc66Wg), by Beau Carnes -- Sep 16, 2021
+- [Free React Course for 2022](https://bit.ly/3FBGfq8), by Bob Ziroll -- Jan 10, 2022. React is a popular JavaScript front end development library. This course will teach you React for beginners. Learn about props, state, async functions, JSX, and more. Along the way, you'll build 8 real-world projects, and solve more than 140 interactive coding challenges. (12 hour YouTube course)
 
 ### Ruby on Rails
 
