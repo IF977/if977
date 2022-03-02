@@ -55,8 +55,6 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Supercharge GitHub Issues with this new feature](https://youtu.be/PilNDZsko3Y)
 - [Git for Professionals – Free Version Control Course](https://bit.ly/3itZ0mP), by Beau Carnes -- Sep 30,2021
 
-
-
 ## Software Enfineering and Software Development
 
 - [**An Agenda for the Future of Software (Engineering in Brazil)**](https://youtu.be/eujhiejLL7c), Prof. Silvio Meira
@@ -158,6 +156,10 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/), por Claudio Orlandi -- Ago, 2018
 - [“Hello World!” app with Node.js and Express](https://medium.com/@adnanrahic/hello-world-app-with-node-js-and-express-c1eb7cfa8a30), by Adnan Rahić -- Jan 9, 2017.
 
+### Flutter
+
+- [Flutter Course for Beginners – 37-hour Android App Development Tutorial](https://www.freecodecamp.org/news/learn-flutter-full-course/), by Beau Carnes -- Feb 24, 2022
+
 ### JavaScript
 
 - [Introduction To JavaScript (Codecademy)](https://www.codecademy.com/learn/introduction-to-javascript), Learn the JavaScript fundamentals you'll need for front-end or back-end development.
@@ -177,6 +179,9 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Code/Drops #05 - Automatizando padrões de código com Husky + lint-staged](https://www.youtube.com/watch?v=-c57D2kQffQ), Publicado em 1 de nov de 2019
 - [What is Metaprogramming in JavaScript? In English, please](http://bit.ly/3nmBlF6), by Tapas Adhikary -- November 3, 2020
 - [Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More](https://bit.ly/3nYrmt0), by Tapas Adhikary -- Sep 13, 2021
+
+###
+- [Learn NestJS by Building a CRUD API](https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/), by Beau Carnes -- Feb 23, 2022
 
 ### NodeJS
 
