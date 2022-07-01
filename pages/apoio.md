@@ -64,6 +64,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Conselhos de um velho programador antissocial e ranzinza](http://gizmodo.uol.com.br/conselhos-de-um-velho-programador-antissocial-e-ranzinza/)
 - [Examples Showing How You Can Scale Scrum](http://www.infoq.com/news/2014/05/examples-scale-scrum)
 - [Scrumhalf](http://myscrumhalf.com/?lang=en)
+- [Cultura de Desenvolvimento e Arquitetura do Stack Overflow - Roberta Arcoverde](https://www.youtube.com/watch?v=7LEWQZim5O4), oas práticas de desenvolvimento de software são comumente aceitas como universais; entretanto, no Stack Overflow, estamos acostumados a desobedecer convenções e quebrar paradigmas. Nessa palestra vou falar da nossa cultura de desenvolvimento, explicar como funciona nossa arquitetura e as motivações por trás de tantas escolhas controversas. -- Jul 26, 2018.
 - [6 Ways to Master the Daily Stand-Up Meetings](http://bit.ly/2PxT9Ny), by Eric SmithFollow -- Apr 29, 2019
 - [One secret to becoming a great software engineer: read code](http://bit.ly/2PcKDn3), Become a better programmer by building a routine and habit for reading code, by Nemil DalalFollow -- Apr 16, 2019.
 - [Four reasons you need automated tests for your code](https://hackernoon.com/four-reasons-you-need-automated-tests-for-your-code-3fd4f6f4e720), Written by Vikash Tank, Junior Blockchain Developer at Verv -- Feb 26, 2019.
@@ -85,14 +86,17 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 ## Software Architecture
 
 - [Não fique preso a apenas uma arquitetura](http://www.infoq.com/br/presentations/nao-fique-preso-a-uma-arquitetura)
+- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/?source=post_page-----c1eb7cfa8a30----------------------), August 13, 2016
+- [Stack Overflow: A Technical Deconstruction](https://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/), byu Nick Craver -- Feb 3, 2016.
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), by Martin Kleppmann, O'Reilly Media, Inc., Released March 2017
 - [Evoluindo uma Arquitetura inteiramente sobre APIs: o caso da SoundCloud](http://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud)
 - [Application Architecture explained in a way your Mom will understand](http://bit.ly/2TVRLty), CrypteriumFollow -- Dec 11, 2018
 - [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), Robert ZhuFollow -- Dec 6, 2018
-- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/?source=post_page-----c1eb7cfa8a30----------------------), August 13, 2016
+- [Re-arquitetando o Stack Overflow - Roberta Arcoverde](https://www.youtube.com/watch?v=-8tTDvQXxGc),  Em junho de 2017, começamos a planejar o que seria a mais ambiciosa alteração arquitetural na história do Stack Overflow. Estávamos contemplando as possíveis soluções para um novo produto, chamado Stack Overflow for Teams, que permitiria que usuários criassem instâncias privadas do site para seus times e empresas. Até então tínhamos uma arquitetura enxuta, dando suporte aos 170 sites da rede com estabilidade; agora, estávamos diante de um cenário potencial de dezenas de milhares de novos sites, criados organicamente e sem nosso controle. Estaríamos também lidando com dados confidenciais, e com desafios de segurança inéditos na nossa história e na nossa infraestrutura. Nesta palestra vou explicar a arquitetura do Stack Overflow for Teams, e também a jornada - incluindo erros e acertos - que nos levou até a versão que lançamos em maio de 2018, e que já conta com mais de 20 mil usuários. -- Oct 31, 2019.
 - [How Model-View-Controller Architecture Works](https://bit.ly/3b5aNnk), by Nishant Kumar -- Feb, 04, 2021
 - [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://bit.ly/377KkUQ), by Idris Olubisi -- Feb 05, 2021
 - [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/), by Mark Richards & Neal Ford, O′Reilly; Illustrated edição (7 fevereiro 2020).
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), by Martin Kleppmann, O'Reilly Media, Inc., Released March 2017
+- [Monolitos com Roberta Arcoverde | #HipstersPontoTube](https://www.youtube.com/watch?v=byhpaDuOC2w): O que são monolitos? O que é o oposto de monolito? Monolitos são um pacote de deploy em uma única aplicação e o oposto, são suas dependências. De uma forma ou de outra, raramente uma aplicação está contida por completo. E esse é o bate papo deste #HipstersPontoTube entre Paulo Silveira e Roberta Arcoverde -- Apr 13, 2022
 
 ## Cloud Computing
 
