@@ -87,7 +87,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 - [Não fique preso a apenas uma arquitetura](http://www.infoq.com/br/presentations/nao-fique-preso-a-uma-arquitetura)
 - [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/?source=post_page-----c1eb7cfa8a30----------------------), August 13, 2016
-- [Stack Overflow: A Technical Deconstruction](https://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/), byu Nick Craver -- Feb 3, 2016.
+- [Stack Overflow: A Technical Deconstruction](https://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/), by Nick Craver -- Feb 3, 2016.
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), by Martin Kleppmann, O'Reilly Media, Inc., Released March 2017
 - [Evoluindo uma Arquitetura inteiramente sobre APIs: o caso da SoundCloud](http://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud)
 - [Application Architecture explained in a way your Mom will understand](http://bit.ly/2TVRLty), CrypteriumFollow -- Dec 11, 2018
