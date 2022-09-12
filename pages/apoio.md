@@ -4,11 +4,19 @@
 
 Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
+## Carreira
+
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university), este repositório apresenta um plano completo de estudo de ciência da computação para se tornar um engenheiro de software. Este repositório o levará do nível básico aos conceitos avançados de maneira sistemática.
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook), este repositório possui conteúdo prático que abrange todas as fases de uma entrevista técnica, desde a candidatura a uma vaga até a aprovação nas entrevistas.
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms), este repositório contém exemplos baseados em JavaScript de muitos algoritmos e estruturas de dados populares. 
+- [How Web Works](https://github.com/vasanthk/how-web-works), você sabe o que acontece nos bastidores quando digitamos http:// google .com em um navegador? O funcionamento interno da internet é explicado neste repositório.
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions), este repositório presenta uma longa lista de perguntas (avançadas) sobre JavaScript e suas explicações. Teste o quanto você conhece JavaScript, atualize um pouco seu conhecimento e prepare-se para sua entrevista.
+
 ## Warm up
 
+- [How To Prepare Students For 21st Century Survival: 7 Skills Students Will Always Need](https://www.teachthought.com/the-future-of-learning/how-to-prepare-student-for-21st-century-survival/), by TeachThought Staff -- March 17, 2019
 - [Escolas de programação são os novos MBAs](https://medium.com/codando/escolas-de-programação-são-os-novos-mbas-830fd3410537#.x1vl22q93), by Mathieu Le Roux -- Apr 25, 2016
 - [Há diferenças entre o empreendedor e o empresário](http://cbn.globoradio.globo.com/comentaristas/o-executivo-sincero/2015/12/02/HA-DIFERENCAS-ENTRE-O-EMPREENDEDOR-E-O-EMPRESARIO.htm), by Adriano Silva | O executivo sincero -- Dec 02, 2015
-- [How To Prepare Students For 21st Century Survival: 7 Skills Students Will Always Need](https://www.teachthought.com/the-future-of-learning/how-to-prepare-student-for-21st-century-survival/), by TeachThought Staff -- March 17, 2019
 - [**How to Read a Paper**](https://drive.google.com/a/cin.ufpe.br/file/d/0Bxt1VZoj3lGuR2tQWE5sTTdzYTA/edit?usp=sharing), S Keshav, ACM SIGCOMM Computer Communication Review, 2007.
 - [7 Skills Students Will Always Need](http://www.teachthought.com/learning/how-to-prepare-student-for-21st-century-survival/)
 - [How to choose a good scientific problem](https://drive.google.com/open?id=0Bxt1VZoj3lGucElPSnlfMjRnbXM&authuser=0)
