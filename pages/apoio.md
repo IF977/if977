@@ -91,6 +91,10 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [Enhance Your Testing Strategy with Mind Map-Driven Testing](https://bit.ly/3A7Lmw2), by Prashant Hegde and Ben Linders -- Jul 16, 2021
 - [PayPal Engineering Teams Implement Premortem Analysis](https://bit.ly/3lMEdO3), by Eran Stiller -- Jul 22, 2021
 
+## Design Patterns
+
+- [Design Pattern Examples and Explanation](https://twitter.com/javarevisited/status/1577170953586372608?s=20&t=MFbbR-OLbldhjnNEZ2Bn8A), by [@javarevisited](https://twitter.com/javarevisited)
+
 ## Software Architecture
 
 - [Não fique preso a apenas uma arquitetura](http://www.infoq.com/br/presentations/nao-fique-preso-a-uma-arquitetura)
