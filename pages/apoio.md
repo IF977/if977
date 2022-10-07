@@ -65,6 +65,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Software Enfineering and Software Development
 
+- [Engenharia de Software no Século XXI: Conquistas e Desafios](https://youtu.be/EqdKJeepkTs), SBES - Palestra de Marco Túlio Valente -- Oct 07, 2022
 - [**An Agenda for the Future of Software (Engineering in Brazil)**](https://youtu.be/eujhiejLL7c), Prof. Silvio Meira
 - [Gestão por competências](https://pt.wikipedia.org/wiki/Gestão_por_competências), Wikipedia
 - [Desenvolvendo Software](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki), wiki da matéria de Engenharia de Software UnB 2018, ministrada pela [profa. Claudia Melo](http://claudiamelo.org/).
