@@ -110,6 +110,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://bit.ly/377KkUQ), by Idris Olubisi -- Feb 05, 2021
 - [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/), by Mark Richards & Neal Ford, O′Reilly; Illustrated edição (7 fevereiro 2020).
 - [Monolitos com Roberta Arcoverde | #HipstersPontoTube](https://www.youtube.com/watch?v=byhpaDuOC2w): O que são monolitos? O que é o oposto de monolito? Monolitos são um pacote de deploy em uma única aplicação e o oposto, são suas dependências. De uma forma ou de outra, raramente uma aplicação está contida por completo. E esse é o bate papo deste #HipstersPontoTube entre Paulo Silveira e Roberta Arcoverde -- Apr 13, 2022
+- [Entendendo de uma vez por todas o princípio de Liskov](https://youtu.be/tIcfvP9jf9k), by [Maurício Aniche](https://twitter.com/mauricioaniche) -- 6 de out. de 2022
 
 ## Cloud Computing
 
