@@ -6,6 +6,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ## Carreira
 
+- [Por onde começar?](https://github.com/leticiadasilva/por-onde-comecar), União de materiais totalmente gratuitos para ajudar quem desejar entrar em alguma área, aprender uma nova tecnologia ou aprimorar suas skills.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university), este repositório apresenta um plano completo de estudo de ciência da computação para se tornar um engenheiro de software. Este repositório o levará do nível básico aos conceitos avançados de maneira sistemática.
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook), este repositório possui conteúdo prático que abrange todas as fases de uma entrevista técnica, desde a candidatura a uma vaga até a aprovação nas entrevistas.
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms), este repositório contém exemplos baseados em JavaScript de muitos algoritmos e estruturas de dados populares. 
