@@ -22,4 +22,4 @@
 | 2019.2 | [1o EE](https://github.com/vinicius3w/IF977/blob/master/exams/if977-2019-2-Prova1.pdf) | [2o EE](https://github.com/vinicius3w/IF977/blob/master/exams/if977-2019-2-Prova2.pdf) | [EE Final](https://github.com/IF977/if977/blob/master/exams/if977-2019-2-Prova3-Final.pdf) / [2a Chamada](https://github.com/IF977/if977/blob/master/exams/if977-2019-2-Prova3-2aChamada.pdf) |
 | 2020.3 | ~1o EE~ | ~2o EE~ | [EE Final](https://github.com/IF977/if977/blob/master/exams/if977-2020-3-Prova3-Final.pdf) / ~2a Chamada~ |
 | 2020.1 | ~1o EE~ | ~2o EE~ | [EE Final](https://github.com/IF977/if977/blob/master/exams/if977-2020-1-Prova3-Final.pdf) / ~2a Chamada~ |
-| 2022.2 | [1o EE](https://github.com/IF977/if977/blob/master/exams/if977-2022-2-Prova1.pdf) | ~2o EE~ | EE Final / 2a Chamada |
+| 2022.2 | [1o EE](https://github.com/IF977/if977/blob/master/exams/if977-2022-2-Prova1.pdf) - [Respostas](https://github.com/IF977/if977/blob/master/exams/if977-2022-2-Prova1-espelho-respostas.pdf) | ~2o EE~ | EE Final / 2a Chamada |
