@@ -33,7 +33,7 @@ Centro de Informática, horários: segunda (18:50-20:30) e quarta (17:00-18:40),
 ### Comunicação
 
 * Para facilitar a comunicação via e-mail no âmbito da disciplina, utilizem [if977] como parte do assunto do email.
-* _[OBRIGATÓRIO]_ Temos um canal no Slack para uma comunicação mais dinâmica: [Discord](https://discord.com/) (para entrar, entre em contato com o professor).
+* _[OBRIGATÓRIO]_ Temos um canal no [Discord](https://discord.com/) para uma comunicação mais dinâmica (para entrar, entre em contato com o professor).
 
 ### Edições anteriores
 
