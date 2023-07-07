@@ -11,7 +11,7 @@ Para quem tiver curiosidade, a história dessa cadeira é, resumidamente, contad
 * **[A biblioteca do Desenvolvedor de Software dos dias de hoje](http://viniciusgarcia.me/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)**
 * **[Ensinando Engenharia de Software na Prática, Parte I](http://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-i/)**
 * [**Ensinando Engenharia de Software na Prática, Parte II**](http://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-ii/)
-* **[Ensinando Engenharia de Software na Prática, Parte IIIV](https://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-iii/)**
+* **[Ensinando Engenharia de Software na Prática, Parte III](https://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-iii/)**
 * **[Ensinando Engenharia de Software na Prática, Parte IV](https://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-iv/)**
 * **[Ensinando Engenharia de Software na Prática, Parte V](https://viniciusgarcia.me/education/ensinando-engenharia-de-software-na-pratica-parte-v/)**
 * [**Qual é o impacto da ES no mercado de Computação e na sociedade como um todo**](https://drive.google.com/file/d/0Bxt1VZoj3lGuazhWM19CenlucUU/view?usp=sharing). Computação Brasil, Revista da Sociedade Brasileira de Computação, número 28 de Março de 2015.
