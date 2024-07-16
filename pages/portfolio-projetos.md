@@ -24,7 +24,7 @@ Ao longo dos semestres, desde 2012, diversos times trabalharam nos mais variados
 - **Fute app**. O projeto tem como objetivo a ideação e desenvolvimento de um produto que facilite a organização de peladas de futebol. [Github Back](https://github.com/lucanevess87/fute-api) & [Github Front](https://github.com/lucanevess87/fute-app).
 - **QuickParking**. Um sistema de gerenciamento de vagas de estacionamento. [Github](https://github.com/itsmelg8/QuickParking/tree/feature/startProject).
 
-# 2022.2
+## 2022.2
 
 - **Budget**. Um aplicativo com foco em finanças pessoais, onde temos como objetivo ter uma interface amigável a todos os públicos com intuito de organizar seus ganhos e gastos e proporcionar dicas financeiras, baseado em seu perfil. [Github](https://github.com/jgabrielsn/Projeto-de-Engenharia-de-Software).
 - **IVH Inventário**. Sistema que agregasse algum valor à sociedade e que fosse, de fato, utilizado. Nessa linha, optamos por desenvolver um sistema que auxiliasse a gestão da ONG Instituto Vitória Humana. [Github](https://github.com/ismaelbenjamim/projeto-engenharia-de-software).
