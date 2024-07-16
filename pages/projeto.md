@@ -6,7 +6,7 @@ Os alunos deverão desenvolver um projeto em equipes de no máximo seis componen
 
 - Eleonora Borgia, [**The Internet of Things vision: Key features, applications and open issues**](http://www.sciencedirect.com/science/article/pii/S0140366414003168), Computer Communications, Volume 54, 1 December 2014, Pages 1-31, ISSN 0140-3664, <http://dx.doi.org/10.1016/j.comcom.2014.09.008>.
 
-Maiores informações sobre projetos passados podem ser acessadas neste link: <https://github.com/IF977/>.
+Maiores informações sobre projetos passados podem ser acessadas neste link: [Portfólio de Projetos](/pages/portfolio-projetos.md).
 
 Esta [**excelente publicação**](https://miter.mit.edu/the-unexotic-underclass/) resume por quê foi escolhido estimular, preferencialmente, o trabalho com organizações sem fins lucrativos.
 
