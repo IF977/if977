@@ -24,7 +24,7 @@
 | 2020.1 | ~~1o EE~~ | ~~2o EE~~ | ~~3o EE~~ | [EE Final](https://github.com/IF977/if977/blob/master/exams/if977-2020-1-Prova3-Final.pdf) / ~~2a Chamada~~ |
 | 2020.2 | ~~1o EE~~ | ~~2o EE~~ | ~~3o EE~~ | ~~EE Final~~ / ~~2a Chamada~~ |
 | 2021.1 | ~~1o EE~~ | ~~2o EE~~ | ~~3o EE~~ | ~~EE Final~~ / ~~2a Chamada~~ |
-| 2021.2 | ~~1o EE~~ | ~~2o EE~~ | ~~3o EE~~ | [EE Final](https://github.com/IF977/if977/blob/master/exams/if977-201-2-Prova3-Final.pdf) / ~~2a Chamada~~ |
+| 2021.2 | ~~1o EE~~ | ~~2o EE~~ | ~~3o EE~~ | [EE Final](https://github.com/IF977/if977/blob/master/exams/if977-2021-2-Prova3-Final.pdf) / ~~2a Chamada~~ |
 | 2022.1 | ~~1o EE~~ | ~~2o EE~~ | ~~3o EE~~ | ~~EE Final~~ / ~~2a Chamada~~ |
 | 2022.2 | [1o EE](https://github.com/IF977/if977/blob/master/exams/if977-2022-2-Prova1.pdf) - [Respostas](https://github.com/IF977/if977/blob/master/exams/if977-2022-2-Prova1-espelho-respostas.pdf) | ~2o EE~ | ~~3o EE~~ | [EE Final](https://github.com/IF977/if977/blob/master/exams/if977-2022-2-ProvaFinal.pdf) / [2a Chamada](https://github.com/IF977/if977/blob/master/exams/if977-2022-2-Prova2a-Chamada.pdf) |
 | 2023.1 | [1o EE](https://github.com/IF977/if977/blob/master/exams/if977-2023-1-Prova1.pdf) | [2o EE](https://github.com/IF977/if977/blob/master/exams/if977-2023-1-Prova2.pdf) | [3o EE](https://github.com/IF977/if977/blob/master/exams/if977-2023-1-Prova3.pdf) | EE Final / 2a Chamada |
