@@ -56,7 +56,7 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 - [A gentle introduction to Git and GitHub — the ELI5 way](https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
 - [Top 5 Free Courses to Learn Git and Github — Best of Lot](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
 - [Rails with Git and GitHub](http://railsapps.github.io/rails-git.html), by Daniel Kehoe
-- [Try Git](https://www.codeschool.com/courses/try-git), Codeschool
+- [Git Playground](https://coddy.tech/playground/pt/git), Coddy
 - [Git for Beginners](http://www.sitepoint.com/git-for-beginners/)
 - [Git 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 - [Curso básico de Git ](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
@@ -252,9 +252,8 @@ Recursos adicionais, e grátis, aos conteúdos e ferramentas utilizados.
 
 ### Ruby on Rails
 
-- [Try Ruby](http://www.tryruby.org/), para nível Básico a Iniciante
+- [Try Ruby](https://try.ruby-lang.org/), para nível Básico a Iniciante
 - [RubyMonk](http://rubymonk.com/), para nível Iniciante a Intermediário
-- [Ruby Bits](https://www.codeschool.com/courses/ruby-bits) ([Code School](https://www.codeschool.com/courses/ruby-bits)) - começa free depois pago, pata nível Iniciante a Intermediário
 - [Rubykoans](http://rubykoans.com/), para nível Intermediário a Avançado 
 - [Ruby style guide](https://github.com/styleguide/ruby)
 - [Ruby cheat sheet](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
